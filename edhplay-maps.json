@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-09-30.1",
+  "revision": "2026-09-30.3",
   "decks": {
     "136585d1-64f8-4c01-b0f9-c07b747cde36": {
       "name": "Yurlok",
@@ -87,7 +87,9 @@
         "2/9/294c5f08-08e7-458f-8838-ff321dc5d9f2.jpg?1783921286": "https://pelletti.github.io/proxycomunanerd.github.io/Garna.png",
         "2/a/2a844b96-6616-4c39-8f4f-5d14a3b2bd55.jpg?1785981666": "https://pelletti.github.io/proxycomunanerd.github.io/Montanha.png",
         "b/7/b7387103-1df1-4fd0-9e91-1544509792c7.jpg?1785981659": "https://pelletti.github.io/proxycomunanerd.github.io/Pantano.png",
-        "e/c/ec1f1041-f667-4b73-b1f2-e5bcae84095e.jpg?1783932544": "https://pelletti.github.io/proxycomunanerd.github.io/Command%20Tower.png"
+        "e/c/ec1f1041-f667-4b73-b1f2-e5bcae84095e.jpg?1783932544": "https://pelletti.github.io/proxycomunanerd.github.io/Command%20Tower.png",
+        "2/2/22a77543-749a-49d8-96f4-3458ae5dcd38.jpg?1783931992": "https://pelletti.github.io/proxycomunanerd.github.io/Carrion%20Feeder.png",
+        "f/5/f511830b-1c1f-4d30-aa5d-4314726d142e.jpg?1783903780": "https://pelletti.github.io/proxycomunanerd.github.io/Viscera%20Seer.png"
       }
     }
   }
