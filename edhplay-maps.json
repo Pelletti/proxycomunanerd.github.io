@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-09-30.3",
+  "revision": "2026-10-01.1",
   "decks": {
     "136585d1-64f8-4c01-b0f9-c07b747cde36": {
       "name": "Yurlok",
@@ -32,20 +32,21 @@
         "7/c/7cc4d5d1-4471-43b0-877a-b3af0b8d67c6.jpg?1783902822": "https://pelletti.github.io/proxycomunanerd.github.io/Floresta.png",
         "8/2/825f509c-272e-4c91-a139-da3c67bd6b33.jpg?1783909657": "https://pelletti.github.io/proxycomunanerd.github.io/Barbflare%20Gremlin.png",
         "8/4/847ae75b-1c0f-4d0a-9933-9a302c88dc27.jpg?1783929358": "https://pelletti.github.io/proxycomunanerd.github.io/Leyline%20Tyrant.png",
-        "8/5/851c0167-04ba-4d15-b0fa-c211bd8826f1.jpg?1783914204": "https://pelletti.github.io/proxycomunanerd.github.io/Yurloks%20Acute%20Cunning%20(Legolas%20Quick%20Reflexes).png",
+        "8/5/851c0167-04ba-4d15-b0fa-c211bd8826f1.jpg?1783914204": "https://pelletti.github.io/proxycomunanerd.github.io/Yurloks%20Acute%20Cunning%20%28Legolas%20Quick%20Reflexes%29.png",
         "8/9/8936bf9d-c973-4bce-b5c2-2a01b7953638.jpg?1783936487": "https://pelletti.github.io/proxycomunanerd.github.io/Harsh%20Mentor.png",
         "8/9/8995ceaf-b7e0-423c-8f3e-25212d522502.jpg?1783910815": "https://pelletti.github.io/proxycomunanerd.github.io/Sunspine%20Lynx.png",
         "8/f/8f5a620c-fde7-4b72-bf8a-efc4f14560c5.jpg?1783936743": "https://pelletti.github.io/proxycomunanerd.github.io/Heroic%20Intervention.png",
         "9/3/93434305-9f80-4d76-9c3c-001264cef10b.jpg?1783931767": "https://pelletti.github.io/proxycomunanerd.github.io/Sakura%20Tribe%20Eldar.png",
         "9/4/9436cf62-56d6-4662-9982-72e9be80d25c.jpg?1783913756": "https://pelletti.github.io/proxycomunanerd.github.io/Scythclaw%20Raptor.png",
+        "9/9/99e0c371-1024-4432-9fd9-3bc29c8d38e4.jpg?1783912996": "https://pelletti.github.io/proxycomunanerd.github.io/Jeskas%20Will.png",
         "9/e/9e85f2ce-1910-41fa-9908-bdb14da123bb.jpg?1783932016": "https://pelletti.github.io/proxycomunanerd.github.io/Fog.png",
         "a/7/a73d1cb0-d0dc-4f2a-9cf2-954d5889dd08.jpg?1783922664": "https://pelletti.github.io/proxycomunanerd.github.io/Rug%20of%20Smothering.png",
         "a/9/a92582ef-3305-45f9-ba8d-e22ce5381fe8.jpg?1783906708": "https://pelletti.github.io/proxycomunanerd.github.io/Beast%20Within.png",
         "a/9/a98b1550-4609-4a2f-9371-4afe1cdc613e.jpg?1783904923": "https://pelletti.github.io/proxycomunanerd.github.io/Ozai.png",
         "a/c/acf0cab3-da50-4561-8797-cd179af39216.jpg?1783915624": "https://pelletti.github.io/proxycomunanerd.github.io/Omnath%20Locus%20of%20Mana.png",
-        "a/f/af609bad-083f-42e4-a102-7a0da8e7a85f.jpg?1789415886": "https://pelletti.github.io/proxycomunanerd.github.io/Command%20Tower.png",
         "b/4/b4427e73-8c60-490d-8ae3-53e872a5163e.jpg?1783928776": "https://pelletti.github.io/proxycomunanerd.github.io/Belbe.png",
         "b/4/b4b36435-55b3-4615-8812-af41d4fc64d9.jpg?1783915656": "https://pelletti.github.io/proxycomunanerd.github.io/Deflecting%20Swat%20Yurlok.png",
+        "back/6/0/609d3ecf-f88d-4268-a8d3-4bf2bcf5df60.jpg?1783929378": "https://pelletti.github.io/proxycomunanerd.github.io/Malakir%20Rebirth%20Back.png",
         "c/3/c3a0c7f3-7fb9-43de-a9af-96532c31e5ed.jpg?1783918023": "https://pelletti.github.io/proxycomunanerd.github.io/Solphim.png",
         "c/e/ce050d13-7897-4889-a514-a7617a1ed686.jpg?1783918423": "https://pelletti.github.io/proxycomunanerd.github.io/Xira%20Arien.png",
         "d/6/d672cfad-e656-47f8-bf93-64f262aff33e.jpg?1783905338": "https://pelletti.github.io/proxycomunanerd.github.io/Electro.png",
@@ -58,9 +59,8 @@
         "f/1/f1882783-7284-490f-a0de-df9eb11f6ea5.jpg?1783931783": "https://pelletti.github.io/proxycomunanerd.github.io/Zhur-Taa%20Druid.png",
         "f/6/f69d77d1-5980-436c-bf48-790939b069aa.jpg?1783936036": "https://pelletti.github.io/proxycomunanerd.github.io/Torment%20of%20Hailfire.png",
         "f/f/ffb190db-48fc-4c39-ae9f-5e304eabb4f4.jpg?1783944291": "https://pelletti.github.io/proxycomunanerd.github.io/Dosan%20the%20Falling%20Leaf.png",
-        "9/9/99e0c371-1024-4432-9fd9-3bc29c8d38e4.jpg?1783912996": "https://pelletti.github.io/proxycomunanerd.github.io/Jeskas%20Will.png",
         "front/6/0/609d3ecf-f88d-4268-a8d3-4bf2bcf5df60.jpg?1783929378": "https://pelletti.github.io/proxycomunanerd.github.io/Malakir%20Rebirth%20Front.png",
-        "back/6/0/609d3ecf-f88d-4268-a8d3-4bf2bcf5df60.jpg?1783929378": "https://pelletti.github.io/proxycomunanerd.github.io/Malakir%20Rebirth%20Back.png"
+        "front/a/f/af609bad-083f-42e4-a102-7a0da8e7a85f.jpg?1789415886": "https://pelletti.github.io/proxycomunanerd.github.io/Command%20Tower.png"
       }
     },
     "a499bb6e-19b5-4de0-af64-1be85152033d": {
@@ -75,21 +75,46 @@
       ],
       "replacements": {
         "1/d/1dcccbcf-9dea-4fab-b296-d382c60dd6c7.jpg?1783902830": "https://pelletti.github.io/proxycomunanerd.github.io/Ares%20God%20of%20War.png",
-        "a/9/a93e3406-4e29-4bc0-ae52-cbd2ac1f99a4.jpg?1783909093": "https://pelletti.github.io/proxycomunanerd.github.io/Alesha%20Who%20Laughs%20at%20Fate.png",
-        "3/4/340b9004-e05e-4590-a200-b62bd77d1007.jpg?1783932130": "https://pelletti.github.io/proxycomunanerd.github.io/Anger.png",
-        "7/3/73b64c17-8a52-4d9d-a28b-7e0e945be059.jpg?1783923871": "https://pelletti.github.io/proxycomunanerd.github.io/Atsushi.png",
-        "5/f/5f27dbf0-6818-40ea-832d-10686b4c2900.jpg?1783908925": "https://pelletti.github.io/proxycomunanerd.github.io/Ball%20Lightning.png",
-        "e/0/e0ddcf4a-1943-49dd-a02c-75804ce4bc3e.jpg?1783945058": "https://pelletti.github.io/proxycomunanerd.github.io/Blistering%20Firecat.png",
-        "4/5/45b6d1f8-a470-4471-bd4f-bed31cb4d344.jpg?1787680996": "https://pelletti.github.io/proxycomunanerd.github.io/Blood%20Artist.png",
-        "9/7/9721f8da-39ed-4ada-a571-61e08a86032b.jpg?1783913908": "https://pelletti.github.io/proxycomunanerd.github.io/Broadside%20Bombardiers.png",
+        "2/2/22a77543-749a-49d8-96f4-3458ae5dcd38.jpg?1783931992": "https://pelletti.github.io/proxycomunanerd.github.io/Carrion%20Feeder.png",
         "2/8/28b63c3d-2e55-4343-b49a-11fa602ec473.jpg?1783936491": "https://pelletti.github.io/proxycomunanerd.github.io/Combat%20Celebrant.png",
-        "f/4/f46ac55f-d68e-4d5d-af0a-3879f97f705e.jpg?1783909470": "https://pelletti.github.io/proxycomunanerd.github.io/Enduring%20Courage.png",
         "2/9/294c5f08-08e7-458f-8838-ff321dc5d9f2.jpg?1783921286": "https://pelletti.github.io/proxycomunanerd.github.io/Garna.png",
         "2/a/2a844b96-6616-4c39-8f4f-5d14a3b2bd55.jpg?1785981666": "https://pelletti.github.io/proxycomunanerd.github.io/Montanha.png",
+        "3/1/31276460-fa9d-47da-85c5-c4baa8074d0d.jpg?1783907372": "https://pelletti.github.io/proxycomunanerd.github.io/Rot-Curse%20Rukshasa.png",
+        "3/4/340b9004-e05e-4590-a200-b62bd77d1007.jpg?1783932130": "https://pelletti.github.io/proxycomunanerd.github.io/Anger.png",
+        "4/5/45b6d1f8-a470-4471-bd4f-bed31cb4d344.jpg?1787680996": "https://pelletti.github.io/proxycomunanerd.github.io/Blood%20Artist.png",
+        "5/f/5f27dbf0-6818-40ea-832d-10686b4c2900.jpg?1783908925": "https://pelletti.github.io/proxycomunanerd.github.io/Ball%20Lightning.png",
+        "7/3/73b64c17-8a52-4d9d-a28b-7e0e945be059.jpg?1783923871": "https://pelletti.github.io/proxycomunanerd.github.io/Atsushi.png",
+        "9/7/9721f8da-39ed-4ada-a571-61e08a86032b.jpg?1783913908": "https://pelletti.github.io/proxycomunanerd.github.io/Broadside%20Bombardiers.png",
+        "a/9/a93e3406-4e29-4bc0-ae52-cbd2ac1f99a4.jpg?1783909093": "https://pelletti.github.io/proxycomunanerd.github.io/Alesha%20Who%20Laughs%20at%20Fate.png",
         "b/7/b7387103-1df1-4fd0-9e91-1544509792c7.jpg?1785981659": "https://pelletti.github.io/proxycomunanerd.github.io/Pantano.png",
+        "e/0/e0ddcf4a-1943-49dd-a02c-75804ce4bc3e.jpg?1783945058": "https://pelletti.github.io/proxycomunanerd.github.io/Blistering%20Firecat.png",
         "e/c/ec1f1041-f667-4b73-b1f2-e5bcae84095e.jpg?1783932544": "https://pelletti.github.io/proxycomunanerd.github.io/Command%20Tower.png",
-        "2/2/22a77543-749a-49d8-96f4-3458ae5dcd38.jpg?1783931992": "https://pelletti.github.io/proxycomunanerd.github.io/Carrion%20Feeder.png",
+        "f/4/f46ac55f-d68e-4d5d-af0a-3879f97f705e.jpg?1783909470": "https://pelletti.github.io/proxycomunanerd.github.io/Enduring%20Courage.png",
         "f/5/f511830b-1c1f-4d30-aa5d-4314726d142e.jpg?1783903780": "https://pelletti.github.io/proxycomunanerd.github.io/Viscera%20Seer.png"
+      }
+    },
+    "9d94ad21-39fa-4a0a-b1eb-22d00a1134af": {
+      "name": "Vial and Krark",
+      "commanders": [
+        {
+          "name": "Krark, the Thumbless",
+          "keys": [
+            "2/4/24614006-d99f-44b6-8ec1-29b48a1713d0.jpg?1783924614"
+          ]
+        },
+        {
+          "name": "Vial Smasher the Fierce",
+          "keys": [
+            "c/c/cc7be939-2202-40fe-8899-a05682d76190.jpg?1783909586"
+          ]
+        }
+      ],
+      "replacements": {
+        "2/4/24614006-d99f-44b6-8ec1-29b48a1713d0.jpg?1783924614": "https://pelletti.github.io/proxycomunanerd.github.io/Krark.png",
+        "2/a/2a844b96-6616-4c39-8f4f-5d14a3b2bd55.jpg?1785981666": "https://pelletti.github.io/proxycomunanerd.github.io/Montanha.png",
+        "b/7/b7387103-1df1-4fd0-9e91-1544509792c7.jpg?1785981659": "https://pelletti.github.io/proxycomunanerd.github.io/Pantano.png",
+        "c/c/cc7be939-2202-40fe-8899-a05682d76190.jpg?1783909586": "https://pelletti.github.io/proxycomunanerd.github.io/Vial_Smasher.png",
+        "e/c/ec1f1041-f667-4b73-b1f2-e5bcae84095e.jpg?1783932544": "https://pelletti.github.io/proxycomunanerd.github.io/Command%20Tower.png"
       }
     }
   }
