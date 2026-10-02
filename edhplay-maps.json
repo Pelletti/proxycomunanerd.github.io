@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-10-01.1",
+  "revision": "2026-10-02.1",
   "decks": {
     "136585d1-64f8-4c01-b0f9-c07b747cde36": {
       "name": "Yurlok",
@@ -112,9 +112,19 @@
       "replacements": {
         "2/4/24614006-d99f-44b6-8ec1-29b48a1713d0.jpg?1783924614": "https://pelletti.github.io/proxycomunanerd.github.io/Krark.png",
         "2/a/2a844b96-6616-4c39-8f4f-5d14a3b2bd55.jpg?1785981666": "https://pelletti.github.io/proxycomunanerd.github.io/Montanha.png",
+        "4/0/40e2f3a3-7f5f-4ddf-aadb-9ddfe0a9197c.jpg?1783935531": "https://pelletti.github.io/proxycomunanerd.github.io/Diabos%20e%20Magia%20Azul%20em%20Ru%C3%ADnas.png",
+        "5/5/552730c5-e3a6-468f-91b2-82c272dda400.jpg?1783916288": "https://pelletti.github.io/proxycomunanerd.github.io/Erebor%20Flamesmith%20na%20Forja%20Dourada.png",
+        "6/3/63a565e3-d7a8-469d-898f-49fef634c107.jpg?1783903818": "https://pelletti.github.io/proxycomunanerd.github.io/Prod%C3%ADgio%20Harm%C3%B4nico%20em%20Chamas.png",
+        "7/0/7096c9a6-2e73-41f8-b20a-b29a9f0b760c.jpg?1783934165": "https://pelletti.github.io/proxycomunanerd.github.io/Campo%20Eletrost%C3%A1tico%20Goblin.png",
+        "7/8/78a5d49a-747e-4ec8-a20a-ca917c315774.jpg?1783944517": "https://pelletti.github.io/proxycomunanerd.github.io/Polegar%20de%20Krark%20no%20Tesouro%20Goblin.png",
         "b/7/b7387103-1df1-4fd0-9e91-1544509792c7.jpg?1785981659": "https://pelletti.github.io/proxycomunanerd.github.io/Pantano.png",
+        "b/b/bbc0f3e7-a287-4624-8266-ca617448fcaa.jpg?1783934550": "https://pelletti.github.io/proxycomunanerd.github.io/Goblin%20Ca%C3%B3tico%20no%20Ferro-Velho.png",
+        "back/4/4/44657ab1-0a6a-4a5f-9688-86f239083821.jpg?1783928241": "https://pelletti.github.io/proxycomunanerd.github.io/Harnfel%2C%20Chifre%20da%20Abund%C3%A2ncia%20em%20Chamas.png",
+        "c/2/c2ad8536-15f6-42c1-8521-dc37feee8e67.jpg?1783927268": "https://pelletti.github.io/proxycomunanerd.github.io/Professora%20Onyx%20e%20a%20M%C3%A3o%20Espectral.png",
         "c/c/cc7be939-2202-40fe-8899-a05682d76190.jpg?1783909586": "https://pelletti.github.io/proxycomunanerd.github.io/Vial_Smasher.png",
-        "e/c/ec1f1041-f667-4b73-b1f2-e5bcae84095e.jpg?1783932544": "https://pelletti.github.io/proxycomunanerd.github.io/Command%20Tower.png"
+        "e/a/ea4814b8-9aea-4e44-aec1-d585473f5d1c.jpg?1783930167": "https://pelletti.github.io/proxycomunanerd.github.io/Mago%20Duplicador%20entre%20Chamas.png",
+        "e/c/ec1f1041-f667-4b73-b1f2-e5bcae84095e.jpg?1783932544": "https://pelletti.github.io/proxycomunanerd.github.io/Command%20Tower.png",
+        "front/4/4/44657ab1-0a6a-4a5f-9688-86f239083821.jpg?1783928241": "https://pelletti.github.io/proxycomunanerd.github.io/Birgi%20e%20o%20Drag%C3%A3o%20das%20Hist%C3%B3rias.png"
       }
     }
   }
