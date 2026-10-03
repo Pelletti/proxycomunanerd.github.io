@@ -1,0 +1,603 @@
+{
+  "Abzan Charm": {},
+  "Alesha, Who Laughs at Fate": {
+    "file": "Alesha Who Laughs at Fate.png",
+    "key": "a/9/a93e3406-4e29-4bc0-ae52-cbd2ac1f99a4.jpg?1783909093",
+    "collection": "Ares"
+  },
+  "Anger": {
+    "file": "Anger.png",
+    "key": "3/4/340b9004-e05e-4590-a200-b62bd77d1007.jpg?1783932130",
+    "collection": "Ares"
+  },
+  "Aragorn, the Uniter": {
+    "file": "Aragorn Uniter.png",
+    "key": "e/9/e98d5321-ec09-456c-a9ea-c8ca2cfc6205.jpg?1783916262"
+  },
+  "Ares, God of War": {
+    "file": "Ares God of War.png",
+    "key": "1/d/1dcccbcf-9dea-4fab-b296-d382c60dd6c7.jpg?1783902830",
+    "collection": "Ares"
+  },
+  "Ashnod's Altar": {
+    "file": "Altar Goblin.png",
+    "key": "3/c/3c0f7157-a375-499c-92c7-d47d2e95dbad.jpg?1783915605",
+    "collection": "Grenzo",
+    "alternatives": [
+      {
+        "file": "Goblin (98).png",
+        "collection": "Grenzo",
+        "key_status": "missing_edhplay_key"
+      }
+    ]
+  },
+  "Assassin's Trophy": {
+    "file": "Assassins Trophy Yurlok.png",
+    "key": "e/d/ed6c7d29-71b4-4134-b591-5598f479d592.jpg?1783912858",
+    "collection": "Yurlok"
+  },
+  "Atraxa, Grand Unifier": {
+    "file": "Atraxa Unifier.png",
+    "key": "4/a/4a1f905f-1d55-4d02-9d24-e58070793d3f.jpg?1783918003"
+  },
+  "Atraxa, Praetors' Voice": {
+    "file": "Atraxa Praetor.png",
+    "key": "d/0/d0d33d52-3d28-4635-b985-51e126289259.jpg?1783930136"
+  },
+  "Atsushi, the Blazing Sky": {
+    "file": "Atsushi.png",
+    "key": "7/3/73b64c17-8a52-4d9d-a28b-7e0e945be059.jpg?1783923871",
+    "collection": "Ares"
+  },
+  "Ball Lightning": {
+    "file": "Ball Lightning.png",
+    "key": "5/f/5f27dbf0-6818-40ea-832d-10686b4c2900.jpg?1783908925",
+    "collection": "Ares"
+  },
+  "Barbflare Gremlin": {
+    "file": "Barbflare Gremlin.png",
+    "key": "8/2/825f509c-272e-4c91-a139-da3c67bd6b33.jpg?1783909657",
+    "collection": "Yurlok"
+  },
+  "Barkform Harvester": {
+    "file": "Shapeshifter Goblin.png",
+    "key": "f/7/f77049a6-0f22-415b-bc89-20bcb32accf6.jpg?1783910787",
+    "key_status": "unconfirmed_edhplay",
+    "collection": "Grenzo",
+    "duplicate_files": [
+      "Goblin (99).png"
+    ]
+  },
+  "Beast Within": {
+    "file": "Beast Within.png",
+    "key": "a/9/a92582ef-3305-45f9-ba8d-e22ce5381fe8.jpg?1783906708",
+    "collection": "Yurlok"
+  },
+  "Belbe, Corrupted Observer": {
+    "file": "Belbe.png",
+    "key": "b/4/b4427e73-8c60-490d-8ae3-53e872a5163e.jpg?1783928776",
+    "collection": "Yurlok"
+  },
+  "Birds of Paradise": {
+    "file": "BOP Pokemon.png",
+    "key": "3/f/3ffe931c-9f19-4ea5-bc24-041eb00a5862.jpg?1787680740",
+    "collection": "Pokemon"
+  },
+  "Birgi, God of Storytelling // Harnfel, Horn of Bounty": {
+    "front_file": "Birgi e o Dragão das Histórias.png",
+    "back_file": "Harnfel, Chifre da Abundância em Chamas.png",
+    "front_key": "front/4/4/44657ab1-0a6a-4a5f-9688-86f239083821.jpg?1783928241",
+    "back_key": "back/4/4/44657ab1-0a6a-4a5f-9688-86f239083821.jpg?1783928241",
+    "collection": "Vial and Krark",
+    "identified_by": "printed_title"
+  },
+  "Blistering Firecat": {
+    "file": "Blistering Firecat.png",
+    "key": "e/0/e0ddcf4a-1943-49dd-a02c-75804ce4bc3e.jpg?1783945058",
+    "collection": "Ares"
+  },
+  "Blood Artist": {
+    "file": "Blood Artist.png",
+    "key": "4/5/45b6d1f8-a470-4471-bd4f-bed31cb4d344.jpg?1787680996",
+    "collection": "Ares"
+  },
+  "Bloom Tender": {
+    "file": "Bloom Tender Pokemon.png",
+    "key": "b/a/ba86688d-18f0-4b5c-a797-42bf125a6c9f.jpg?1783904436",
+    "collection": "Pokemon"
+  },
+  "Broadside Bombardiers": {
+    "file": "Broadside Bombardiers.png",
+    "key": "9/7/9721f8da-39ed-4ada-a571-61e08a86032b.jpg?1783913908",
+    "collection": "Ares"
+  },
+  "Buried Alive": {
+    "file": "ChatGPT Image 5 de set. de 2026, 20_38_25.png",
+    "key": "7/6/76878b19-2916-4f3f-bee5-20846bc9e2db.jpg?1783911216",
+    "collection": "Grenzo",
+    "key_status": "unconfirmed_edhplay",
+    "identified_by": "printed_title"
+  },
+  "Carrion Feeder": {
+    "file": "Carrion Feeder.png",
+    "key": "2/2/22a77543-749a-49d8-96f4-3458ae5dcd38.jpg?1783931992",
+    "collection": "Ares"
+  },
+  "Charmbreaker Devils": {
+    "file": "Diabos e Magia Azul em Ruínas.png",
+    "key": "4/0/40e2f3a3-7f5f-4ddf-aadb-9ddfe0a9197c.jpg?1783935531",
+    "collection": "Vial and Krark",
+    "identified_by": "printed_title"
+  },
+  "Chromanticore": {
+    "file": "Chromanticore.png",
+    "key": "f/1/f1182463-348b-45b3-a662-68f06ac53699.jpg?1783921415"
+  },
+  "Combat Celebrant": {
+    "file": "Combat Celebrant.png",
+    "key": "2/8/28b63c3d-2e55-4343-b49a-11fa602ec473.jpg?1783936491",
+    "collection": "Ares"
+  },
+  "Comet Storm": {
+    "file": "Comet Storm.png",
+    "key": "1/c/1ccfe45e-c00c-48ec-b520-ccbb63cfbecc.jpg?1783938406",
+    "collection": "Yurlok"
+  },
+  "Command Tower": {
+    "additional_keys": [
+      "a/f/af609bad-083f-42e4-a102-7a0da8e7a85f.jpg?1789415886"
+    ],
+    "file": "Command Tower.png",
+    "key": "e/c/ec1f1041-f667-4b73-b1f2-e5bcae84095e.jpg?1783932544"
+  },
+  "Corpsejack Menace": {
+    "file": "Corpsejack.png",
+    "key": "8/5/85caf05a-035b-47c0-975c-dec76799ffcf.jpg?1783904156"
+  },
+  "Deadly Rollick": {
+    "file": "Deadly Rollick.png",
+    "key": "0/e/0e13f735-54fa-42b6-aea4-ced33811d7d4.jpg?1783915679",
+    "collection": "Yurlok"
+  },
+  "Deflecting Swat": {
+    "file": "Deflecting Swat Yurlok.png",
+    "key": "b/4/b4b36435-55b3-4615-8812-af41d4fc64d9.jpg?1783915656",
+    "collection": "Yurlok"
+  },
+  "Dosan the Falling Leaf": {
+    "file": "Dosan the Falling Leaf.png",
+    "key": "f/f/ffb190db-48fc-4c39-ae9f-5e304eabb4f4.jpg?1783944291",
+    "collection": "Yurlok"
+  },
+  "Dualcaster Mage": {
+    "file": "Mago Duplicador entre Chamas.png",
+    "key": "e/a/ea4814b8-9aea-4e44-aec1-d585473f5d1c.jpg?1783930167",
+    "collection": "Vial and Krark",
+    "identified_by": "printed_title"
+  },
+  "Electro, Assaulting Battery": {
+    "file": "Electro.png",
+    "key": "d/6/d672cfad-e656-47f8-bf93-64f262aff33e.jpg?1783905338",
+    "collection": "Yurlok"
+  },
+  "Electrodominance": {
+    "file": "Electrodominance.png",
+    "key": "5/c/5c63877b-cdab-4ce4-a1c0-c088eb62a57a.jpg?1783933682",
+    "collection": "Yurlok"
+  },
+  "Electrostatic Field": {
+    "file": "Campo Eletrostático Goblin.png",
+    "key": "7/0/7096c9a6-2e73-41f8-b20a-b29a9f0b760c.jpg?1783934165",
+    "collection": "Vial and Krark",
+    "identified_by": "printed_title"
+  },
+  "Enduring Courage": {
+    "file": "Enduring Courage.png",
+    "key": "f/4/f46ac55f-d68e-4d5d-af0a-3879f97f705e.jpg?1783909470",
+    "collection": "Ares"
+  },
+  "Erebor Flamesmith": {
+    "file": "Erebor Flamesmith na Forja Dourada.png",
+    "key": "5/5/552730c5-e3a6-468f-91b2-82c272dda400.jpg?1783916288",
+    "collection": "Vial and Krark",
+    "identified_by": "printed_title"
+  },
+  "Eternal Witness": {
+    "file": "Eternal Witness.png",
+    "key": "3/9/39704000-65d3-4d39-849e-a3b617376bbc.jpg?1783915632",
+    "collection": "Yurlok"
+  },
+  "Exsanguinate": {
+    "file": "Exsanguinate.png",
+    "key": "f/1/f11d7311-4066-4a5d-ba28-9857fa707a0b.jpg?1783909073",
+    "collection": "Yurlok"
+  },
+  "Feed the Swarm": {
+    "file": "ChatGPT Image 5 de set. de 2026, 21_25_03.png",
+    "key": "2/2/2246c098-1071-4cc3-a60a-802406e2827b.jpg?1783904770",
+    "collection": "Grenzo",
+    "key_status": "unconfirmed_edhplay",
+    "identified_by": "printed_title"
+  },
+  "Fire Prophecy": {
+    "file": "ChatGPT Image 5 de set. de 2026, 22_08_49.png",
+    "key": "4/c/4c2029e5-cf7d-461f-b7b9-bf96399d8f49.jpg?1783931051",
+    "collection": "Grenzo",
+    "key_status": "unconfirmed_edhplay",
+    "identified_by": "printed_title"
+  },
+  "Fog": {
+    "file": "Fog.png",
+    "key": "9/e/9e85f2ce-1910-41fa-9908-bdb14da123bb.jpg?1783932016",
+    "collection": "Yurlok"
+  },
+  "Forest": {
+    "additional_keys": [
+      "d/c/dce15387-4114-4b3e-91aa-5b42b45c44ac.jpg?1785981675",
+      "7/c/7cc4d5d1-4471-43b0-877a-b3af0b8d67c6.jpg?1783902822"
+    ],
+    "file": "Floresta.png",
+    "key": "b/5/b548b48c-a004-4f17-90d6-1ef5b9769e38.jpg?1783905574"
+  },
+  "Garna, Bloodfist of Keld": {
+    "file": "Garna.png",
+    "key": "2/9/294c5f08-08e7-458f-8838-ff321dc5d9f2.jpg?1783921286",
+    "collection": "Ares"
+  },
+  "Grenzo, Dungeon Warden": {
+    "file": "Grenzo.png",
+    "key": "6/e/6e19c383-88bd-4bde-ac81-c0eb6d5b5bd4.jpg?1783935118",
+    "key_status": "unconfirmed_edhplay",
+    "collection": "Grenzo",
+    "alternatives": [
+      {
+        "file": "Goblin (97).png",
+        "collection": "Grenzo",
+        "key_status": "missing_edhplay_key"
+      }
+    ]
+  },
+  "Guttersnipe": {
+    "file": "Goblin Caótico no Ferro-Velho.png",
+    "key": "b/b/bbc0f3e7-a287-4624-8266-ca617448fcaa.jpg?1783934550",
+    "collection": "Vial and Krark",
+    "identified_by": "printed_title"
+  },
+  "Harmonic Prodigy": {
+    "file": "Prodígio Harmônico em Chamas.png",
+    "key": "6/3/63a565e3-d7a8-469d-898f-49fef634c107.jpg?1783903818",
+    "collection": "Vial and Krark",
+    "identified_by": "printed_title"
+  },
+  "Harsh Mentor": {
+    "file": "Harsh Mentor.png",
+    "key": "8/9/8936bf9d-c973-4bce-b5c2-2a01b7953638.jpg?1783936487",
+    "collection": "Yurlok"
+  },
+  "Heroic Intervention": {
+    "file": "Heroic Intervention.png",
+    "key": "8/f/8f5a620c-fde7-4b72-bf8a-efc4f14560c5.jpg?1783936743",
+    "collection": "Yurlok"
+  },
+  "Hexing Squelcher": {
+    "file": "Hexing Squelcher.png",
+    "key": "6/7/674960ce-ff33-4d5e-a24a-a4582b2e9809.jpg?1783904442",
+    "collection": "Yurlok",
+    "alternatives": [
+      {
+        "file": "Goblin Alquimista e Fumaça Tóxica.png",
+        "key": "6/7/674960ce-ff33-4d5e-a24a-a4582b2e9809.jpg?1783904442",
+        "collection": "Vial and Krark",
+        "identified_by": "printed_title"
+      }
+    ]
+  },
+  "Ignoble Hierarch": {
+    "file": "Ignoble Hierarch.png",
+    "key": "1/b/1b32b293-59a6-4d65-b8f3-b3ed7f8e39d0.jpg?1783909962",
+    "collection": "Yurlok"
+  },
+  "Island": {
+    "file": "Ilha.png",
+    "key": "f/3/f3cc07cd-cc79-4745-b0b7-eade60175cc3.jpg?1785981645"
+  },
+  "Jaya's Immolating Inferno": {
+    "file": "Jayas Immolating Inferno.png",
+    "key": "4/8/48268bb8-1326-451b-9fae-de6605eb6cfd.jpg?1783934991",
+    "collection": "Yurlok"
+  },
+  "Jeska's Will": {
+    "file": "Jeskas Will.png",
+    "key": "9/9/99e0c371-1024-4432-9fd9-3bc29c8d38e4.jpg?1783912996",
+    "collection": "Yurlok"
+  },
+  "Judith, Carnage Connoisseur": {
+    "file": "Judith, Connoisseuse da Carnificina.png",
+    "key": "3/e/3eaa19ce-cace-499e-8b23-ef9e56b23700.jpg?1783912849",
+    "collection": "Vial and Krark",
+    "identified_by": "printed_title"
+  },
+  "Kaervek the Merciless": {
+    "file": "Kaervek.png",
+    "key": "d/9/d9b8259d-0bfa-4327-ac91-157c0b9e7dfb.jpg?1783921825",
+    "collection": "Yurlok",
+    "alternatives": [
+      {
+        "file": "Kaervek e o Fogo da Taverna.png",
+        "key": "d/9/d9b8259d-0bfa-4327-ac91-157c0b9e7dfb.jpg?1783921825",
+        "collection": "Vial and Krark",
+        "identified_by": "printed_title"
+      }
+    ]
+  },
+  "Kodama's Reach": {
+    "file": "Kodamas Reach.png",
+    "key": "6/5/651b834e-b39c-4833-8b2f-6456ac06062c.jpg?1783906698",
+    "collection": "Yurlok"
+  },
+  "Krark's Thumb": {
+    "file": "Polegar de Krark no Tesouro Goblin.png",
+    "key": "7/8/78a5d49a-747e-4ec8-a20a-ca917c315774.jpg?1783944517",
+    "collection": "Vial and Krark",
+    "identified_by": "printed_title"
+  },
+  "Krark, the Thumbless": {
+    "file": "Krark.png",
+    "key": "2/4/24614006-d99f-44b6-8ec1-29b48a1713d0.jpg?1783924614",
+    "collection": "Vial and Krark"
+  },
+  "Lavalanche": {
+    "file": "Lavalanche.png",
+    "key": "e/9/e903a1d8-2127-4a32-9223-8ff6574c503f.jpg?1783921822",
+    "collection": "Yurlok"
+  },
+  "Legolas's Quick Reflexes": {
+    "file": "Yurloks Acute Cunning (Legolas Quick Reflexes).png",
+    "key": "8/5/851c0167-04ba-4d15-b0fa-c211bd8826f1.jpg?1783914204",
+    "collection": "Yurlok"
+  },
+  "Leyline Tyrant": {
+    "file": "Leyline Tyrant.png",
+    "key": "8/4/847ae75b-1c0f-4d0a-9933-9a302c88dc27.jpg?1783929358",
+    "collection": "Yurlok"
+  },
+  "Magus of the Candelabra": {
+    "file": "Magus of the Candelabra.png",
+    "key": "5/9/593b618e-6882-429b-80f1-ab02ac72cfbc.jpg?1783911368",
+    "collection": "Yurlok"
+  },
+  "Malakir Rebirth": {
+    "front_file": "Malakir Rebirth Front.png",
+    "front_key": "front/6/0/609d3ecf-f88d-4268-a8d3-4bf2bcf5df60.jpg?1783929378",
+    "back_file": "Malakir Rebirth Back.png",
+    "back_key": "back/6/0/609d3ecf-f88d-4268-a8d3-4bf2bcf5df60.jpg?1783929378",
+    "collection": "Yurlok"
+  },
+  "Malakir Rebirth // Malakir Mire": {
+    "front_file": "Malakir Rebirth Front.png",
+    "front_key": "front/6/0/609d3ecf-f88d-4268-a8d3-4bf2bcf5df60.jpg?1783929378",
+    "back_file": "Malakir Rebirth Back.png",
+    "back_key": "back/6/0/609d3ecf-f88d-4268-a8d3-4bf2bcf5df60.jpg?1783929378",
+    "collection": "Yurlok"
+  },
+  "Mogis, God of Slaughter": {
+    "file": "Mogis.png",
+    "key": "5/2/521911e5-9ce5-4d55-bfc4-fbfeba4047fe.jpg?1783909637",
+    "collection": "Yurlok"
+  },
+  "Mountain": {
+    "additional_keys": [
+      "2/a/2a844b96-6616-4c39-8f4f-5d14a3b2bd55.jpg?1785981666",
+      "5/1/51acfb01-4b0b-48fc-9704-a9b4a1e43a23.jpg?1783902782"
+    ],
+    "file": "Montanha.png",
+    "key": "a/a/aac1b0e2-d164-4c98-ab9b-57fbbc95ea0e.jpg?1783905575"
+  },
+  "Nicol Bolas, Dragon-God": {
+    "file": "Darth Nihilus.png",
+    "key": "c/5/c5408607-af8f-48fe-bc40-32828d1976de.jpg?1783913282",
+    "key_status": "unconfirmed_edhplay",
+    "collection": "Star Wars"
+  },
+  "Nicol Bolas, the Ravager": {
+    "back_file": "Darth Vader.png",
+    "back_key": "back/7/b/7b215968-93a6-4278-ac61-4e3e8c3c3943.jpg?1783934524",
+    "front_file": "Anakin.png",
+    "front_key": "front/7/b/7b215968-93a6-4278-ac61-4e3e8c3c3943.jpg?1783934524",
+    "collection": "Star Wars"
+  },
+  "Omnath, Locus of All": {
+    "file": "Omnath Locus All.png",
+    "key": "3/3/33d94ecf-758b-4f68-a7be-6bf3ff1047f4.jpg?1783916940"
+  },
+  "Omnath, Locus of Mana": {
+    "file": "Omnath Locus of Mana.png",
+    "key": "a/c/acf0cab3-da50-4561-8797-cd179af39216.jpg?1783915624",
+    "collection": "Yurlok"
+  },
+  "Ozai, the Phoenix King": {
+    "file": "Ozai.png",
+    "key": "a/9/a98b1550-4609-4a2f-9371-4afe1cdc613e.jpg?1783904923",
+    "collection": "Yurlok"
+  },
+  "Patriarch's Bidding": {
+    "file": "ChatGPT Image 5 de set. de 2026, 20_47_22.png",
+    "key": "3/1/317686d8-b762-4598-b74a-8b1fa6b899ba.jpg?1783926786",
+    "collection": "Grenzo",
+    "key_status": "unconfirmed_edhplay",
+    "identified_by": "printed_title"
+  },
+  "Pinnacle Monk // Mystic Peak": {
+    "collection": "Vial and Krark",
+    "identified_by": "printed_title",
+    "front_file": "Monge do Pináculo ao Entardecer.png",
+    "front_key": "front/2/4/24d4f26e-7f96-4b38-867e-4fac819b2679.jpg?1783911228",
+    "back_file": "Pico Místico ao Entardecer.png",
+    "back_key": "back/2/4/24d4f26e-7f96-4b38-867e-4fac819b2679.jpg?1783911228"
+  },
+  "Plains": {
+    "file": "Planicie.png",
+    "key": "0/2/021f3a8e-5ce2-4edf-827d-b748d146e6f3.jpg?1783905578"
+  },
+  "Professor Onyx": {
+    "file": "Professora Onyx e a Mão Espectral.png",
+    "key": "c/2/c2ad8536-15f6-42c1-8521-dc37feee8e67.jpg?1783927268",
+    "collection": "Vial and Krark",
+    "identified_by": "printed_title"
+  },
+  "Ramos, Dragon Engine": {
+    "file": "Ramos.png",
+    "key": "8/f/8f95f753-bbaa-4282-9cd9-f1737136fc9e.jpg?1783908904",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Reanimate": {
+    "file": "ChatGPT Image 5 de set. de 2026, 18_03_26.png",
+    "key": "3/6/368b6903-5fc4-43e7-bd44-46b8107c8bb4.jpg?1783909614",
+    "collection": "Grenzo",
+    "key_status": "unconfirmed_edhplay",
+    "identified_by": "printed_title"
+  },
+  "Rot-Curse Rakshasa": {
+    "file": "Rot-Curse Rukshasa.png",
+    "key": "3/1/31276460-fa9d-47da-85c5-c4baa8074d0d.jpg?1783907372",
+    "collection": "Ares"
+  },
+  "Rug of Smothering": {
+    "file": "Rug of Smothering.png",
+    "key": "a/7/a73d1cb0-d0dc-4f2a-9cf2-954d5889dd08.jpg?1783922664",
+    "collection": "Yurlok"
+  },
+  "Sakura-Tribe Elder": {
+    "file": "Sakura Tribe Eldar.png",
+    "key": "9/3/93434305-9f80-4d76-9c3c-001264cef10b.jpg?1783931767",
+    "collection": "Yurlok"
+  },
+  "Scytheclaw Raptor": {
+    "file": "Scythclaw Raptor.png",
+    "key": "9/4/9436cf62-56d6-4662-9982-72e9be80d25c.jpg?1783913756",
+    "collection": "Yurlok"
+  },
+  "Seize the Spoils": {
+    "file": "ChatGPT Image 5 de set. de 2026, 20_37_00.png",
+    "key": "4/d/4ddf4e34-a1f9-4636-942d-0a08e9f94320.jpg?1783903666",
+    "collection": "Grenzo",
+    "key_status": "unconfirmed_edhplay",
+    "identified_by": "printed_title"
+  },
+  "Solphim, Mayhem Dominus": {
+    "file": "Solphim.png",
+    "key": "c/3/c3a0c7f3-7fb9-43de-a9af-96532c31e5ed.jpg?1783918023",
+    "collection": "Yurlok",
+    "alternatives": [
+      {
+        "file": "Solphim, Arauto do Caos Phyrexiano.png",
+        "key": "c/3/c3a0c7f3-7fb9-43de-a9af-96532c31e5ed.jpg?1783918023",
+        "collection": "Vial and Krark",
+        "identified_by": "printed_title"
+      }
+    ]
+  },
+  "Stoneshaker Shaman": {
+    "file": "Stoneshaker Shaman.png",
+    "key": "1/7/17a0edb0-697a-4e0b-872b-f3c15c19cbda.jpg?1783943646",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Storm-Kiln Artist": {
+    "file": "Artista Anão e a Forja Tempestuosa.png",
+    "key": "f/a/fa96b8dc-233a-4884-ab84-235cbc7df0b6.jpg?1783927352",
+    "collection": "Vial and Krark",
+    "identified_by": "printed_title"
+  },
+  "Sunspine Lynx": {
+    "file": "Sunspine Lynx.png",
+    "key": "8/9/8995ceaf-b7e0-423c-8f3e-25212d522502.jpg?1783910815",
+    "collection": "Yurlok"
+  },
+  "Swamp": {
+    "additional_keys": [
+      "6/9/69eee76e-5714-4503-8170-3f551410abec.jpg?1783902880"
+    ],
+    "file": "Pantano.png",
+    "key": "b/7/b7387103-1df1-4fd0-9e91-1544509792c7.jpg?1785981659",
+    "alternatives": [
+      {
+        "file": "Pantano Goblin.png",
+        "collection": "Grenzo",
+        "key_status": "missing_edhplay_key",
+        "duplicate_files": [
+          "ChatGPT Image 5 de set. de 2026, 15_40_31.png"
+        ]
+      }
+    ]
+  },
+  "Tavern Scoundrel": {
+    "file": "Valete da Taverna sob Luz de Velas.png",
+    "key": "c/7/c71f0329-27ec-463d-8fde-edbdc378ee0f.jpg?1783924603",
+    "collection": "Vial and Krark",
+    "identified_by": "printed_title"
+  },
+  "The Lord of Pain": {
+    "file": "The Lord of Pain.png",
+    "key": "4/9/494c244e-dcdc-4169-9743-8a61f58e8763.jpg?1783909663",
+    "collection": "Yurlok"
+  },
+  "Three Tree City": {
+    "file": "3 arvores goblin.png",
+    "key": "5/6/56f88a48-cced-4a9d-8c19-e4f105f0d8a2.jpg?1783910782",
+    "key_status": "unconfirmed_edhplay",
+    "collection": "Grenzo",
+    "duplicate_files": [
+      "ChatGPT Image 5 de set. de 2026, 17_08_46.png"
+    ]
+  },
+  "Three Visits": {
+    "file": "Three Visit.png",
+    "key": "4/e/4ef7407c-c159-492e-b9ed-79478118822f.jpg?1783913104",
+    "collection": "Yurlok"
+  },
+  "Torment of Hailfire": {
+    "file": "Torment of Hailfire.png",
+    "key": "f/6/f69d77d1-5980-436c-bf48-790939b069aa.jpg?1783936036",
+    "collection": "Yurlok"
+  },
+  "Tyvar, Jubilant Brawler": {
+    "file": "Tyvar, Jubilant Brawler.png",
+    "key": "6/6/66605fe1-9a20-4c95-b53e-1249cedb978b.jpg?1783917995",
+    "collection": "Yurlok"
+  },
+  "Vandalblast": {
+    "file": "Vandalblast.png",
+    "key": "e/8/e8afc402-ddc4-4819-bc2a-584a43b9b60e.jpg?1783915638",
+    "collection": "Yurlok"
+  },
+  "Vial Smasher the Fierce": {
+    "file": "Vial_Smasher.png",
+    "key": "c/c/cc7be939-2202-40fe-8899-a05682d76190.jpg?1783909586",
+    "collection": "Vial and Krark"
+  },
+  "Viscera Seer": {
+    "file": "Viscera Seer.png",
+    "key": "f/5/f511830b-1c1f-4d30-aa5d-4314726d142e.jpg?1783903780",
+    "collection": "Ares"
+  },
+  "Xira Arien": {
+    "file": "Xira Arien.png",
+    "key": "c/e/ce050d13-7897-4889-a514-a7617a1ed686.jpg?1783918423",
+    "collection": "Yurlok"
+  },
+  "Yurlok of Scorch Thrash": {
+    "file": "Yurlok.png",
+    "key": "e/a/ead8a1f5-6260-47fa-a649-43711ec5bbeb.jpg?1783928767",
+    "collection": "Yurlok"
+  },
+  "Zhur-Taa Ancient": {
+    "file": "Zhur-Taa Ancient.png",
+    "key": "2/0/2076308f-0f4e-4b31-9e75-c2965942e7d1.jpg?1783940018",
+    "collection": "Yurlok"
+  },
+  "Zhur-Taa Druid": {
+    "file": "Zhur-Taa Druid.png",
+    "key": "f/1/f1882783-7284-490f-a0de-df9eb11f6ea5.jpg?1783931783",
+    "collection": "Yurlok"
+  }
+}
