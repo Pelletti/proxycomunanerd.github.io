@@ -281,12 +281,28 @@
     "file": "Prodígio Harmônico em Chamas.png",
     "key": "6/3/63a565e3-d7a8-469d-898f-49fef634c107.jpg?1783903818",
     "collection": "Vial and Krark",
-    "identified_by": "printed_title"
+    "identified_by": "printed_title",
+    "alternatives": [
+      {
+        "file": "Prodígio Harmônico no Vórtice Flamejante.png",
+        "key": "6/3/63a565e3-d7a8-469d-898f-49fef634c107.jpg?1783903818",
+        "collection": "Kaervek",
+        "identified_by": "printed_title"
+      }
+    ]
   },
   "Harsh Mentor": {
     "file": "Harsh Mentor.png",
     "key": "8/9/8936bf9d-c973-4bce-b5c2-2a01b7953638.jpg?1783936487",
-    "collection": "Yurlok"
+    "collection": "Yurlok",
+    "alternatives": [
+      {
+        "file": "Mentor Severo no Templo Solar.png",
+        "key": "8/9/8936bf9d-c973-4bce-b5c2-2a01b7953638.jpg?1783936487",
+        "collection": "Kaervek",
+        "identified_by": "printed_title"
+      }
+    ]
   },
   "Heroic Intervention": {
     "file": "Heroic Intervention.png",
@@ -443,10 +459,22 @@
     "key": "a/c/acf0cab3-da50-4561-8797-cd179af39216.jpg?1783915624",
     "collection": "Yurlok"
   },
+  "Orcish Bowmasters": {
+    "file": "Mestres Orcos do Arco diante das Cataratas.png",
+    "key": "7/c/7c024bae-5631-4e20-ac69-df392ac9e109.jpg?1783916299",
+    "collection": "Kaervek",
+    "identified_by": "printed_title"
+  },
   "Ozai, the Phoenix King": {
     "file": "Ozai.png",
     "key": "a/9/a98b1550-4609-4a2f-9371-4afe1cdc613e.jpg?1783904923",
     "collection": "Yurlok"
+  },
+  "Pain Distributor": {
+    "file": "Distribuidor da Dor em Cidade Infernal Neon.png",
+    "key": "3/a/3a3a0170-444e-4147-96b6-b14bb5649108.jpg?1783917281",
+    "collection": "Kaervek",
+    "identified_by": "printed_title"
   },
   "Patriarch's Bidding": {
     "file": "ChatGPT Image 5 de set. de 2026, 20_47_22.png",
@@ -477,6 +505,12 @@
     "file": "Ramos.png",
     "key": "8/f/8f95f753-bbaa-4282-9cd9-f1737136fc9e.jpg?1783908904",
     "key_status": "unconfirmed_edhplay"
+  },
+  "Razorkin Needlehead": {
+    "file": "Assassino das Agulhas Rubras.png",
+    "key": "b/c/bc73b963-23c0-46d2-853a-34a8b463994e.jpg?1783909463",
+    "collection": "Kaervek",
+    "identified_by": "printed_title"
   },
   "Reanimate": {
     "file": "ChatGPT Image 5 de set. de 2026, 18_03_26.png",
