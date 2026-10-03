@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-10-03.1",
+  "revision": "2026-10-03.2",
   "decks": {
     "136585d1-64f8-4c01-b0f9-c07b747cde36": {
       "name": "Yurlok",
@@ -133,6 +133,26 @@
         "f/a/fa96b8dc-233a-4884-ab84-235cbc7df0b6.jpg?1783927352": "https://pelletti.github.io/proxycomunanerd.github.io/Artista%20An%C3%A3o%20e%20a%20Forja%20Tempestuosa.png",
         "front/2/4/24d4f26e-7f96-4b38-867e-4fac819b2679.jpg?1783911228": "https://pelletti.github.io/proxycomunanerd.github.io/Monge%20do%20Pin%C3%A1culo%20ao%20Entardecer.png",
         "front/4/4/44657ab1-0a6a-4a5f-9688-86f239083821.jpg?1783928241": "https://pelletti.github.io/proxycomunanerd.github.io/Birgi%20e%20o%20Drag%C3%A3o%20das%20Hist%C3%B3rias.png"
+      }
+    },
+    "5728017c-2292-45f6-9f2a-17813f059f70": {
+      "name": "Kaervek",
+      "commanders": [
+        {
+          "name": "Kaervek the Merciless",
+          "keys": [
+            "9/5/95c5bd95-b483-4dfb-9010-cfee47d22468.jpg?1783909593"
+          ]
+        }
+      ],
+      "replacements": {
+        "2/a/2a844b96-6616-4c39-8f4f-5d14a3b2bd55.jpg?1785981666": "https://pelletti.github.io/proxycomunanerd.github.io/Montanha%20M%C3%ADstica%20ao%20P%C3%B4r%20do%20Sol.png",
+        "9/5/95c5bd95-b483-4dfb-9010-cfee47d22468.jpg?1783909593": "https://pelletti.github.io/proxycomunanerd.github.io/Kaervek%2C%20o%20Imperador%20Impiedoso.png",
+        "b/7/b7387103-1df1-4fd0-9e91-1544509792c7.jpg?1785981659": "https://pelletti.github.io/proxycomunanerd.github.io/P%C3%A2ntano%20Lunar%20dos%20Totens%20Ancestrais.png",
+        "back/d/0/d0d484a6-5610-4f1d-95ec-eda273c255e4.jpg?1783911234": "https://pelletti.github.io/proxycomunanerd.github.io/P%C3%A2ntano%20Boggart%20ao%20Amanhecer.png",
+        "e/b/ebb5e613-a803-42f3-840a-7089ac6b7e3d.jpg?1783930695": "https://pelletti.github.io/proxycomunanerd.github.io/Taunter%20Goblin%20em%20F%C3%BAria.png",
+        "e/c/ec1f1041-f667-4b73-b1f2-e5bcae84095e.jpg?1783932544": "https://pelletti.github.io/proxycomunanerd.github.io/Command%20Tower.png",
+        "front/d/0/d0d484a6-5610-4f1d-95ec-eda273c255e4.jpg?1783911234": "https://pelletti.github.io/proxycomunanerd.github.io/Boggart%20Trawler%20no%20P%C3%A2ntano%20Africano.png"
       }
     }
   }
