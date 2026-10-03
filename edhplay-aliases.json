@@ -106,6 +106,20 @@
     "key": "b/a/ba86688d-18f0-4b5c-a797-42bf125a6c9f.jpg?1783904436",
     "collection": "Pokemon"
   },
+  "Boggart Trawler // Boggart Bog": {
+    "front_file": "Boggart Trawler no Pântano Africano.png",
+    "back_file": "Pântano Boggart ao Amanhecer.png",
+    "front_key": "front/d/0/d0d484a6-5610-4f1d-95ec-eda273c255e4.jpg?1783911234",
+    "back_key": "back/d/0/d0d484a6-5610-4f1d-95ec-eda273c255e4.jpg?1783911234",
+    "collection": "Kaervek",
+    "identified_by": "printed_title"
+  },
+  "Brash Taunter": {
+    "file": "Taunter Goblin em Fúria.png",
+    "key": "e/b/ebb5e613-a803-42f3-840a-7089ac6b7e3d.jpg?1783930695",
+    "collection": "Kaervek",
+    "identified_by": "printed_title"
+  },
   "Broadside Bombardiers": {
     "file": "Broadside Bombardiers.png",
     "key": "9/7/9721f8da-39ed-4ada-a571-61e08a86032b.jpg?1783913908",
@@ -327,6 +341,12 @@
         "key": "d/9/d9b8259d-0bfa-4327-ac91-157c0b9e7dfb.jpg?1783921825",
         "collection": "Vial and Krark",
         "identified_by": "printed_title"
+      },
+      {
+        "file": "Kaervek, o Imperador Impiedoso.png",
+        "key": "9/5/95c5bd95-b483-4dfb-9010-cfee47d22468.jpg?1783909593",
+        "collection": "Kaervek",
+        "identified_by": "printed_title"
       }
     ]
   },
@@ -391,7 +411,15 @@
       "5/1/51acfb01-4b0b-48fc-9704-a9b4a1e43a23.jpg?1783902782"
     ],
     "file": "Montanha.png",
-    "key": "a/a/aac1b0e2-d164-4c98-ab9b-57fbbc95ea0e.jpg?1783905575"
+    "key": "a/a/aac1b0e2-d164-4c98-ab9b-57fbbc95ea0e.jpg?1783905575",
+    "alternatives": [
+      {
+        "file": "Montanha Mística ao Pôr do Sol.png",
+        "key": "2/a/2a844b96-6616-4c39-8f4f-5d14a3b2bd55.jpg?1785981666",
+        "collection": "Kaervek",
+        "identified_by": "printed_title"
+      }
+    ]
   },
   "Nicol Bolas, Dragon-God": {
     "file": "Darth Nihilus.png",
@@ -527,6 +555,12 @@
         "duplicate_files": [
           "ChatGPT Image 5 de set. de 2026, 15_40_31.png"
         ]
+      },
+      {
+        "file": "Pântano Lunar dos Totens Ancestrais.png",
+        "key": "b/7/b7387103-1df1-4fd0-9e91-1544509792c7.jpg?1785981659",
+        "collection": "Kaervek",
+        "identified_by": "printed_title"
       }
     ]
   },
