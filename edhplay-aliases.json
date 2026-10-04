@@ -378,6 +378,12 @@
       }
     ]
   },
+  "Kardur, Doomscourge": {
+    "file": "Kardur deck Kaervek.png",
+    "key": "9/6/9685e2a0-5573-41bc-a914-f40c3011459b.jpg?1783928196",
+    "collection": "Kaervek",
+    "identified_by": "printed_title"
+  },
   "Kodama's Reach": {
     "file": "Kodamas Reach.png",
     "key": "6/5/651b834e-b39c-4833-8b2f-6456ac06062c.jpg?1783906698",
@@ -431,7 +437,15 @@
   "Mogis, God of Slaughter": {
     "file": "Mogis.png",
     "key": "5/2/521911e5-9ce5-4d55-bfc4-fbfeba4047fe.jpg?1783909637",
-    "collection": "Yurlok"
+    "collection": "Yurlok",
+    "alternatives": [
+      {
+        "file": "Mogis, Deus do Massacre no Crepúsculo.png",
+        "key": "5/2/521911e5-9ce5-4d55-bfc4-fbfeba4047fe.jpg?1783909637",
+        "collection": "Kaervek",
+        "identified_by": "printed_title"
+      }
+    ]
   },
   "Mountain": {
     "additional_keys": [
@@ -578,6 +592,12 @@
     "key_status": "unconfirmed_edhplay",
     "identified_by": "printed_title"
   },
+  "Sheoldred, the Apocalypse": {
+    "file": "Sheoldred sob Eclipse Carmesim.png",
+    "key": "d/6/d67be074-cdd4-41d9-ac89-0a0456c4e4b2.jpg?1783921327",
+    "collection": "Kaervek",
+    "identified_by": "printed_title"
+  },
   "Solphim, Mayhem Dominus": {
     "file": "Solphim.png",
     "key": "c/3/c3a0c7f3-7fb9-43de-a9af-96532c31e5ed.jpg?1783918023",
@@ -587,6 +607,12 @@
         "file": "Solphim, Arauto do Caos Phyrexiano.png",
         "key": "c/3/c3a0c7f3-7fb9-43de-a9af-96532c31e5ed.jpg?1783918023",
         "collection": "Vial and Krark",
+        "identified_by": "printed_title"
+      },
+      {
+        "file": "Solphim, Dominus do Caos Ardente.png",
+        "key": "c/3/c3a0c7f3-7fb9-43de-a9af-96532c31e5ed.jpg?1783918023",
+        "collection": "Kaervek",
         "identified_by": "printed_title"
       }
     ]
