@@ -226,6 +226,12 @@
     "key": "f/1/f11d7311-4066-4a5d-ba28-9857fa707a0b.jpg?1783909073",
     "collection": "Yurlok"
   },
+  "Fate Unraveler": {
+    "file": "Tecelã do Destino na Savana.png",
+    "key": "3/0/30250c4d-2c16-4d03-874e-aec39d8e72a9.jpg?1783909619",
+    "collection": "Kaervek",
+    "identified_by": "printed_title"
+  },
   "Feed the Swarm": {
     "file": "ChatGPT Image 5 de set. de 2026, 21_25_03.png",
     "key": "2/2/2246c098-1071-4cc3-a60a-802406e2827b.jpg?1783904770",
@@ -512,6 +518,12 @@
     "key": "8/f/8f95f753-bbaa-4282-9cd9-f1737136fc9e.jpg?1783908904",
     "key_status": "unconfirmed_edhplay"
   },
+  "Rampaging Ferocidon": {
+    "file": "Ferocidon em Fúria ao Entardecer.png",
+    "key": "3/9/39d3c658-1927-4af3-9077-88c4a669c730.jpg?1783935741",
+    "collection": "Kaervek",
+    "identified_by": "printed_title"
+  },
   "Razorkin Needlehead": {
     "file": "Assassino das Agulhas Rubras.png",
     "key": "b/c/bc73b963-23c0-46d2-853a-34a8b463994e.jpg?1783909463",
@@ -540,10 +552,24 @@
     "key": "9/3/93434305-9f80-4d76-9c3c-001264cef10b.jpg?1783931767",
     "collection": "Yurlok"
   },
+  "Scrawling Crawler": {
+    "file": "Constructo Phyrexiano e Glifos Cianos.png",
+    "key": "a/1/a1176dcf-40ee-4342-aa74-791b8352e99a.jpg?1783909088",
+    "collection": "Kaervek",
+    "identified_by": "printed_title"
+  },
   "Scytheclaw Raptor": {
     "file": "Scythclaw Raptor.png",
     "key": "9/4/9436cf62-56d6-4662-9982-72e9be80d25c.jpg?1783913756",
-    "collection": "Yurlok"
+    "collection": "Yurlok",
+    "alternatives": [
+      {
+        "file": "Raptor Guerreiro no Império Solar.png",
+        "key": "9/4/9436cf62-56d6-4662-9982-72e9be80d25c.jpg?1783913756",
+        "collection": "Kaervek",
+        "identified_by": "printed_title"
+      }
+    ]
   },
   "Seize the Spoils": {
     "file": "ChatGPT Image 5 de set. de 2026, 20_37_00.png",
@@ -673,5 +699,11 @@
     "file": "Zhur-Taa Druid.png",
     "key": "f/1/f1882783-7284-490f-a0de-df9eb11f6ea5.jpg?1783931783",
     "collection": "Yurlok"
+  },
+  "Zo-Zu the Punisher": {
+    "file": "Zo-Zu, o Justiceiro da Savana.png",
+    "key": "e/7/e7c927d6-911d-4a37-89a2-6c500edf4dd7.jpg?1783936566",
+    "collection": "Kaervek",
+    "identified_by": "printed_title"
   }
 }
