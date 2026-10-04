@@ -463,6 +463,12 @@
       }
     ]
   },
+  "Neheb, the Eternal": {
+    "file": "Neheb, o Eterno em Chamas.png",
+    "key": "5/4/54231832-d492-4812-b658-4ab9a30fefe2.jpg?1783936025",
+    "collection": "Kaervek",
+    "identified_by": "printed_title"
+  },
   "Nicol Bolas, Dragon-God": {
     "file": "Darth Nihilus.png",
     "key": "c/5/c5408607-af8f-48fe-bc40-32828d1976de.jpg?1783913282",
@@ -475,6 +481,12 @@
     "front_file": "Anakin.png",
     "front_key": "front/7/b/7b215968-93a6-4278-ac61-4e3e8c3c3943.jpg?1783934524",
     "collection": "Star Wars"
+  },
+  "Obosh, the Preypiercer": {
+    "file": "Obosh, o Horror do Crepúsculo africano.png",
+    "key": "4/5/451507de-9c42-43ee-b9ba-1f69e9aa29d2.jpg?1783931009",
+    "collection": "Kaervek",
+    "identified_by": "printed_title"
   },
   "Omnath, Locus of All": {
     "file": "Omnath Locus All.png",
@@ -665,7 +677,15 @@
   "The Lord of Pain": {
     "file": "The Lord of Pain.png",
     "key": "4/9/494c244e-dcdc-4169-9743-8a61f58e8763.jpg?1783909663",
-    "collection": "Yurlok"
+    "collection": "Yurlok",
+    "alternatives": [
+      {
+        "file": "Senhor da Dor, Ritual Carmesim.png",
+        "key": "4/9/494c244e-dcdc-4169-9743-8a61f58e8763.jpg?1783909663",
+        "collection": "Kaervek",
+        "identified_by": "printed_title"
+      }
+    ]
   },
   "Three Tree City": {
     "file": "3 arvores goblin.png",
@@ -681,15 +701,33 @@
     "key": "4/e/4ef7407c-c159-492e-b9ed-79478118822f.jpg?1783913104",
     "collection": "Yurlok"
   },
+  "Torbran, Thane of Red Fell": {
+    "file": "Torbran, Senhor da Forja Rubra.png",
+    "key": "7/9/79f591cd-d277-4ba5-b1bf-1c09cac9cb8a.jpg?1783932614",
+    "collection": "Kaervek",
+    "identified_by": "printed_title"
+  },
   "Torment of Hailfire": {
     "file": "Torment of Hailfire.png",
     "key": "f/6/f69d77d1-5980-436c-bf48-790939b069aa.jpg?1783936036",
     "collection": "Yurlok"
   },
+  "Twinflame Tyrant": {
+    "file": "Dragão de Duas Cabeças ao Pôr do Sol.png",
+    "key": "1/e/1eb34f51-0bd2-43c3-af95-2ce8dabcc7bb.jpg?1783909099",
+    "collection": "Kaervek",
+    "identified_by": "printed_title"
+  },
   "Tyvar, Jubilant Brawler": {
     "file": "Tyvar, Jubilant Brawler.png",
     "key": "6/6/66605fe1-9a20-4c95-b53e-1249cedb978b.jpg?1783917995",
     "collection": "Yurlok"
+  },
+  "Valgavoth, Harrower of Souls": {
+    "file": "Valgavoth, Arauto das Almas.png",
+    "key": "8/d/8d7c1f6c-af45-4449-8cf8-e13830b3df8a.jpg?1783909662",
+    "collection": "Kaervek",
+    "identified_by": "printed_title"
   },
   "Vandalblast": {
     "file": "Vandalblast.png",
