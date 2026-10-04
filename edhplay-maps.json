@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-10-03.4",
+  "revision": "2026-10-04.1",
   "decks": {
     "136585d1-64f8-4c01-b0f9-c07b747cde36": {
       "name": "Yurlok",
@@ -147,15 +147,20 @@
       ],
       "replacements": {
         "2/a/2a844b96-6616-4c39-8f4f-5d14a3b2bd55.jpg?1785981666": "https://pelletti.github.io/proxycomunanerd.github.io/Montanha%20M%C3%ADstica%20ao%20P%C3%B4r%20do%20Sol.png",
+        "3/0/30250c4d-2c16-4d03-874e-aec39d8e72a9.jpg?1783909619": "https://pelletti.github.io/proxycomunanerd.github.io/Tecel%C3%A3%20do%20Destino%20na%20Savana.png",
+        "3/9/39d3c658-1927-4af3-9077-88c4a669c730.jpg?1783935741": "https://pelletti.github.io/proxycomunanerd.github.io/Ferocidon%20em%20F%C3%BAria%20ao%20Entardecer.png",
         "3/a/3a3a0170-444e-4147-96b6-b14bb5649108.jpg?1783917281": "https://pelletti.github.io/proxycomunanerd.github.io/Distribuidor%20da%20Dor%20em%20Cidade%20Infernal%20Neon.png",
         "6/3/63a565e3-d7a8-469d-898f-49fef634c107.jpg?1783903818": "https://pelletti.github.io/proxycomunanerd.github.io/Prod%C3%ADgio%20Harm%C3%B4nico%20no%20V%C3%B3rtice%20Flamejante.png",
         "6/7/674960ce-ff33-4d5e-a24a-a4582b2e9809.jpg?1783904442": "https://pelletti.github.io/proxycomunanerd.github.io/Feiticeiro%20Goblin%20em%20Magia%20Neon.png",
         "7/c/7c024bae-5631-4e20-ac69-df392ac9e109.jpg?1783916299": "https://pelletti.github.io/proxycomunanerd.github.io/Mestres%20Orcos%20do%20Arco%20diante%20das%20Cataratas.png",
         "8/9/8936bf9d-c973-4bce-b5c2-2a01b7953638.jpg?1783936487": "https://pelletti.github.io/proxycomunanerd.github.io/Mentor%20Severo%20no%20Templo%20Solar.png",
+        "9/4/9436cf62-56d6-4662-9982-72e9be80d25c.jpg?1783913756": "https://pelletti.github.io/proxycomunanerd.github.io/Raptor%20Guerreiro%20no%20Imp%C3%A9rio%20Solar.png",
         "9/5/95c5bd95-b483-4dfb-9010-cfee47d22468.jpg?1783909593": "https://pelletti.github.io/proxycomunanerd.github.io/Kaervek%2C%20o%20Imperador%20Impiedoso.png",
+        "a/1/a1176dcf-40ee-4342-aa74-791b8352e99a.jpg?1783909088": "https://pelletti.github.io/proxycomunanerd.github.io/Constructo%20Phyrexiano%20e%20Glifos%20Cianos.png",
         "b/7/b7387103-1df1-4fd0-9e91-1544509792c7.jpg?1785981659": "https://pelletti.github.io/proxycomunanerd.github.io/P%C3%A2ntano%20Lunar%20dos%20Totens%20Ancestrais.png",
         "b/c/bc73b963-23c0-46d2-853a-34a8b463994e.jpg?1783909463": "https://pelletti.github.io/proxycomunanerd.github.io/Assassino%20das%20Agulhas%20Rubras.png",
         "back/d/0/d0d484a6-5610-4f1d-95ec-eda273c255e4.jpg?1783911234": "https://pelletti.github.io/proxycomunanerd.github.io/P%C3%A2ntano%20Boggart%20ao%20Amanhecer.png",
+        "e/7/e7c927d6-911d-4a37-89a2-6c500edf4dd7.jpg?1783936566": "https://pelletti.github.io/proxycomunanerd.github.io/Zo-Zu%2C%20o%20Justiceiro%20da%20Savana.png",
         "e/b/ebb5e613-a803-42f3-840a-7089ac6b7e3d.jpg?1783930695": "https://pelletti.github.io/proxycomunanerd.github.io/Taunter%20Goblin%20em%20F%C3%BAria.png",
         "e/c/ec1f1041-f667-4b73-b1f2-e5bcae84095e.jpg?1783932544": "https://pelletti.github.io/proxycomunanerd.github.io/Command%20Tower.png",
         "front/d/0/d0d484a6-5610-4f1d-95ec-eda273c255e4.jpg?1783911234": "https://pelletti.github.io/proxycomunanerd.github.io/Boggart%20Trawler%20no%20P%C3%A2ntano%20Africano.png"
