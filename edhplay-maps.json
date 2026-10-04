@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-10-04.2",
+  "revision": "2026-10-04.3",
   "decks": {
     "136585d1-64f8-4c01-b0f9-c07b747cde36": {
       "name": "Yurlok",
@@ -146,15 +146,21 @@
         }
       ],
       "replacements": {
+        "1/e/1eb34f51-0bd2-43c3-af95-2ce8dabcc7bb.jpg?1783909099": "https://pelletti.github.io/proxycomunanerd.github.io/Drag%C3%A3o%20de%20Duas%20Cabe%C3%A7as%20ao%20P%C3%B4r%20do%20Sol.png",
         "2/a/2a844b96-6616-4c39-8f4f-5d14a3b2bd55.jpg?1785981666": "https://pelletti.github.io/proxycomunanerd.github.io/Montanha%20M%C3%ADstica%20ao%20P%C3%B4r%20do%20Sol.png",
         "3/0/30250c4d-2c16-4d03-874e-aec39d8e72a9.jpg?1783909619": "https://pelletti.github.io/proxycomunanerd.github.io/Tecel%C3%A3%20do%20Destino%20na%20Savana.png",
         "3/9/39d3c658-1927-4af3-9077-88c4a669c730.jpg?1783935741": "https://pelletti.github.io/proxycomunanerd.github.io/Ferocidon%20em%20F%C3%BAria%20ao%20Entardecer.png",
         "3/a/3a3a0170-444e-4147-96b6-b14bb5649108.jpg?1783917281": "https://pelletti.github.io/proxycomunanerd.github.io/Distribuidor%20da%20Dor%20em%20Cidade%20Infernal%20Neon.png",
+        "4/5/451507de-9c42-43ee-b9ba-1f69e9aa29d2.jpg?1783931009": "https://pelletti.github.io/proxycomunanerd.github.io/Obosh%2C%20o%20Horror%20do%20Crep%C3%BAsculo%20africano.png",
+        "4/9/494c244e-dcdc-4169-9743-8a61f58e8763.jpg?1783909663": "https://pelletti.github.io/proxycomunanerd.github.io/Senhor%20da%20Dor%2C%20Ritual%20Carmesim.png",
         "5/2/521911e5-9ce5-4d55-bfc4-fbfeba4047fe.jpg?1783909637": "https://pelletti.github.io/proxycomunanerd.github.io/Mogis%2C%20Deus%20do%20Massacre%20no%20Crep%C3%BAsculo.png",
+        "5/4/54231832-d492-4812-b658-4ab9a30fefe2.jpg?1783936025": "https://pelletti.github.io/proxycomunanerd.github.io/Neheb%2C%20o%20Eterno%20em%20Chamas.png",
         "6/3/63a565e3-d7a8-469d-898f-49fef634c107.jpg?1783903818": "https://pelletti.github.io/proxycomunanerd.github.io/Prod%C3%ADgio%20Harm%C3%B4nico%20no%20V%C3%B3rtice%20Flamejante.png",
         "6/7/674960ce-ff33-4d5e-a24a-a4582b2e9809.jpg?1783904442": "https://pelletti.github.io/proxycomunanerd.github.io/Feiticeiro%20Goblin%20em%20Magia%20Neon.png",
+        "7/9/79f591cd-d277-4ba5-b1bf-1c09cac9cb8a.jpg?1783932614": "https://pelletti.github.io/proxycomunanerd.github.io/Torbran%2C%20Senhor%20da%20Forja%20Rubra.png",
         "7/c/7c024bae-5631-4e20-ac69-df392ac9e109.jpg?1783916299": "https://pelletti.github.io/proxycomunanerd.github.io/Mestres%20Orcos%20do%20Arco%20diante%20das%20Cataratas.png",
         "8/9/8936bf9d-c973-4bce-b5c2-2a01b7953638.jpg?1783936487": "https://pelletti.github.io/proxycomunanerd.github.io/Mentor%20Severo%20no%20Templo%20Solar.png",
+        "8/d/8d7c1f6c-af45-4449-8cf8-e13830b3df8a.jpg?1783909662": "https://pelletti.github.io/proxycomunanerd.github.io/Valgavoth%2C%20Arauto%20das%20Almas.png",
         "9/4/9436cf62-56d6-4662-9982-72e9be80d25c.jpg?1783913756": "https://pelletti.github.io/proxycomunanerd.github.io/Raptor%20Guerreiro%20no%20Imp%C3%A9rio%20Solar.png",
         "9/5/95c5bd95-b483-4dfb-9010-cfee47d22468.jpg?1783909593": "https://pelletti.github.io/proxycomunanerd.github.io/Kaervek%2C%20o%20Imperador%20Impiedoso.png",
         "9/6/9685e2a0-5573-41bc-a914-f40c3011459b.jpg?1783928196": "https://pelletti.github.io/proxycomunanerd.github.io/Kardur%20deck%20Kaervek.png",
