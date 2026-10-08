@@ -222,6 +222,12 @@
     "collection": "Admiral Brass",
     "identified_by": "printed_title"
   },
+  "Cyclonic Rift": {
+    "file": "Design sem nome (80).png",
+    "key": "d/f/dfb7c4b9-f2f4-4d4e-baf2-86551c8150fe.jpg?1783913339",
+    "collection": "Johnny Lawrence",
+    "identified_by": "printed_title"
+  },
   "Deadly Rollick": {
     "file": "Deadly Rollick.png",
     "key": "0/e/0e13f735-54fa-42b6-aea4-ced33811d7d4.jpg?1783915679",
@@ -366,6 +372,12 @@
     "key": "2/9/294c5f08-08e7-458f-8838-ff321dc5d9f2.jpg?1783921286",
     "collection": "Ares"
   },
+  "Goro-Goro and Satoru": {
+    "file": "Design sem nome (77).png",
+    "key": "8/4/841e14a3-abb9-4a2d-a21b-273307825e02.jpg?1783917076",
+    "collection": "Johnny Lawrence",
+    "identified_by": "printed_title"
+  },
   "Grenzo, Dungeon Warden": {
     "file": "Grenzo.png",
     "key": "6/e/6e19c383-88bd-4bde-ac81-c0eb6d5b5bd4.jpg?1783935118",
@@ -485,6 +497,18 @@
         "identified_by": "printed_title"
       }
     ]
+  },
+  "Kaito, Bane of Nightmares": {
+    "file": "Design sem nome (78).png",
+    "key": "1/4/14901700-881a-4c79-b162-aeeb1579757e.jpg?1787975247",
+    "collection": "Johnny Lawrence",
+    "identified_by": "printed_title"
+  },
+  "Kaito, Dancing Shadow": {
+    "file": "Design sem nome (79).png",
+    "key": "0/6/06f04ee2-dd29-4ce8-98a6-d8b669c71308.jpg?1783917945",
+    "collection": "Johnny Lawrence",
+    "identified_by": "printed_title"
   },
   "Kardur, Doomscourge": {
     "file": "Kardur deck Kaervek.png",
@@ -699,6 +723,18 @@
     "key": "a/7/a73d1cb0-d0dc-4f2a-9cf2-954d5889dd08.jpg?1783922664",
     "collection": "Yurlok"
   },
+  "Sakashima of a Thousand Faces": {
+    "file": "Design sem nome (82).png",
+    "key": "0/2/02505f32-d14c-4cbc-b26c-e46925f1ecde.jpg?1787679450",
+    "collection": "Johnny Lawrence",
+    "identified_by": "printed_title"
+  },
+  "Sakashima's Student": {
+    "file": "Design sem nome (84).png",
+    "key": "b/e/be819c83-5534-44ec-aa44-d3365bfc89db.jpg?1783924045",
+    "collection": "Johnny Lawrence",
+    "identified_by": "printed_title"
+  },
   "Sakura-Tribe Elder": {
     "file": "Sakura Tribe Eldar.png",
     "key": "9/3/93434305-9f80-4d76-9c3c-001264cef10b.jpg?1783931767",
@@ -728,6 +764,12 @@
     "key": "4/d/4ddf4e34-a1f9-4636-942d-0a08e9f94320.jpg?1783903666",
     "collection": "Grenzo",
     "key_status": "unconfirmed_edhplay",
+    "identified_by": "printed_title"
+  },
+  "Shark Shredder, Killer Clone": {
+    "file": "Design sem nome (85).png",
+    "key": "8/f/8f946b3d-7d2a-4210-a909-d16078757e3b.jpg?1783904104",
+    "collection": "Johnny Lawrence",
     "identified_by": "printed_title"
   },
   "Sheoldred, the Apocalypse": {
@@ -798,6 +840,12 @@
     "file": "Valete da Taverna sob Luz de Velas.png",
     "key": "c/7/c71f0329-27ec-463d-8fde-edbdc378ee0f.jpg?1783924603",
     "collection": "Vial and Krark",
+    "identified_by": "printed_title"
+  },
+  "Tetsuko Umezawa, Fugitive": {
+    "file": "Design sem nome (83).png",
+    "key": "3/9/3983d71e-3c23-4b36-b331-08e0707d8245.jpg?1789127702",
+    "collection": "Johnny Lawrence",
     "identified_by": "printed_title"
   },
   "The Lord of Pain": {
@@ -874,6 +922,12 @@
     "file": "Xira Arien.png",
     "key": "c/e/ce050d13-7897-4889-a514-a7617a1ed686.jpg?1783918423",
     "collection": "Yurlok"
+  },
+  "Yuriko, the Tiger's Shadow": {
+    "file": "Design sem nome (81).png",
+    "key": "f/e/fe9be3e0-076c-4703-9750-2a6b0a178bc9.jpg?1783915606",
+    "collection": "Johnny Lawrence",
+    "identified_by": "printed_title"
   },
   "Yurlok of Scorch Thrash": {
     "file": "Yurlok.png",
