@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-10-04.3",
+  "revision": "2026-10-08.1",
   "decks": {
     "136585d1-64f8-4c01-b0f9-c07b747cde36": {
       "name": "Yurlok",
@@ -174,6 +174,40 @@
         "e/b/ebb5e613-a803-42f3-840a-7089ac6b7e3d.jpg?1783930695": "https://pelletti.github.io/proxycomunanerd.github.io/Taunter%20Goblin%20em%20F%C3%BAria.png",
         "e/c/ec1f1041-f667-4b73-b1f2-e5bcae84095e.jpg?1783932544": "https://pelletti.github.io/proxycomunanerd.github.io/Command%20Tower.png",
         "front/d/0/d0d484a6-5610-4f1d-95ec-eda273c255e4.jpg?1783911234": "https://pelletti.github.io/proxycomunanerd.github.io/Boggart%20Trawler%20no%20P%C3%A2ntano%20Africano.png"
+      }
+    },
+    "0da31cf7-0d76-4d52-a0ca-db2906c149ec": {
+      "name": "Admiral Brass",
+      "commanders": [
+        {
+          "name": "Admiral Beckett Brass",
+          "keys": [
+            "9/8/9854c2ec-0e53-4ac7-b417-554a9331c5e0.jpg?1783935715"
+          ]
+        }
+      ],
+      "replacements": {
+        "b/d/bdc2d492-9d1e-4543-8b9c-c66ee67992ce.jpg?1783913937": "https://pelletti.github.io/proxycomunanerd.github.io/Almirante%20Brass%20em%20Batalha%20Naval.png",
+        "9/8/9854c2ec-0e53-4ac7-b417-554a9331c5e0.jpg?1783935715": "https://pelletti.github.io/proxycomunanerd.github.io/Almirante%20Pirata%20no%20Conv%C3%A9s%20Tempestuoso.png",
+        "f/1/f17103dd-f31b-4f6e-b2ea-4ea91815bdd6.jpg?1783935257": "https://pelletti.github.io/proxycomunanerd.github.io/Angrath_%20Correntes%20em%20Chamas.png",
+        "f/b/fb6dc94e-9b57-4161-a835-15e46c3bb13a.jpg?1783913866": "https://pelletti.github.io/proxycomunanerd.github.io/Breeches%2C%20o%20Pirata%20Saqueador.png",
+        "1/4/14c65f5a-10bd-4f9b-b816-46c2240b11ff.jpg?1783913734": "https://pelletti.github.io/proxycomunanerd.github.io/Capit%C3%A3%20Tempestade%20e%20o%20Tesouro%20de%20Cosmium.png",
+        "0/b/0beafec9-24db-4903-97c1-c5fe740ada83.jpg?1783928775": "https://pelletti.github.io/proxycomunanerd.github.io/Capit%C3%A3o%20Orc%20no%20Conv%C3%A9s%20Pirata.png",
+        "3/6/36cd7467-ff8c-4a92-ae55-6894213d6c0b.jpg?1783935760": "https://pelletti.github.io/proxycomunanerd.github.io/Capit%C3%A3o%20Pirata%20ao%20P%C3%B4r%20do%20Sol.png",
+        "8/2/8200f8a3-d60b-470a-a558-0c3555d1f10b.jpg?1783935713": "https://pelletti.github.io/proxycomunanerd.github.io/Capit%C3%A3o%20da%20Frota%20Direta%20em%20Batalha%F0%9F%8F%B4_%E2%98%A0%EF%B8%8F.png",
+        "c/7/c76e66c1-dbe2-4346-b4b3-20e8386e7d76.jpg?1783935748": "https://pelletti.github.io/proxycomunanerd.github.io/Celebra%C3%A7%C3%A3o%20Pirata%20Sob%20a%20Lua%20Cheia.png",
+        "1/6/16a1d084-34f1-4278-ae54-d0dac288b1da.jpg?1783913865": "https://pelletti.github.io/proxycomunanerd.github.io/Coercive%20Recruiter_%20Pirata%20Orca%20no%20Conv%C3%A9s.png",
+        "d/5/d5017dbc-07fd-45ea-9629-7c584144e8be.jpg?1783908963": "https://pelletti.github.io/proxycomunanerd.github.io/Cors%C3%A1ria%20no%20Conv%C3%A9s%20Tempestuoso.png",
+        "3/c/3cf9f3ae-694d-4d37-9498-4bdd1723a55e.jpg?1783913937": "https://pelletti.github.io/proxycomunanerd.github.io/Don%20Andres%2C%20Pirata%20Renegado.png",
+        "b/4/b499fc26-26b0-4b0f-9c62-5ed599baf41d.jpg?1783935311": "https://pelletti.github.io/proxycomunanerd.github.io/Forerunner%20da%20Coaliz%C3%A3o%20na%20Praia%20Pirata.png",
+        "5/1/5182b527-739e-4523-8611-01244ced26ac.jpg?1783913911": "https://pelletti.github.io/proxycomunanerd.github.io/Francisco%2C%20o%20Papagaio%20Cors%C3%A1rio.png",
+        "5/1/51187cdb-85ee-4f68-9e29-d84d296f0825.jpg?1783913885": "https://pelletti.github.io/proxycomunanerd.github.io/Malcolm%20e%20o%20Gato%20de%20%C3%89bano.png",
+        "1/9/19d6834d-afa3-4747-a62d-0654f4d9729f.jpg?1783913793": "https://pelletti.github.io/proxycomunanerd.github.io/Malcolm%2C%20Pirata%20Sereia%20Alado.png",
+        "1/0/1081df25-1137-4c4d-909b-40e78723652c.jpg?1783934589": "https://pelletti.github.io/proxycomunanerd.github.io/Marujo%20Espectral%20sob%20a%20Lua.png",
+        "f/6/f6236b1e-2e3e-4088-87e0-9cdf1fc8db66.jpg?1783913884": "https://pelletti.github.io/proxycomunanerd.github.io/Mercadores%20Piratas%20no%20Conv%C3%A9s.png",
+        "1/3/13e3c0c5-7451-4da9-acc0-d6e4e1f2655e.jpg?1783935299": "https://pelletti.github.io/proxycomunanerd.github.io/Pirata%20Destemida%20em%20A%C3%A7%C3%A3o.png",
+        "e/8/e8dc67a0-05d9-463e-9794-30a7e951c240.jpg?1783935713": "https://pelletti.github.io/proxycomunanerd.github.io/Pirata%20Hostage%20Taker%20no%20Conv%C3%A9s.png",
+        "5/1/5146dd15-f696-42c3-b0e5-6a1b1d7be6b4.jpg?1783935277": "https://pelletti.github.io/proxycomunanerd.github.io/Quebra-Mastros%20da%20Frota%20Sombria.png"
       }
     }
   }
