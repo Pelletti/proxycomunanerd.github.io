@@ -1,5 +1,17 @@
 {
   "Abzan Charm": {},
+  "Admiral Beckett Brass": {
+    "file": "Almirante Pirata no Convés Tempestuoso.png",
+    "key": "9/8/9854c2ec-0e53-4ac7-b417-554a9331c5e0.jpg?1783935715",
+    "collection": "Admiral Brass",
+    "identified_by": "printed_title"
+  },
+  "Admiral Brass, Unsinkable": {
+    "file": "Almirante Brass em Batalha Naval.png",
+    "key": "b/d/bdc2d492-9d1e-4543-8b9c-c66ee67992ce.jpg?1783913937",
+    "collection": "Admiral Brass",
+    "identified_by": "printed_title"
+  },
   "Alesha, Who Laughs at Fate": {
     "file": "Alesha Who Laughs at Fate.png",
     "key": "a/9/a93e3406-4e29-4bc0-ae52-cbd2ac1f99a4.jpg?1783909093",
@@ -9,6 +21,12 @@
     "file": "Anger.png",
     "key": "3/4/340b9004-e05e-4590-a200-b62bd77d1007.jpg?1783932130",
     "collection": "Ares"
+  },
+  "Angrath, Minotaur Pirate": {
+    "file": "Angrath_ Correntes em Chamas.png",
+    "key": "f/1/f17103dd-f31b-4f6e-b2ea-4ea91815bdd6.jpg?1783935257",
+    "collection": "Admiral Brass",
+    "identified_by": "printed_title"
   },
   "Aragorn, the Uniter": {
     "file": "Aragorn Uniter.png",
@@ -120,6 +138,12 @@
     "collection": "Kaervek",
     "identified_by": "printed_title"
   },
+  "Breeches, Brazen Plunderer": {
+    "file": "Breeches, o Pirata Saqueador.png",
+    "key": "f/b/fb6dc94e-9b57-4161-a835-15e46c3bb13a.jpg?1783913866",
+    "collection": "Admiral Brass",
+    "identified_by": "printed_title"
+  },
   "Broadside Bombardiers": {
     "file": "Broadside Bombardiers.png",
     "key": "9/7/9721f8da-39ed-4ada-a571-61e08a86032b.jpg?1783913908",
@@ -130,6 +154,24 @@
     "key": "7/6/76878b19-2916-4f3f-bee5-20846bc9e2db.jpg?1783911216",
     "collection": "Grenzo",
     "key_status": "unconfirmed_edhplay",
+    "identified_by": "printed_title"
+  },
+  "Captain Storm, Cosmium Raider": {
+    "file": "Capitã Tempestade e o Tesouro de Cosmium.png",
+    "key": "1/4/14c65f5a-10bd-4f9b-b816-46c2240b11ff.jpg?1783913734",
+    "collection": "Admiral Brass",
+    "identified_by": "printed_title"
+  },
+  "Captain Vargus Wrath": {
+    "file": "Capitão Orc no Convés Pirata.png",
+    "key": "0/b/0beafec9-24db-4903-97c1-c5fe740ada83.jpg?1783928775",
+    "collection": "Admiral Brass",
+    "identified_by": "printed_title"
+  },
+  "Captivating Crew": {
+    "file": "Celebração Pirata Sob a Lua Cheia.png",
+    "key": "c/7/c76e66c1-dbe2-4346-b4b3-20e8386e7d76.jpg?1783935748",
+    "collection": "Admiral Brass",
     "identified_by": "printed_title"
   },
   "Carrion Feeder": {
@@ -146,6 +188,12 @@
   "Chromanticore": {
     "file": "Chromanticore.png",
     "key": "f/1/f1182463-348b-45b3-a662-68f06ac53699.jpg?1783921415"
+  },
+  "Coercive Recruiter": {
+    "file": "Coercive Recruiter_ Pirata Orca no Convés.png",
+    "key": "1/6/16a1d084-34f1-4278-ae54-d0dac288b1da.jpg?1783913865",
+    "collection": "Admiral Brass",
+    "identified_by": "printed_title"
   },
   "Combat Celebrant": {
     "file": "Combat Celebrant.png",
@@ -168,6 +216,12 @@
     "file": "Corpsejack.png",
     "key": "8/5/85caf05a-035b-47c0-975c-dec76799ffcf.jpg?1783904156"
   },
+  "Corsair Captain": {
+    "file": "Corsária no Convés Tempestuoso.png",
+    "key": "d/5/d5017dbc-07fd-45ea-9629-7c584144e8be.jpg?1783908963",
+    "collection": "Admiral Brass",
+    "identified_by": "printed_title"
+  },
   "Deadly Rollick": {
     "file": "Deadly Rollick.png",
     "key": "0/e/0e13f735-54fa-42b6-aea4-ced33811d7d4.jpg?1783915679",
@@ -177,6 +231,36 @@
     "file": "Deflecting Swat Yurlok.png",
     "key": "b/4/b4b36435-55b3-4615-8812-af41d4fc64d9.jpg?1783915656",
     "collection": "Yurlok"
+  },
+  "Departed Deckhand": {
+    "file": "Marujo Espectral sob a Lua.png",
+    "key": "1/0/1081df25-1137-4c4d-909b-40e78723652c.jpg?1783934589",
+    "collection": "Admiral Brass",
+    "identified_by": "printed_title"
+  },
+  "Dire Fleet Captain": {
+    "file": "Capitão da Frota Direta em Batalha🏴_☠️.png",
+    "key": "8/2/8200f8a3-d60b-470a-a558-0c3555d1f10b.jpg?1783935713",
+    "collection": "Admiral Brass",
+    "identified_by": "printed_title"
+  },
+  "Dire Fleet Daredevil": {
+    "file": "Pirata Destemida em Ação.png",
+    "key": "1/3/13e3c0c5-7451-4da9-acc0-d6e4e1f2655e.jpg?1783935299",
+    "collection": "Admiral Brass",
+    "identified_by": "printed_title"
+  },
+  "Dire Fleet Neckbreaker": {
+    "file": "Quebra-Mastros da Frota Sombria.png",
+    "key": "5/1/5146dd15-f696-42c3-b0e5-6a1b1d7be6b4.jpg?1783935277",
+    "collection": "Admiral Brass",
+    "identified_by": "printed_title"
+  },
+  "Don Andres, the Renegade": {
+    "file": "Don Andres, Pirata Renegado.png",
+    "key": "3/c/3cf9f3ae-694d-4d37-9498-4bdd1723a55e.jpg?1783913937",
+    "collection": "Admiral Brass",
+    "identified_by": "printed_title"
   },
   "Dosan the Falling Leaf": {
     "file": "Dosan the Falling Leaf.png",
@@ -232,6 +316,12 @@
     "collection": "Kaervek",
     "identified_by": "printed_title"
   },
+  "Fathom Fleet Captain": {
+    "file": "Capitão Pirata ao Pôr do Sol.png",
+    "key": "3/6/36cd7467-ff8c-4a92-ae55-6894213d6c0b.jpg?1783935760",
+    "collection": "Admiral Brass",
+    "identified_by": "printed_title"
+  },
   "Feed the Swarm": {
     "file": "ChatGPT Image 5 de set. de 2026, 21_25_03.png",
     "key": "2/2/2246c098-1071-4cc3-a60a-802406e2827b.jpg?1783904770",
@@ -251,6 +341,12 @@
     "key": "9/e/9e85f2ce-1910-41fa-9908-bdb14da123bb.jpg?1783932016",
     "collection": "Yurlok"
   },
+  "Forerunner of the Coalition": {
+    "file": "Forerunner da Coalizão na Praia Pirata.png",
+    "key": "b/4/b499fc26-26b0-4b0f-9c62-5ed599baf41d.jpg?1783935311",
+    "collection": "Admiral Brass",
+    "identified_by": "printed_title"
+  },
   "Forest": {
     "additional_keys": [
       "d/c/dce15387-4114-4b3e-91aa-5b42b45c44ac.jpg?1785981675",
@@ -258,6 +354,12 @@
     ],
     "file": "Floresta.png",
     "key": "b/5/b548b48c-a004-4f17-90d6-1ef5b9769e38.jpg?1783905574"
+  },
+  "Francisco, Fowl Marauder": {
+    "file": "Francisco, o Papagaio Corsário.png",
+    "key": "5/1/5182b527-739e-4523-8611-01244ced26ac.jpg?1783913911",
+    "collection": "Admiral Brass",
+    "identified_by": "printed_title"
   },
   "Garna, Bloodfist of Keld": {
     "file": "Garna.png",
@@ -333,6 +435,12 @@
         "identified_by": "printed_title"
       }
     ]
+  },
+  "Hostage Taker": {
+    "file": "Pirata Hostage Taker no Convés.png",
+    "key": "e/8/e8dc67a0-05d9-463e-9794-30a7e951c240.jpg?1783935713",
+    "collection": "Admiral Brass",
+    "identified_by": "printed_title"
   },
   "Ignoble Hierarch": {
     "file": "Ignoble Hierarch.png",
@@ -433,6 +541,24 @@
     "back_file": "Malakir Rebirth Back.png",
     "back_key": "back/6/0/609d3ecf-f88d-4268-a8d3-4bf2bcf5df60.jpg?1783929378",
     "collection": "Yurlok"
+  },
+  "Malcolm, Alluring Scoundrel": {
+    "file": "Malcolm, Pirata Sereia Alado.png",
+    "key": "1/9/19d6834d-afa3-4747-a62d-0654f4d9729f.jpg?1783913793",
+    "collection": "Admiral Brass",
+    "identified_by": "printed_title"
+  },
+  "Malcolm, Keen-Eyed Navigator": {
+    "file": "Malcolm e o Gato de Ébano.png",
+    "key": "5/1/51187cdb-85ee-4f68-9e29-d84d296f0825.jpg?1783913885",
+    "collection": "Admiral Brass",
+    "identified_by": "printed_title"
+  },
+  "Merchant Raiders": {
+    "file": "Mercadores Piratas no Convés.png",
+    "key": "f/6/f6236b1e-2e3e-4088-87e0-9cdf1fc8db66.jpg?1783913884",
+    "collection": "Admiral Brass",
+    "identified_by": "printed_title"
   },
   "Mogis, God of Slaughter": {
     "file": "Mogis.png",
