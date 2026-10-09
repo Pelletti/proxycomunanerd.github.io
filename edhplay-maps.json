@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-10-09.1",
+  "revision": "2026-10-09.2",
   "decks": {
     "136585d1-64f8-4c01-b0f9-c07b747cde36": {
       "name": "Yurlok",
@@ -267,7 +267,12 @@
         "1/9/19bf6b74-b236-42eb-8c88-d715cece6357.jpg?1783906045": "https://pelletti.github.io/proxycomunanerd.github.io/cyberdrive_awakener.png",
         "4/d/4d89283e-9783-4006-9294-4ae0473d2ce6.jpg?1783911262": "https://pelletti.github.io/proxycomunanerd.github.io/evolution_witness.png",
         "d/c/dce15387-4114-4b3e-91aa-5b42b45c44ac.jpg?1785981675": "https://pelletti.github.io/proxycomunanerd.github.io/forest.png",
-        "f/3/f3cc07cd-cc79-4745-b0b7-eade60175cc3.jpg?1785981645": "https://pelletti.github.io/proxycomunanerd.github.io/island.png"
+        "f/3/f3cc07cd-cc79-4745-b0b7-eade60175cc3.jpg?1785981645": "https://pelletti.github.io/proxycomunanerd.github.io/island.png",
+        "0/c/0cc0dea3-14a2-4fed-a656-d48f869273c8.jpg?1787678129": "https://pelletti.github.io/proxycomunanerd.github.io/Jaheira%2C%20Amiga%20da%20Floresta.png",
+        "0/2/0286f92c-f153-4035-b31e-b6d05f53ea06.jpg?1783925188": "https://pelletti.github.io/proxycomunanerd.github.io/LONIS_%20Cript%C3%B3zo%C3%B3logo%20na%20Selva%20Perdida.png",
+        "5/9/59813845-48c9-4af2-8beb-91d58aac09ee.jpg?1783912573": "https://pelletti.github.io/proxycomunanerd.github.io/Lonis%2C%20Detetive%20das%20Pistas%20Evolutivas.png",
+        "b/e/bed41499-759d-4a3b-aabb-c462d5831956.jpg?1783914665": "https://pelletti.github.io/proxycomunanerd.github.io/Nyssa%20de%20Traken_%20Ci%C3%AAncia%20Al%C3%A9m%20do%20Tempo.png",
+        "6/6/66d47940-84f9-4479-8562-45e5148435d4.jpg?1783903688": "https://pelletti.github.io/proxycomunanerd.github.io/Professor%20Pensativo%20em%20Estudo%20Arcano.png"
       }
     }
   }
