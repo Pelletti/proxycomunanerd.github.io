@@ -593,6 +593,12 @@
       }
     ]
   },
+  "Jaheira, Friend of the Forest": {
+    "file": "Jaheira, Amiga da Floresta.png",
+    "key": "0/c/0cc0dea3-14a2-4fed-a656-d48f869273c8.jpg?1787678129",
+    "collection": "Lonis",
+    "identified_by": "printed_title"
+  },
   "Jaya's Immolating Inferno": {
     "file": "Jayas Immolating Inferno.png",
     "key": "4/8/48268bb8-1326-451b-9fae-de6605eb6cfd.jpg?1783934991",
@@ -695,6 +701,18 @@
     "collection": "Lonis",
     "identified_by": "printed_title"
   },
+  "Lonis, Cryptozoologist": {
+    "file": "LONIS_ Criptózoólogo na Selva Perdida.png",
+    "key": "0/2/0286f92c-f153-4035-b31e-b6d05f53ea06.jpg?1783925188",
+    "collection": "Lonis",
+    "identified_by": "printed_title"
+  },
+  "Lonis, Genetics Expert": {
+    "file": "Lonis, Detetive das Pistas Evolutivas.png",
+    "key": "5/9/59813845-48c9-4af2-8beb-91d58aac09ee.jpg?1783912573",
+    "collection": "Lonis",
+    "identified_by": "printed_title"
+  },
   "Magus of the Candelabra": {
     "file": "Magus of the Candelabra.png",
     "key": "5/9/593b618e-6882-429b-80f1-ab02ac72cfbc.jpg?1783911368",
@@ -786,6 +804,12 @@
     "front_key": "front/7/b/7b215968-93a6-4278-ac61-4e3e8c3c3943.jpg?1783934524",
     "collection": "Star Wars"
   },
+  "Nyssa of Traken": {
+    "file": "Nyssa de Traken_ Ciência Além do Tempo.png",
+    "key": "b/e/bed41499-759d-4a3b-aabb-c462d5831956.jpg?1783914665",
+    "collection": "Lonis",
+    "identified_by": "printed_title"
+  },
   "Obosh, the Preypiercer": {
     "file": "Obosh, o Horror do Crepúsculo africano.png",
     "key": "4/5/451507de-9c42-43ee-b9ba-1f69e9aa29d2.jpg?1783931009",
@@ -823,6 +847,12 @@
     "key": "3/1/317686d8-b762-4598-b74a-8b1fa6b899ba.jpg?1783926786",
     "collection": "Grenzo",
     "key_status": "unconfirmed_edhplay",
+    "identified_by": "printed_title"
+  },
+  "Pensive Professor": {
+    "file": "Professor Pensativo em Estudo Arcano.png",
+    "key": "6/6/66d47940-84f9-4479-8562-45e5148435d4.jpg?1783903688",
+    "collection": "Lonis",
     "identified_by": "printed_title"
   },
   "Pinnacle Monk // Mystic Peak": {
