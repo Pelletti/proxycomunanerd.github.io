@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-10-08.2",
+  "revision": "2026-10-09.1",
   "decks": {
     "136585d1-64f8-4c01-b0f9-c07b747cde36": {
       "name": "Yurlok",
@@ -230,6 +230,44 @@
         "3/9/3983d71e-3c23-4b36-b331-08e0707d8245.jpg?1789127702": "https://pelletti.github.io/proxycomunanerd.github.io/Design%20sem%20nome%20%2883%29.png",
         "b/e/be819c83-5534-44ec-aa44-d3365bfc89db.jpg?1783924045": "https://pelletti.github.io/proxycomunanerd.github.io/Design%20sem%20nome%20%2884%29.png",
         "8/f/8f946b3d-7d2a-4210-a909-d16078757e3b.jpg?1783904104": "https://pelletti.github.io/proxycomunanerd.github.io/Design%20sem%20nome%20%2885%29.png"
+      }
+    },
+    "f3679b8d-e533-4d9e-bb70-37a8609bc59d": {
+      "name": "Lonis",
+      "commanders": [
+        {
+          "name": "Lonis, Genetics Expert",
+          "keys": [
+            "5/9/59813845-48c9-4af2-8beb-91d58aac09ee.jpg?1783912573"
+          ]
+        }
+      ],
+      "replacements": {
+        "3/b/3b6a6593-b08f-4627-99a5-45d68f6e1c59.jpg?1788990335": "https://pelletti.github.io/proxycomunanerd.github.io/Anel%20Solar_%20Mist%C3%A9rio%20e%20Luz%20Arcana.png",
+        "4/3/43a6da93-2dd3-44fe-93b1-e4e557812f81.jpg?1783908473": "https://pelletti.github.io/proxycomunanerd.github.io/Antigo%20Esquecido%20no%20Submundo.png",
+        "1/6/168cbca9-0124-478b-8dd7-0bd9dc711c6d.jpg?1783935781": "https://pelletti.github.io/proxycomunanerd.github.io/Arauto%20dos%20Riachos%20Secretos.png",
+        "8/4/84128e98-87d6-4c2f-909b-9435a7833e63.jpg?1783932545": "https://pelletti.github.io/proxycomunanerd.github.io/Detetive%20Arcano_%20O%20Signete%20Simic.png",
+        "9/7/97d08a15-e61c-4421-a541-c68a4f87cb74.jpg?1783912910": "https://pelletti.github.io/proxycomunanerd.github.io/Detetive%20Vedalquiano%20sob%20a%20Lua%20de%20Ravnica.png",
+        "e/9/e94e53f0-cfca-4b40-9867-94ea771463cd.jpg?1783926777": "https://pelletti.github.io/proxycomunanerd.github.io/Extruder_%20Juggernauta%20do%20Progresso.png",
+        "d/f/dfb7c4b9-f2f4-4d4e-baf2-86551c8150fe.jpg?1783913339": "https://pelletti.github.io/proxycomunanerd.github.io/Fenda%20Cicl%C3%B4nica%20Sobre%20a%20Cidade.png",
+        "5/8/581b7327-3215-4a4f-b4ae-d9d4002ba882.jpg?1783934977": "https://pelletti.github.io/proxycomunanerd.github.io/Grito%20de%20Guerra%20dos%20Elfos%20de%20Llanowar.png",
+        "0/7/075bbe5d-d0f3-4be3-a3a6-072d5d3d614c.jpg?1783933668": "https://pelletti.github.io/proxycomunanerd.github.io/Incuba%C3%A7%C3%A3o_%20Druida%20do%20Bosque%20M%C3%A1gico.png",
+        "5/c/5c644650-3861-4a78-9e39-a413b073ddac.jpg?1783916966": "https://pelletti.github.io/proxycomunanerd.github.io/Kami%20das%20Esperan%C3%A7as%20Sussurradas.png",
+        "c/4/c49690c7-c282-4eb4-8da3-5e0c46a80fc4.jpg?1783912845": "https://pelletti.github.io/proxycomunanerd.github.io/Kellan_%20Detetive%20das%20Alturas.png",
+        "1/d/1de2a543-7079-4d47-8673-9905a041c1d4.jpg?1783929601": "https://pelletti.github.io/proxycomunanerd.github.io/Maga%20das%20Profundezas%20e%20a%20Magia%20Aqu%C3%A1tica.png",
+        "9/f/9f9085f0-3702-462c-8c81-b4576236792d.jpg?1783904085": "https://pelletti.github.io/proxycomunanerd.github.io/Mutagen%20Man_%20Monstro%20de%20Gosma%20Vivo.png",
+        "2/3/236c4e0d-1a54-4024-85ef-4d73028bfb87.jpg?1783906258": "https://pelletti.github.io/proxycomunanerd.github.io/S%C3%A1bia%20do%20Redemoinho%20Bioluminescente.png",
+        "6/0/60f23a6c-0fdf-4740-af92-1179e2153b2c.jpg?1783915142": "https://pelletti.github.io/proxycomunanerd.github.io/academy_manufactor.png",
+        "b/9/b9c11061-bb34-4904-b9f1-ea106b517bbe.jpg?1783912983": "https://pelletti.github.io/proxycomunanerd.github.io/adrix_and_nev_twincasters.png",
+        "7/2/72c1a731-7854-42b1-8719-ac3c2a269c1f.jpg?1783944429": "https://pelletti.github.io/proxycomunanerd.github.io/arcbound_ravager.png",
+        "b/1/b199a31d-5e2d-411d-961a-ff7633030767.jpg?1787681843": "https://pelletti.github.io/proxycomunanerd.github.io/basking_broodscale.png",
+        "3/f/3ffe931c-9f19-4ea5-bc24-041eb00a5862.jpg?1787680740": "https://pelletti.github.io/proxycomunanerd.github.io/birds_of_paradise.png",
+        "e/c/ec1f1041-f667-4b73-b1f2-e5bcae84095e.jpg?1783932544": "https://pelletti.github.io/proxycomunanerd.github.io/command_tower.png",
+        "a/7/a73c630c-c98d-4f8a-9e6a-2576d5fec4ee.jpg?1783931224": "https://pelletti.github.io/proxycomunanerd.github.io/cryptic_trilobite.png",
+        "1/9/19bf6b74-b236-42eb-8c88-d715cece6357.jpg?1783906045": "https://pelletti.github.io/proxycomunanerd.github.io/cyberdrive_awakener.png",
+        "4/d/4d89283e-9783-4006-9294-4ae0473d2ce6.jpg?1783911262": "https://pelletti.github.io/proxycomunanerd.github.io/evolution_witness.png",
+        "d/c/dce15387-4114-4b3e-91aa-5b42b45c44ac.jpg?1785981675": "https://pelletti.github.io/proxycomunanerd.github.io/forest.png",
+        "f/3/f3cc07cd-cc79-4745-b0b7-eade60175cc3.jpg?1785981645": "https://pelletti.github.io/proxycomunanerd.github.io/island.png"
       }
     }
   }
