@@ -1,5 +1,11 @@
 {
   "Abzan Charm": {},
+  "Academy Manufactor": {
+    "file": "academy_manufactor.png",
+    "key": "6/0/60f23a6c-0fdf-4740-af92-1179e2153b2c.jpg?1783915142",
+    "collection": "Lonis",
+    "identified_by": "printed_title"
+  },
   "Admiral Beckett Brass": {
     "file": "Almirante Pirata no Convés Tempestuoso.png",
     "key": "9/8/9854c2ec-0e53-4ac7-b417-554a9331c5e0.jpg?1783935715",
@@ -10,6 +16,12 @@
     "file": "Almirante Brass em Batalha Naval.png",
     "key": "b/d/bdc2d492-9d1e-4543-8b9c-c66ee67992ce.jpg?1783913937",
     "collection": "Admiral Brass",
+    "identified_by": "printed_title"
+  },
+  "Adrix and Nev, Twincasters": {
+    "file": "adrix_and_nev_twincasters.png",
+    "key": "b/9/b9c11061-bb34-4904-b9f1-ea106b517bbe.jpg?1783912983",
+    "collection": "Lonis",
     "identified_by": "printed_title"
   },
   "Alesha, Who Laughs at Fate": {
@@ -31,6 +43,18 @@
   "Aragorn, the Uniter": {
     "file": "Aragorn Uniter.png",
     "key": "e/9/e98d5321-ec09-456c-a9ea-c8ca2cfc6205.jpg?1783916262"
+  },
+  "Arcane Signet": {
+    "file": "Detetive Arcano_ O Signete Simic.png",
+    "key": "8/4/84128e98-87d6-4c2f-909b-9435a7833e63.jpg?1783932545",
+    "collection": "Lonis",
+    "identified_by": "printed_title"
+  },
+  "Arcbound Ravager": {
+    "file": "arcbound_ravager.png",
+    "key": "7/2/72c1a731-7854-42b1-8719-ac3c2a269c1f.jpg?1783944429",
+    "collection": "Lonis",
+    "identified_by": "printed_title"
   },
   "Ares, God of War": {
     "file": "Ares God of War.png",
@@ -86,6 +110,12 @@
       "Goblin (99).png"
     ]
   },
+  "Basking Broodscale": {
+    "file": "basking_broodscale.png",
+    "key": "b/1/b199a31d-5e2d-411d-961a-ff7633030767.jpg?1787681843",
+    "collection": "Lonis",
+    "identified_by": "printed_title"
+  },
   "Beast Within": {
     "file": "Beast Within.png",
     "key": "a/9/a92582ef-3305-45f9-ba8d-e22ce5381fe8.jpg?1783906708",
@@ -99,7 +129,15 @@
   "Birds of Paradise": {
     "file": "BOP Pokemon.png",
     "key": "3/f/3ffe931c-9f19-4ea5-bc24-041eb00a5862.jpg?1787680740",
-    "collection": "Pokemon"
+    "collection": "Pokemon",
+    "alternatives": [
+      {
+        "file": "birds_of_paradise.png",
+        "key": "3/f/3ffe931c-9f19-4ea5-bc24-041eb00a5862.jpg?1787680740",
+        "collection": "Lonis",
+        "identified_by": "printed_title"
+      }
+    ]
   },
   "Birgi, God of Storytelling // Harnfel, Horn of Bounty": {
     "front_file": "Birgi e o Dragão das Histórias.png",
@@ -210,7 +248,15 @@
       "a/f/af609bad-083f-42e4-a102-7a0da8e7a85f.jpg?1789415886"
     ],
     "file": "Command Tower.png",
-    "key": "e/c/ec1f1041-f667-4b73-b1f2-e5bcae84095e.jpg?1783932544"
+    "key": "e/c/ec1f1041-f667-4b73-b1f2-e5bcae84095e.jpg?1783932544",
+    "alternatives": [
+      {
+        "file": "command_tower.png",
+        "key": "e/c/ec1f1041-f667-4b73-b1f2-e5bcae84095e.jpg?1783932544",
+        "collection": "Lonis",
+        "identified_by": "printed_title"
+      }
+    ]
   },
   "Corpsejack Menace": {
     "file": "Corpsejack.png",
@@ -222,11 +268,31 @@
     "collection": "Admiral Brass",
     "identified_by": "printed_title"
   },
+  "Cryptic Trilobite": {
+    "file": "cryptic_trilobite.png",
+    "key": "a/7/a73c630c-c98d-4f8a-9e6a-2576d5fec4ee.jpg?1783931224",
+    "collection": "Lonis",
+    "identified_by": "printed_title"
+  },
+  "Cyberdrive Awakener": {
+    "file": "cyberdrive_awakener.png",
+    "key": "1/9/19bf6b74-b236-42eb-8c88-d715cece6357.jpg?1783906045",
+    "collection": "Lonis",
+    "identified_by": "printed_title"
+  },
   "Cyclonic Rift": {
     "file": "Design sem nome (80).png",
     "key": "d/f/dfb7c4b9-f2f4-4d4e-baf2-86551c8150fe.jpg?1783913339",
     "collection": "Johnny Lawrence",
-    "identified_by": "printed_title"
+    "identified_by": "printed_title",
+    "alternatives": [
+      {
+        "file": "Fenda Ciclônica Sobre a Cidade.png",
+        "key": "d/f/dfb7c4b9-f2f4-4d4e-baf2-86551c8150fe.jpg?1783913339",
+        "collection": "Lonis",
+        "identified_by": "printed_title"
+      }
+    ]
   },
   "Deadly Rollick": {
     "file": "Deadly Rollick.png",
@@ -311,10 +377,22 @@
     "key": "3/9/39704000-65d3-4d39-849e-a3b617376bbc.jpg?1783915632",
     "collection": "Yurlok"
   },
+  "Evolution Witness": {
+    "file": "evolution_witness.png",
+    "key": "4/d/4d89283e-9783-4006-9294-4ae0473d2ce6.jpg?1783911262",
+    "collection": "Lonis",
+    "identified_by": "printed_title"
+  },
   "Exsanguinate": {
     "file": "Exsanguinate.png",
     "key": "f/1/f11d7311-4066-4a5d-ba28-9857fa707a0b.jpg?1783909073",
     "collection": "Yurlok"
+  },
+  "Extruder": {
+    "file": "Extruder_ Juggernauta do Progresso.png",
+    "key": "e/9/e94e53f0-cfca-4b40-9867-94ea771463cd.jpg?1783926777",
+    "collection": "Lonis",
+    "identified_by": "printed_title"
   },
   "Fate Unraveler": {
     "file": "Tecelã do Destino na Savana.png",
@@ -326,6 +404,12 @@
     "file": "Capitão Pirata ao Pôr do Sol.png",
     "key": "3/6/36cd7467-ff8c-4a92-ae55-6894213d6c0b.jpg?1783935760",
     "collection": "Admiral Brass",
+    "identified_by": "printed_title"
+  },
+  "Fathom Mage": {
+    "file": "Maga das Profundezas e a Magia Aquática.png",
+    "key": "1/d/1de2a543-7079-4d47-8673-9905a041c1d4.jpg?1783929601",
+    "collection": "Lonis",
     "identified_by": "printed_title"
   },
   "Feed the Swarm": {
@@ -347,6 +431,12 @@
     "key": "9/e/9e85f2ce-1910-41fa-9908-bdb14da123bb.jpg?1783932016",
     "collection": "Yurlok"
   },
+  "Forensic Gadgeteer": {
+    "file": "Detetive Vedalquiano sob a Lua de Ravnica.png",
+    "key": "9/7/97d08a15-e61c-4421-a541-c68a4f87cb74.jpg?1783912910",
+    "collection": "Lonis",
+    "identified_by": "printed_title"
+  },
   "Forerunner of the Coalition": {
     "file": "Forerunner da Coalizão na Praia Pirata.png",
     "key": "b/4/b499fc26-26b0-4b0f-9c62-5ed599baf41d.jpg?1783935311",
@@ -359,7 +449,21 @@
       "7/c/7cc4d5d1-4471-43b0-877a-b3af0b8d67c6.jpg?1783902822"
     ],
     "file": "Floresta.png",
-    "key": "b/5/b548b48c-a004-4f17-90d6-1ef5b9769e38.jpg?1783905574"
+    "key": "b/5/b548b48c-a004-4f17-90d6-1ef5b9769e38.jpg?1783905574",
+    "alternatives": [
+      {
+        "file": "forest.png",
+        "key": "d/c/dce15387-4114-4b3e-91aa-5b42b45c44ac.jpg?1785981675",
+        "collection": "Lonis",
+        "identified_by": "printed_title"
+      }
+    ]
+  },
+  "Forgotten Ancient": {
+    "file": "Antigo Esquecido no Submundo.png",
+    "key": "4/3/43a6da93-2dd3-44fe-93b1-e4e557812f81.jpg?1783908473",
+    "collection": "Lonis",
+    "identified_by": "printed_title"
   },
   "Francisco, Fowl Marauder": {
     "file": "Francisco, o Papagaio Corsário.png",
@@ -397,6 +501,12 @@
     "collection": "Vial and Krark",
     "identified_by": "printed_title"
   },
+  "Gyre Sage": {
+    "file": "Sábia do Redemoinho Bioluminescente.png",
+    "key": "2/3/236c4e0d-1a54-4024-85ef-4d73028bfb87.jpg?1783906258",
+    "collection": "Lonis",
+    "identified_by": "printed_title"
+  },
   "Harmonic Prodigy": {
     "file": "Prodígio Harmônico em Chamas.png",
     "key": "6/3/63a565e3-d7a8-469d-898f-49fef634c107.jpg?1783903818",
@@ -423,6 +533,12 @@
         "identified_by": "printed_title"
       }
     ]
+  },
+  "Herald of Secret Streams": {
+    "file": "Arauto dos Riachos Secretos.png",
+    "key": "1/6/168cbca9-0124-478b-8dd7-0bd9dc711c6d.jpg?1783935781",
+    "collection": "Lonis",
+    "identified_by": "printed_title"
   },
   "Heroic Intervention": {
     "file": "Heroic Intervention.png",
@@ -459,9 +575,23 @@
     "key": "1/b/1b32b293-59a6-4d65-b8f3-b3ed7f8e39d0.jpg?1783909962",
     "collection": "Yurlok"
   },
+  "Incubation Druid": {
+    "file": "Incubação_ Druida do Bosque Mágico.png",
+    "key": "0/7/075bbe5d-d0f3-4be3-a3a6-072d5d3d614c.jpg?1783933668",
+    "collection": "Lonis",
+    "identified_by": "printed_title"
+  },
   "Island": {
     "file": "Ilha.png",
-    "key": "f/3/f3cc07cd-cc79-4745-b0b7-eade60175cc3.jpg?1785981645"
+    "key": "f/3/f3cc07cd-cc79-4745-b0b7-eade60175cc3.jpg?1785981645",
+    "alternatives": [
+      {
+        "file": "island.png",
+        "key": "f/3/f3cc07cd-cc79-4745-b0b7-eade60175cc3.jpg?1785981645",
+        "collection": "Lonis",
+        "identified_by": "printed_title"
+      }
+    ]
   },
   "Jaya's Immolating Inferno": {
     "file": "Jayas Immolating Inferno.png",
@@ -510,10 +640,22 @@
     "collection": "Johnny Lawrence",
     "identified_by": "printed_title"
   },
+  "Kami of Whispered Hopes": {
+    "file": "Kami das Esperanças Sussurradas.png",
+    "key": "5/c/5c644650-3861-4a78-9e39-a413b073ddac.jpg?1783916966",
+    "collection": "Lonis",
+    "identified_by": "printed_title"
+  },
   "Kardur, Doomscourge": {
     "file": "Kardur deck Kaervek.png",
     "key": "9/6/9685e2a0-5573-41bc-a914-f40c3011459b.jpg?1783928196",
     "collection": "Kaervek",
+    "identified_by": "printed_title"
+  },
+  "Kellan, Inquisitive Prodigy // Tail the Suspect": {
+    "file": "Kellan_ Detetive das Alturas.png",
+    "key": "c/4/c49690c7-c282-4eb4-8da3-5e0c46a80fc4.jpg?1783912845",
+    "collection": "Lonis",
     "identified_by": "printed_title"
   },
   "Kodama's Reach": {
@@ -546,6 +688,12 @@
     "file": "Leyline Tyrant.png",
     "key": "8/4/847ae75b-1c0f-4d0a-9933-9a302c88dc27.jpg?1783929358",
     "collection": "Yurlok"
+  },
+  "Llanowar Elves": {
+    "file": "Grito de Guerra dos Elfos de Llanowar.png",
+    "key": "5/8/581b7327-3215-4a4f-b4ae-d9d4002ba882.jpg?1783934977",
+    "collection": "Lonis",
+    "identified_by": "printed_title"
   },
   "Magus of the Candelabra": {
     "file": "Magus of the Candelabra.png",
@@ -612,6 +760,12 @@
         "identified_by": "printed_title"
       }
     ]
+  },
+  "Mutagen Man, Living Ooze": {
+    "file": "Mutagen Man_ Monstro de Gosma Vivo.png",
+    "key": "9/f/9f9085f0-3702-462c-8c81-b4576236792d.jpg?1783904085",
+    "collection": "Lonis",
+    "identified_by": "printed_title"
   },
   "Neheb, the Eternal": {
     "file": "Neheb, o Eterno em Chamas.png",
@@ -776,6 +930,12 @@
     "file": "Sheoldred sob Eclipse Carmesim.png",
     "key": "d/6/d67be074-cdd4-41d9-ac89-0a0456c4e4b2.jpg?1783921327",
     "collection": "Kaervek",
+    "identified_by": "printed_title"
+  },
+  "Sol Ring": {
+    "file": "Anel Solar_ Mistério e Luz Arcana.png",
+    "key": "3/b/3b6a6593-b08f-4627-99a5-45d68f6e1c59.jpg?1788990335",
+    "collection": "Lonis",
     "identified_by": "printed_title"
   },
   "Solphim, Mayhem Dominus": {
