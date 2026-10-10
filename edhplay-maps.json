@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-10-09.2",
+  "revision": "2026-10-10.1",
   "decks": {
     "136585d1-64f8-4c01-b0f9-c07b747cde36": {
       "name": "Yurlok",
@@ -271,8 +271,36 @@
         "0/c/0cc0dea3-14a2-4fed-a656-d48f869273c8.jpg?1787678129": "https://pelletti.github.io/proxycomunanerd.github.io/Jaheira%2C%20Amiga%20da%20Floresta.png",
         "0/2/0286f92c-f153-4035-b31e-b6d05f53ea06.jpg?1783925188": "https://pelletti.github.io/proxycomunanerd.github.io/LONIS_%20Cript%C3%B3zo%C3%B3logo%20na%20Selva%20Perdida.png",
         "5/9/59813845-48c9-4af2-8beb-91d58aac09ee.jpg?1783912573": "https://pelletti.github.io/proxycomunanerd.github.io/Lonis%2C%20Detetive%20das%20Pistas%20Evolutivas.png",
-        "b/e/bed41499-759d-4a3b-aabb-c462d5831956.jpg?1783914665": "https://pelletti.github.io/proxycomunanerd.github.io/Nyssa%20de%20Traken_%20Ci%C3%AAncia%20Al%C3%A9m%20do%20Tempo.png",
-        "6/6/66d47940-84f9-4479-8562-45e5148435d4.jpg?1783903688": "https://pelletti.github.io/proxycomunanerd.github.io/Professor%20Pensativo%20em%20Estudo%20Arcano.png"
+        "b/e/bed41499-759d-4a3b-aabb-c462d5831956.jpg?1783914665": "https://pelletti.github.io/proxycomunanerd.github.io/Nyssa%20de%20Traken_%20Ci%C3%AAncia%20Al%C3%A9m%20do%20Tempo.png?v=2f68e0c51993",
+        "6/6/66d47940-84f9-4479-8562-45e5148435d4.jpg?1783903688": "https://pelletti.github.io/proxycomunanerd.github.io/Professor%20Pensativo%20em%20Estudo%20Arcano.png",
+        "8/1/816716d6-4234-4570-9a64-cb3bef388095.jpg?1783917166": "https://pelletti.github.io/proxycomunanerd.github.io/Artefatos%20Despertam%20no%20Laborat%C3%B3rio.png",
+        "4/1/41040541-b129-4cf4-9411-09b1d9d32c19.jpg?1783909047": "https://pelletti.github.io/proxycomunanerd.github.io/Botas%20Velozes%20nas%20Ru%C3%ADnas%20M%C3%ADsticas.png",
+        "c/5/c565b991-7021-4b81-b9c0-f7231daae360.jpg?1783938578": "https://pelletti.github.io/proxycomunanerd.github.io/Chamado%20Inspirador%20no%20Clube%20de%20Jazz.png",
+        "a/b/abdb9d4e-e6ca-409b-b589-0cf71724340b.jpg?1785412736": "https://pelletti.github.io/proxycomunanerd.github.io/Companhia%20de%20Thranduil%20sob%20a%20Lua.png",
+        "c/5/c59557c3-aba2-4f80-8f37-accb7b991cb9.jpg?1783937733": "https://pelletti.github.io/proxycomunanerd.github.io/Confronte%20o%20Desconhecido_%20Investiga%C3%A7%C3%A3o%20Sombria.png",
+        "4/a/4a433310-3fe2-4156-864d-7a6b2638340b.jpg?1783930678": "https://pelletti.github.io/proxycomunanerd.github.io/Cultive_%20Mapas%20de%20um%20Amanh%C3%A3%20Verde.png",
+        "4/5/45803e98-5d99-4bd9-adac-37c854649167.jpg?1783913912": "https://pelletti.github.io/proxycomunanerd.github.io/Despedida%20em%20Onda%20Arcana.png",
+        "8/4/8493131c-0a7b-4be6-a8a2-0b425f4f67fb.jpg?1783915703": "https://pelletti.github.io/proxycomunanerd.github.io/Detetive%20M%C3%A1gico%20Contra-Ataca%20a%20Feiti%C3%A7aria.png",
+        "8/9/89c1ebc5-6775-47f3-be43-e59b281eba55.jpg?1783914670": "https://pelletti.github.io/proxycomunanerd.github.io/Di%C3%A1rio%20de%20Quinhentos%20Anos.png",
+        "4/0/40e2564f-0066-41e0-a767-13ef33a17024.jpg?1783936725": "https://pelletti.github.io/proxycomunanerd.github.io/Est%C3%A1tua%20Dourada%20do%20Progresso.png",
+        "a/9/a92582ef-3305-45f9-ba8d-e22ce5381fe8.jpg?1783906708": "https://pelletti.github.io/proxycomunanerd.github.io/Fera%20Interior_%20Transforma%C3%A7%C3%A3o%20Sob%20a%20Lua.png",
+        "e/a/ea21033a-9318-4599-a4bc-b7262621d7d8.jpg?1783908470": "https://pelletti.github.io/proxycomunanerd.github.io/Grevas%20Rel%C3%A2mpago%20na%20Chuva.png",
+        "9/c/9c9d4ea4-2ca2-46d2-b196-e0f5e1100edf.jpg?1783909929": "https://pelletti.github.io/proxycomunanerd.github.io/Hibridiza%C3%A7%C3%A3o%20Rel%C3%A2mpago_%20Transforma%C3%A7%C3%A3o%20Anf%C3%ADbia.png",
+        "8/f/8f5a620c-fde7-4b72-bf8a-efc4f14560c5.jpg?1783936743": "https://pelletti.github.io/proxycomunanerd.github.io/Interven%C3%A7%C3%A3o%20Heroica%20em%20Noite%20Chuvosa.png",
+        "c/6/c60174d6-1f9d-4870-b3db-34d6fcb3f6ab.jpg?1783944378": "https://pelletti.github.io/proxycomunanerd.github.io/Krark-Clan_%20Sucata%20em%20Chamas.png",
+        "7/1/71701c28-f113-4d38-8fd3-a19cd9749661.jpg?1783912838": "https://pelletti.github.io/proxycomunanerd.github.io/Muta%C3%A7%C3%A3o%20Repulsiva%20no%20Laborat%C3%B3rio.png",
+        "d/e/deb0e799-1920-4cd9-acd2-2df9df333712.jpg?1788990647": "https://pelletti.github.io/proxycomunanerd.github.io/Natureza%20Revelada%20na%20Floresta%20M%C3%ADstica.png",
+        "a/7/a7966bd2-b541-44a2-891c-e89e89ed78f2.jpg?1783906717": "https://pelletti.github.io/proxycomunanerd.github.io/Nega%C3%A7%C3%A3o%20Arcana%20em%20Noir%20M%C3%A1gico.png",
+        "5/2/52d58fe4-6070-4022-9cd7-c35a11b44525.jpg?1783904112": "https://pelletti.github.io/proxycomunanerd.github.io/Nega%C3%A7%C3%A3o%20na%20Chuva%20Noir.png",
+        "b/9/b9d349f3-5be2-4b1f-a4c3-ba94822cf0cf.jpg?1783923143": "https://pelletti.github.io/proxycomunanerd.github.io/Oferta%20Irrecus%C3%A1vel%20no%20Submundo.png",
+        "8/e/8e724c6d-3922-406f-b9e6-e478e1039416.jpg?1783906041": "https://pelletti.github.io/proxycomunanerd.github.io/Ondula%C3%A7%C3%B5es%20do%20Potencial_%20Experimento%20Arcano.png",
+        "c/9/c9eee658-29e8-4ab5-8a0e-31f2f28a9a92.jpg?1783916964": "https://pelletti.github.io/proxycomunanerd.github.io/Ozilith%20e%20a%20Torre%20Fragmentada.png",
+        "9/1/916bf331-455a-4694-93d3-15dcf6971072.jpg?1783912412": "https://pelletti.github.io/proxycomunanerd.github.io/Piper%20Wright_%20Verdades%20%C3%A0%20Meia-Luz.png",
+        "9/4/94a020df-714b-4465-bfa2-ac15f27d8412.jpg?1783910733": "https://pelletti.github.io/proxycomunanerd.github.io/Pollywog%20Prodigy_%20Mago%20das%20%C3%81guas.png",
+        "e/e/ee8e9928-d9b2-4570-adb8-44b34115decd.jpg?1783937719": "https://pelletti.github.io/proxycomunanerd.github.io/Rastreadora%20Incans%C3%A1vel%20na%20Floresta%20Lunar.png",
+        "7/5/7582d7c0-6cb6-47d1-8026-3d661b5a809f.jpg?1783913046": "https://pelletti.github.io/proxycomunanerd.github.io/Tangletrove%20Kelp_%20Mist%C3%A9rio%20Submerso.png",
+        "4/e/4ef7407c-c159-492e-b9ed-79478118822f.jpg?1783913104": "https://pelletti.github.io/proxycomunanerd.github.io/Tr%C3%AAs%20Detetives%20na%20Ru%C3%ADna%20Encantada.png",
+        "2/0/20ccbfdd-ddae-440c-9bc0-38b15a56fdd1.jpg?1783909090": "https://pelletti.github.io/proxycomunanerd.github.io/Zimone%2C%20Escultora%20de%20Paradoxos.png"
       }
     }
   }
