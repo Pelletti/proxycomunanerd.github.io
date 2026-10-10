@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-10-10.1",
+  "revision": "2026-10-10.2",
   "decks": {
     "136585d1-64f8-4c01-b0f9-c07b747cde36": {
       "name": "Yurlok",
@@ -300,7 +300,10 @@
         "e/e/ee8e9928-d9b2-4570-adb8-44b34115decd.jpg?1783937719": "https://pelletti.github.io/proxycomunanerd.github.io/Rastreadora%20Incans%C3%A1vel%20na%20Floresta%20Lunar.png",
         "7/5/7582d7c0-6cb6-47d1-8026-3d661b5a809f.jpg?1783913046": "https://pelletti.github.io/proxycomunanerd.github.io/Tangletrove%20Kelp_%20Mist%C3%A9rio%20Submerso.png",
         "4/e/4ef7407c-c159-492e-b9ed-79478118822f.jpg?1783913104": "https://pelletti.github.io/proxycomunanerd.github.io/Tr%C3%AAs%20Detetives%20na%20Ru%C3%ADna%20Encantada.png",
-        "2/0/20ccbfdd-ddae-440c-9bc0-38b15a56fdd1.jpg?1783909090": "https://pelletti.github.io/proxycomunanerd.github.io/Zimone%2C%20Escultora%20de%20Paradoxos.png"
+        "2/0/20ccbfdd-ddae-440c-9bc0-38b15a56fdd1.jpg?1783909090": "https://pelletti.github.io/proxycomunanerd.github.io/Zimone%2C%20Escultora%20de%20Paradoxos.png",
+        "9/1/91eb9067-0bc7-4497-ba9c-c1ea41e5a379.jpg?1783903795": "https://pelletti.github.io/proxycomunanerd.github.io/Maldi%C3%A7%C3%A3o%20dos%20Porcos%20na%20Corte%20Imperial.png",
+        "d/5/d585e218-3dc8-4fbd-8ad2-795fbc9b2155.jpg?1783906588": "https://pelletti.github.io/proxycomunanerd.github.io/O%20Cristal%20da%20Terra%20na%20Selva.png",
+        "9/9/99413817-1218-4947-b12f-9a952b095a89.jpg?1783913721": "https://pelletti.github.io/proxycomunanerd.github.io/Tarrien%E2%80%99s%20Soulcleaver_%20Artefato%20Perdido.png"
       }
     }
   }
