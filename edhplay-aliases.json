@@ -1331,5 +1331,136 @@
     "key": "9/9/99413817-1218-4947-b12f-9a952b095a89.jpg?1783913721",
     "collection": "Lonis",
     "identified_by": "printed_title"
+  },
+  "Archway of Innovation": {
+    "file": "Arco da Inovação Celestial.png",
+    "key": "6/a/6a90f9e6-9251-4203-9599-cc4032a5e6e1.jpg?1783911242",
+    "collection": "Lonis",
+    "identified_by": "printed_title"
+  },
+  "Seat of the Synod": {
+    "file": "Assento do Sínodo em Lumengrid.png",
+    "key": "5/7/57a194b3-2899-4dee-977a-c77df0b94dfe.jpg?1783906005",
+    "collection": "Lonis",
+    "identified_by": "printed_title"
+  },
+  "Boseiju, Who Endures": {
+    "file": "Boseiju Sob a Chuva kontaktannonser.png",
+    "key": "2/1/2135ac5a-187b-4dc9-8f82-34e8d1603416.jpg?1783923818",
+    "collection": "Lonis",
+    "identified_by": "printed_title",
+    "alternatives": [
+      {
+        "file": "Boseiju, Guardiã da Eternidade.png",
+        "key": "2/1/2135ac5a-187b-4dc9-8f82-34e8d1603416.jpg?1783923818",
+        "collection": "Lonis",
+        "identified_by": "printed_title"
+      }
+    ]
+  },
+  "Breeding Pool": {
+    "file": "Breeding Pool_ Gruta Bioluminescente.png",
+    "key": "6/3/63e4dc07-c742-41bd-8301-861637908fd1.jpg?1784036820",
+    "collection": "Lonis",
+    "identified_by": "printed_title"
+  },
+  "Barkchannel Pathway // Tidechannel Pathway": {
+    "file": "Caminho Entre Floresta e Mar.png",
+    "key": "front/b/6/b6de14ae-0132-4261-af00-630bf15918cd.jpg?1783928184",
+    "collection": "Lonis",
+    "identified_by": "printed_title",
+    "additional_keys": [
+      "back/b/6/b6de14ae-0132-4261-af00-630bf15918cd.jpg?1783928184"
+    ]
+  },
+  "Dreamroot Cascade": {
+    "file": "Cascata Dreamroot_ Floresta Encantada.png",
+    "key": "e/f/ef662b92-5a7f-48c9-bcc1-14b55e091aef.jpg?1783903621",
+    "collection": "Lonis",
+    "identified_by": "printed_title"
+  },
+  "Hardened Scales": {
+    "file": "Escamas Endurecidas na Selva Mágica.png",
+    "key": "7/d/7dcdf1db-bfaf-4160-8003-1fa2e56b00dc.jpg?1783939069",
+    "collection": "Lonis",
+    "identified_by": "printed_title"
+  },
+  "Branching Evolution": {
+    "file": "Evolução Ramificada na Selva Pulp.png",
+    "key": "f/4/f4b2c132-0e57-4273-aa30-e78870647dc7.jpg?1783912358",
+    "collection": "Lonis",
+    "identified_by": "printed_title"
+  },
+  "Doubling Season": {
+    "file": "Laboratório da Multiplicação Infinita.png",
+    "key": "f/2/f2c4f80e-84a0-463b-82c3-5c6503809351.jpg?1783909062",
+    "collection": "Lonis",
+    "identified_by": "printed_title"
+  },
+  "Ulvenwald Mysteries": {
+    "file": "Mistérios de Ulvenwald_ Pistas no Pântano.png",
+    "key": "9/1/911a2b5d-7e2d-4358-8e38-cbae7192e4d4.jpg?1783937718",
+    "collection": "Lonis",
+    "identified_by": "printed_title"
+  },
+  "The Ozolith": {
+    "file": "O Ozólito na Floresta Encantada.png",
+    "key": "9/3/9341ed06-53db-4604-b60a-3ea9129afbc2.jpg?1783931006",
+    "collection": "Lonis",
+    "identified_by": "printed_title"
+  },
+  "Otawara, Soaring City": {
+    "file": "Otawara, Cidade Celestial.png",
+    "key": "4/8/486d7edc-d983-41f0-8b78-c99aecd72996.jpg?1783923816",
+    "collection": "Lonis",
+    "identified_by": "printed_title"
+  },
+  "Hinterland Harbor": {
+    "file": "Porto do Hinterland sob o Arco Gigante.png",
+    "key": "d/6/d631d040-51e9-4540-91e7-aeb5ade84090.jpg?1783934949",
+    "collection": "Lonis",
+    "identified_by": "printed_title"
+  },
+  "Rejuvenating Springs": {
+    "file": "Primavera Tropical Revitalizante.png",
+    "key": "4/5/455be293-80cf-4bc6-8904-8dd21a2b9d19.jpg?1783915585",
+    "collection": "Lonis",
+    "identified_by": "printed_title"
+  },
+  "Urza's Saga": {
+    "file": "Saga de Urza em Ruínas Antigas.png",
+    "key": "9/d/9df37469-6e2d-4783-aad3-c897ecbc967d.jpg?1783919922",
+    "collection": "Lonis",
+    "identified_by": "printed_title"
+  },
+  "Reliquary Tower": {
+    "file": "Torre do Arquivo Dourado.png",
+    "key": "8/1/81766fd6-c7e0-4527-a63e-512d126c0421.jpg?1783934503",
+    "collection": "Lonis",
+    "identified_by": "printed_title"
+  },
+  "Uthros, Titanic Godcore": {
+    "file": "Uthros, Deus das Tempestades.png",
+    "key": "1/1/11da39d6-cfa6-498d-91b1-11454cc7e5a3.jpg?1783905913",
+    "collection": "Lonis",
+    "identified_by": "printed_title"
+  },
+  "Thought Vessel": {
+    "file": "Vasculhador de Pensamentos na Selva.png",
+    "key": "4/b/4bfc5847-c3b4-41e7-8087-73ac4850bc1b.jpg?1783915589",
+    "collection": "Lonis",
+    "identified_by": "printed_title"
+  },
+  "Turbulent Wilderness": {
+    "file": "Wilderness em Espiral Mística.png",
+    "key": "b/6/b6ca755c-4b17-450b-b995-bfec8a55396f.jpg?1783903845",
+    "collection": "Lonis",
+    "identified_by": "printed_title"
+  },
+  "Tree of Tales": {
+    "file": "Árvore das Histórias no Pântano.png",
+    "key": "3/b/3b3134b3-1bad-4b41-9e56-700125ff31fa.jpg?1783909556",
+    "collection": "Lonis",
+    "identified_by": "printed_title"
   }
 }
