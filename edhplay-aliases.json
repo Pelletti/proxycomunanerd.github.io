@@ -1313,5 +1313,23 @@
     "key": "e/7/e7c927d6-911d-4a37-89a2-6c500edf4dd7.jpg?1783936566",
     "collection": "Kaervek",
     "identified_by": "printed_title"
+  },
+  "Curse of the Swine": {
+    "file": "Maldição dos Porcos na Corte Imperial.png",
+    "key": "9/1/91eb9067-0bc7-4497-ba9c-c1ea41e5a379.jpg?1783903795",
+    "collection": "Lonis",
+    "identified_by": "printed_title"
+  },
+  "The Earth Crystal": {
+    "file": "O Cristal da Terra na Selva.png",
+    "key": "d/5/d585e218-3dc8-4fbd-8ad2-795fbc9b2155.jpg?1783906588",
+    "collection": "Lonis",
+    "identified_by": "printed_title"
+  },
+  "Tarrian's Soulcleaver": {
+    "file": "Tarrien’s Soulcleaver_ Artefato Perdido.png",
+    "key": "9/9/99413817-1218-4947-b12f-9a952b095a89.jpg?1783913721",
+    "collection": "Lonis",
+    "identified_by": "printed_title"
   }
 }
