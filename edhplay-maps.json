@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-10-10.2",
+  "revision": "2026-10-10.3",
   "decks": {
     "136585d1-64f8-4c01-b0f9-c07b747cde36": {
       "name": "Yurlok",
@@ -303,7 +303,28 @@
         "2/0/20ccbfdd-ddae-440c-9bc0-38b15a56fdd1.jpg?1783909090": "https://pelletti.github.io/proxycomunanerd.github.io/Zimone%2C%20Escultora%20de%20Paradoxos.png",
         "9/1/91eb9067-0bc7-4497-ba9c-c1ea41e5a379.jpg?1783903795": "https://pelletti.github.io/proxycomunanerd.github.io/Maldi%C3%A7%C3%A3o%20dos%20Porcos%20na%20Corte%20Imperial.png",
         "d/5/d585e218-3dc8-4fbd-8ad2-795fbc9b2155.jpg?1783906588": "https://pelletti.github.io/proxycomunanerd.github.io/O%20Cristal%20da%20Terra%20na%20Selva.png",
-        "9/9/99413817-1218-4947-b12f-9a952b095a89.jpg?1783913721": "https://pelletti.github.io/proxycomunanerd.github.io/Tarrien%E2%80%99s%20Soulcleaver_%20Artefato%20Perdido.png"
+        "9/9/99413817-1218-4947-b12f-9a952b095a89.jpg?1783913721": "https://pelletti.github.io/proxycomunanerd.github.io/Tarrien%E2%80%99s%20Soulcleaver_%20Artefato%20Perdido.png",
+        "6/a/6a90f9e6-9251-4203-9599-cc4032a5e6e1.jpg?1783911242": "https://pelletti.github.io/proxycomunanerd.github.io/Arco%20da%20Inova%C3%A7%C3%A3o%20Celestial.png",
+        "5/7/57a194b3-2899-4dee-977a-c77df0b94dfe.jpg?1783906005": "https://pelletti.github.io/proxycomunanerd.github.io/Assento%20do%20S%C3%ADnodo%20em%20Lumengrid.png",
+        "2/1/2135ac5a-187b-4dc9-8f82-34e8d1603416.jpg?1783923818": "https://pelletti.github.io/proxycomunanerd.github.io/Boseiju%20Sob%20a%20Chuva%20kontaktannonser.png",
+        "6/3/63e4dc07-c742-41bd-8301-861637908fd1.jpg?1784036820": "https://pelletti.github.io/proxycomunanerd.github.io/Breeding%20Pool_%20Gruta%20Bioluminescente.png",
+        "front/b/6/b6de14ae-0132-4261-af00-630bf15918cd.jpg?1783928184": "https://pelletti.github.io/proxycomunanerd.github.io/Caminho%20Entre%20Floresta%20e%20Mar.png",
+        "back/b/6/b6de14ae-0132-4261-af00-630bf15918cd.jpg?1783928184": "https://pelletti.github.io/proxycomunanerd.github.io/Caminho%20Entre%20Floresta%20e%20Mar.png",
+        "e/f/ef662b92-5a7f-48c9-bcc1-14b55e091aef.jpg?1783903621": "https://pelletti.github.io/proxycomunanerd.github.io/Cascata%20Dreamroot_%20Floresta%20Encantada.png",
+        "7/d/7dcdf1db-bfaf-4160-8003-1fa2e56b00dc.jpg?1783939069": "https://pelletti.github.io/proxycomunanerd.github.io/Escamas%20Endurecidas%20na%20Selva%20M%C3%A1gica.png",
+        "f/4/f4b2c132-0e57-4273-aa30-e78870647dc7.jpg?1783912358": "https://pelletti.github.io/proxycomunanerd.github.io/Evolu%C3%A7%C3%A3o%20Ramificada%20na%20Selva%20Pulp.png",
+        "f/2/f2c4f80e-84a0-463b-82c3-5c6503809351.jpg?1783909062": "https://pelletti.github.io/proxycomunanerd.github.io/Laborat%C3%B3rio%20da%20Multiplica%C3%A7%C3%A3o%20Infinita.png",
+        "9/1/911a2b5d-7e2d-4358-8e38-cbae7192e4d4.jpg?1783937718": "https://pelletti.github.io/proxycomunanerd.github.io/Mist%C3%A9rios%20de%20Ulvenwald_%20Pistas%20no%20P%C3%A2ntano.png",
+        "9/3/9341ed06-53db-4604-b60a-3ea9129afbc2.jpg?1783931006": "https://pelletti.github.io/proxycomunanerd.github.io/O%20Oz%C3%B3lito%20na%20Floresta%20Encantada.png",
+        "4/8/486d7edc-d983-41f0-8b78-c99aecd72996.jpg?1783923816": "https://pelletti.github.io/proxycomunanerd.github.io/Otawara%2C%20Cidade%20Celestial.png",
+        "d/6/d631d040-51e9-4540-91e7-aeb5ade84090.jpg?1783934949": "https://pelletti.github.io/proxycomunanerd.github.io/Porto%20do%20Hinterland%20sob%20o%20Arco%20Gigante.png",
+        "4/5/455be293-80cf-4bc6-8904-8dd21a2b9d19.jpg?1783915585": "https://pelletti.github.io/proxycomunanerd.github.io/Primavera%20Tropical%20Revitalizante.png",
+        "9/d/9df37469-6e2d-4783-aad3-c897ecbc967d.jpg?1783919922": "https://pelletti.github.io/proxycomunanerd.github.io/Saga%20de%20Urza%20em%20Ru%C3%ADnas%20Antigas.png",
+        "8/1/81766fd6-c7e0-4527-a63e-512d126c0421.jpg?1783934503": "https://pelletti.github.io/proxycomunanerd.github.io/Torre%20do%20Arquivo%20Dourado.png",
+        "1/1/11da39d6-cfa6-498d-91b1-11454cc7e5a3.jpg?1783905913": "https://pelletti.github.io/proxycomunanerd.github.io/Uthros%2C%20Deus%20das%20Tempestades.png",
+        "4/b/4bfc5847-c3b4-41e7-8087-73ac4850bc1b.jpg?1783915589": "https://pelletti.github.io/proxycomunanerd.github.io/Vasculhador%20de%20Pensamentos%20na%20Selva.png",
+        "b/6/b6ca755c-4b17-450b-b995-bfec8a55396f.jpg?1783903845": "https://pelletti.github.io/proxycomunanerd.github.io/Wilderness%20em%20Espiral%20M%C3%ADstica.png",
+        "3/b/3b3134b3-1bad-4b41-9e56-700125ff31fa.jpg?1783909556": "https://pelletti.github.io/proxycomunanerd.github.io/%C3%81rvore%20das%20Hist%C3%B3rias%20no%20P%C3%A2ntano.png"
       }
     }
   }
