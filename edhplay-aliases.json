@@ -29,6 +29,12 @@
     "key": "a/9/a93e3406-4e29-4bc0-ae52-cbd2ac1f99a4.jpg?1783909093",
     "collection": "Ares"
   },
+  "An Offer You Can't Refuse": {
+    "file": "Oferta Irrecusável no Submundo.png",
+    "key": "b/9/b9d349f3-5be2-4b1f-a4c3-ba94822cf0cf.jpg?1783923143",
+    "collection": "Lonis",
+    "identified_by": "printed_title"
+  },
   "Anger": {
     "file": "Anger.png",
     "key": "3/4/340b9004-e05e-4590-a200-b62bd77d1007.jpg?1783932130",
@@ -43,6 +49,12 @@
   "Aragorn, the Uniter": {
     "file": "Aragorn Uniter.png",
     "key": "e/9/e98d5321-ec09-456c-a9ea-c8ca2cfc6205.jpg?1783916262"
+  },
+  "Arcane Denial": {
+    "file": "Negação Arcana em Noir Mágico.png",
+    "key": "a/7/a7966bd2-b541-44a2-891c-e89e89ed78f2.jpg?1783906717",
+    "collection": "Lonis",
+    "identified_by": "printed_title"
   },
   "Arcane Signet": {
     "file": "Detetive Arcano_ O Signete Simic.png",
@@ -119,7 +131,15 @@
   "Beast Within": {
     "file": "Beast Within.png",
     "key": "a/9/a92582ef-3305-45f9-ba8d-e22ce5381fe8.jpg?1783906708",
-    "collection": "Yurlok"
+    "collection": "Yurlok",
+    "alternatives": [
+      {
+        "file": "Fera Interior_ Transformação Sob a Lua.png",
+        "key": "a/9/a92582ef-3305-45f9-ba8d-e22ce5381fe8.jpg?1783906708",
+        "collection": "Lonis",
+        "identified_by": "printed_title"
+      }
+    ]
   },
   "Belbe, Corrupted Observer": {
     "file": "Belbe.png",
@@ -258,6 +278,12 @@
       }
     ]
   },
+  "Confront the Unknown": {
+    "file": "Confronte o Desconhecido_ Investigação Sombria.png",
+    "key": "c/5/c59557c3-aba2-4f80-8f37-accb7b991cb9.jpg?1783937733",
+    "collection": "Lonis",
+    "identified_by": "printed_title"
+  },
   "Corpsejack Menace": {
     "file": "Corpsejack.png",
     "key": "8/5/85caf05a-035b-47c0-975c-dec76799ffcf.jpg?1783904156"
@@ -268,9 +294,21 @@
     "collection": "Admiral Brass",
     "identified_by": "printed_title"
   },
+  "Counterspell": {
+    "file": "Detetive Mágico Contra-Ataca a Feitiçaria.png",
+    "key": "8/4/8493131c-0a7b-4be6-a8a2-0b425f4f67fb.jpg?1783915703",
+    "collection": "Lonis",
+    "identified_by": "printed_title"
+  },
   "Cryptic Trilobite": {
     "file": "cryptic_trilobite.png",
     "key": "a/7/a73c630c-c98d-4f8a-9e6a-2576d5fec4ee.jpg?1783931224",
+    "collection": "Lonis",
+    "identified_by": "printed_title"
+  },
+  "Cultivate": {
+    "file": "Cultive_ Mapas de um Amanhã Verde.png",
+    "key": "4/a/4a433310-3fe2-4156-864d-7a6b2638340b.jpg?1783930678",
     "collection": "Lonis",
     "identified_by": "printed_title"
   },
@@ -426,6 +464,12 @@
     "key_status": "unconfirmed_edhplay",
     "identified_by": "printed_title"
   },
+  "Five Hundred Year Diary": {
+    "file": "Diário de Quinhentos Anos.png",
+    "key": "8/9/89c1ebc5-6775-47f3-be43-e59b281eba55.jpg?1783914670",
+    "collection": "Lonis",
+    "identified_by": "printed_title"
+  },
   "Fog": {
     "file": "Fog.png",
     "key": "9/e/9e85f2ce-1910-41fa-9908-bdb14da123bb.jpg?1783932016",
@@ -543,7 +587,15 @@
   "Heroic Intervention": {
     "file": "Heroic Intervention.png",
     "key": "8/f/8f5a620c-fde7-4b72-bf8a-efc4f14560c5.jpg?1783936743",
-    "collection": "Yurlok"
+    "collection": "Yurlok",
+    "alternatives": [
+      {
+        "file": "Intervenção Heroica em Noite Chuvosa.png",
+        "key": "8/f/8f5a620c-fde7-4b72-bf8a-efc4f14560c5.jpg?1783936743",
+        "collection": "Lonis",
+        "identified_by": "printed_title"
+      }
+    ]
   },
   "Hexing Squelcher": {
     "file": "Hexing Squelcher.png",
@@ -578,6 +630,18 @@
   "Incubation Druid": {
     "file": "Incubação_ Druida do Bosque Mágico.png",
     "key": "0/7/075bbe5d-d0f3-4be3-a3a6-072d5d3d614c.jpg?1783933668",
+    "collection": "Lonis",
+    "identified_by": "printed_title"
+  },
+  "Inspiring Call": {
+    "file": "Chamado Inspirador no Clube de Jazz.png",
+    "key": "c/5/c565b991-7021-4b81-b9c0-f7231daae360.jpg?1783938578",
+    "collection": "Lonis",
+    "identified_by": "printed_title"
+  },
+  "Inspiring Statuary": {
+    "file": "Estátua Dourada do Progresso.png",
+    "key": "4/0/40e2564f-0066-41e0-a767-13ef33a17024.jpg?1783936725",
     "collection": "Lonis",
     "identified_by": "printed_title"
   },
@@ -680,6 +744,12 @@
     "key": "2/4/24614006-d99f-44b6-8ec1-29b48a1713d0.jpg?1783924614",
     "collection": "Vial and Krark"
   },
+  "Krark-Clan Ironworks": {
+    "file": "Krark-Clan_ Sucata em Chamas.png",
+    "key": "c/6/c60174d6-1f9d-4870-b3db-34d6fcb3f6ab.jpg?1783944378",
+    "collection": "Lonis",
+    "identified_by": "printed_title"
+  },
   "Lavalanche": {
     "file": "Lavalanche.png",
     "key": "e/9/e903a1d8-2127-4a32-9223-8ff6574c503f.jpg?1783921822",
@@ -694,6 +764,12 @@
     "file": "Leyline Tyrant.png",
     "key": "8/4/847ae75b-1c0f-4d0a-9933-9a302c88dc27.jpg?1783929358",
     "collection": "Yurlok"
+  },
+  "Lightning Greaves": {
+    "file": "Grevas Relâmpago na Chuva.png",
+    "key": "e/a/ea21033a-9318-4599-a4bc-b7262621d7d8.jpg?1783908470",
+    "collection": "Lonis",
+    "identified_by": "printed_title"
   },
   "Llanowar Elves": {
     "file": "Grito de Guerra dos Elfos de Llanowar.png",
@@ -785,6 +861,18 @@
     "collection": "Lonis",
     "identified_by": "printed_title"
   },
+  "Nature's Lore": {
+    "file": "Natureza Revelada na Floresta Mística.png",
+    "key": "d/e/deb0e799-1920-4cd9-acd2-2df9df333712.jpg?1788990647",
+    "collection": "Lonis",
+    "identified_by": "printed_title"
+  },
+  "Negate": {
+    "file": "Negação na Chuva Noir.png",
+    "key": "5/2/52d58fe4-6070-4022-9cd7-c35a11b44525.jpg?1783904112",
+    "collection": "Lonis",
+    "identified_by": "printed_title"
+  },
   "Neheb, the Eternal": {
     "file": "Neheb, o Eterno em Chamas.png",
     "key": "5/4/54231832-d492-4812-b658-4ab9a30fefe2.jpg?1783936025",
@@ -836,6 +924,12 @@
     "key": "a/9/a98b1550-4609-4a2f-9371-4afe1cdc613e.jpg?1783904923",
     "collection": "Yurlok"
   },
+  "Ozolith, the Shattered Spire": {
+    "file": "Ozilith e a Torre Fragmentada.png",
+    "key": "c/9/c9eee658-29e8-4ab5-8a0e-31f2f28a9a92.jpg?1783916964",
+    "collection": "Lonis",
+    "identified_by": "printed_title"
+  },
   "Pain Distributor": {
     "file": "Distribuidor da Dor em Cidade Infernal Neon.png",
     "key": "3/a/3a3a0170-444e-4147-96b6-b14bb5649108.jpg?1783917281",
@@ -863,9 +957,21 @@
     "back_file": "Pico Místico ao Entardecer.png",
     "back_key": "back/2/4/24d4f26e-7f96-4b38-867e-4fac819b2679.jpg?1783911228"
   },
+  "Piper Wright, Publick Reporter": {
+    "file": "Piper Wright_ Verdades à Meia-Luz.png",
+    "key": "9/1/916bf331-455a-4694-93d3-15dcf6971072.jpg?1783912412",
+    "collection": "Lonis",
+    "identified_by": "printed_title"
+  },
   "Plains": {
     "file": "Planicie.png",
     "key": "0/2/021f3a8e-5ce2-4edf-827d-b748d146e6f3.jpg?1783905578"
+  },
+  "Pollywog Prodigy": {
+    "file": "Pollywog Prodigy_ Mago das Águas.png",
+    "key": "9/4/94a020df-714b-4465-bfa2-ac15f27d8412.jpg?1783910733",
+    "collection": "Lonis",
+    "identified_by": "printed_title"
   },
   "Professor Onyx": {
     "file": "Professora Onyx e a Mão Espectral.png",
@@ -884,6 +990,12 @@
     "collection": "Kaervek",
     "identified_by": "printed_title"
   },
+  "Rapid Hybridization": {
+    "file": "Hibridização Relâmpago_ Transformação Anfíbia.png",
+    "key": "9/c/9c9d4ea4-2ca2-46d2-b196-e0f5e1100edf.jpg?1783909929",
+    "collection": "Lonis",
+    "identified_by": "printed_title"
+  },
   "Razorkin Needlehead": {
     "file": "Assassino das Agulhas Rubras.png",
     "key": "b/c/bc73b963-23c0-46d2-853a-34a8b463994e.jpg?1783909463",
@@ -895,6 +1007,24 @@
     "key": "3/6/368b6903-5fc4-43e7-bd44-46b8107c8bb4.jpg?1783909614",
     "collection": "Grenzo",
     "key_status": "unconfirmed_edhplay",
+    "identified_by": "printed_title"
+  },
+  "Repulsive Mutation": {
+    "file": "Mutação Repulsiva no Laboratório.png",
+    "key": "7/1/71701c28-f113-4d38-8fd3-a19cd9749661.jpg?1783912838",
+    "collection": "Lonis",
+    "identified_by": "printed_title"
+  },
+  "Ripples of Potential": {
+    "file": "Ondulações do Potencial_ Experimento Arcano.png",
+    "key": "8/e/8e724c6d-3922-406f-b9e6-e478e1039416.jpg?1783906041",
+    "collection": "Lonis",
+    "identified_by": "printed_title"
+  },
+  "Rise and Shine": {
+    "file": "Artefatos Despertam no Laboratório.png",
+    "key": "8/1/816716d6-4234-4570-9a64-cb3bef388095.jpg?1783917166",
+    "collection": "Lonis",
     "identified_by": "printed_title"
   },
   "Rot-Curse Rakshasa": {
@@ -1026,6 +1156,18 @@
       }
     ]
   },
+  "Swiftfoot Boots": {
+    "file": "Botas Velozes nas Ruínas Místicas.png",
+    "key": "4/1/41040541-b129-4cf4-9411-09b1d9d32c19.jpg?1783909047",
+    "collection": "Lonis",
+    "identified_by": "printed_title"
+  },
+  "Tangletrove Kelp": {
+    "file": "Tangletrove Kelp_ Mistério Submerso.png",
+    "key": "7/5/7582d7c0-6cb6-47d1-8026-3d661b5a809f.jpg?1783913046",
+    "collection": "Lonis",
+    "identified_by": "printed_title"
+  },
   "Tavern Scoundrel": {
     "file": "Valete da Taverna sob Luz de Velas.png",
     "key": "c/7/c71f0329-27ec-463d-8fde-edbdc378ee0f.jpg?1783924603",
@@ -1051,6 +1193,12 @@
       }
     ]
   },
+  "Thranduil's Company": {
+    "file": "Companhia de Thranduil sob a Lua.png",
+    "key": "a/b/abdb9d4e-e6ca-409b-b589-0cf71724340b.jpg?1785412736",
+    "collection": "Lonis",
+    "identified_by": "printed_title"
+  },
   "Three Tree City": {
     "file": "3 arvores goblin.png",
     "key": "5/6/56f88a48-cced-4a9d-8c19-e4f105f0d8a2.jpg?1783910782",
@@ -1063,7 +1211,21 @@
   "Three Visits": {
     "file": "Three Visit.png",
     "key": "4/e/4ef7407c-c159-492e-b9ed-79478118822f.jpg?1783913104",
-    "collection": "Yurlok"
+    "collection": "Yurlok",
+    "alternatives": [
+      {
+        "file": "Três Detetives na Ruína Encantada.png",
+        "key": "4/e/4ef7407c-c159-492e-b9ed-79478118822f.jpg?1783913104",
+        "collection": "Lonis",
+        "identified_by": "printed_title"
+      }
+    ]
+  },
+  "Tireless Tracker": {
+    "file": "Rastreadora Incansável na Floresta Lunar.png",
+    "key": "e/e/ee8e9928-d9b2-4570-adb8-44b34115decd.jpg?1783937719",
+    "collection": "Lonis",
+    "identified_by": "printed_title"
   },
   "Torbran, Thane of Red Fell": {
     "file": "Torbran, Senhor da Forja Rubra.png",
@@ -1108,6 +1270,12 @@
     "key": "f/5/f511830b-1c1f-4d30-aa5d-4314726d142e.jpg?1783903780",
     "collection": "Ares"
   },
+  "Wave Goodbye": {
+    "file": "Despedida em Onda Arcana.png",
+    "key": "4/5/45803e98-5d99-4bd9-adac-37c854649167.jpg?1783913912",
+    "collection": "Lonis",
+    "identified_by": "printed_title"
+  },
   "Xira Arien": {
     "file": "Xira Arien.png",
     "key": "c/e/ce050d13-7897-4889-a514-a7617a1ed686.jpg?1783918423",
@@ -1133,6 +1301,12 @@
     "file": "Zhur-Taa Druid.png",
     "key": "f/1/f1882783-7284-490f-a0de-df9eb11f6ea5.jpg?1783931783",
     "collection": "Yurlok"
+  },
+  "Zimone, Paradox Sculptor": {
+    "file": "Zimone, Escultora de Paradoxos.png",
+    "key": "2/0/20ccbfdd-ddae-440c-9bc0-38b15a56fdd1.jpg?1783909090",
+    "collection": "Lonis",
+    "identified_by": "printed_title"
   },
   "Zo-Zu the Punisher": {
     "file": "Zo-Zu, o Justiceiro da Savana.png",
