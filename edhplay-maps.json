@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-10-10.4",
+  "revision": "2026-10-11.1",
   "decks": {
     "136585d1-64f8-4c01-b0f9-c07b747cde36": {
       "name": "Yurlok",
@@ -326,6 +326,48 @@
         "b/6/b6ca755c-4b17-450b-b995-bfec8a55396f.jpg?1783903845": "https://pelletti.github.io/proxycomunanerd.github.io/Wilderness%20em%20Espiral%20M%C3%ADstica.png",
         "3/b/3b3134b3-1bad-4b41-9e56-700125ff31fa.jpg?1783909556": "https://pelletti.github.io/proxycomunanerd.github.io/%C3%81rvore%20das%20Hist%C3%B3rias%20no%20P%C3%A2ntano.png",
         "2/6/26008c7d-5dbe-4da2-b475-4dd307e7bc68.jpg?1783905928": "https://pelletti.github.io/proxycomunanerd.github.io/Terrasimbiose_%20Vida%20em%20Evolu%C3%A7%C3%A3o.png"
+      }
+    },
+    "39d15f3f-5729-456e-9fc9-c292a633dfc4": {
+      "name": "Rashmi e Ragavan",
+      "commanders": [
+        {
+          "name": "Rashmi and Ragavan",
+          "keys": [
+            "3/0/30b2f2fd-8087-4fa8-9eb7-bf9b89a5dfb9.jpg?1783917291"
+          ]
+        }
+      ],
+      "replacements": {
+        "1/3/13505866-6ce9-4d11-b3f3-fc2f09839b71.jpg?1783935302": "https://pelletti.github.io/proxycomunanerd.github.io/Imagem%20do%20ChatGPT%2011%20de%20out.%20de%202026%2C%2015_45_10-1.png",
+        "a/9/a92582ef-3305-45f9-ba8d-e22ce5381fe8.jpg?1783906708": "https://pelletti.github.io/proxycomunanerd.github.io/Imagem%20do%20ChatGPT%2011%20de%20out.%20de%202026%2C%2015_45_12-2.png",
+        "3/9/39d1578f-e2cf-4b93-8204-ed5434feb183.jpg?1783923123": "https://pelletti.github.io/proxycomunanerd.github.io/Imagem%20do%20ChatGPT%2011%20de%20out.%20de%202026%2C%2015_45_14-3.png",
+        "4/a/4a433310-3fe2-4156-864d-7a6b2638340b.jpg?1783930678": "https://pelletti.github.io/proxycomunanerd.github.io/Imagem%20do%20ChatGPT%2011%20de%20out.%20de%202026%2C%2015_45_15-4.png",
+        "2/0/204476df-d5b1-4d0b-b0d3-a4c3fc7efcab.jpg?1783906706": "https://pelletti.github.io/proxycomunanerd.github.io/Imagem%20do%20ChatGPT%2011%20de%20out.%20de%202026%2C%2015_45_16-5.png",
+        "9/9/99e0c371-1024-4432-9fd9-3bc29c8d38e4.jpg?1783912996": "https://pelletti.github.io/proxycomunanerd.github.io/Imagem%20do%20ChatGPT%2011%20de%20out.%20de%202026%2C%2015_45_17-6.png",
+        "d/5/d56f8cca-6b8f-45ea-926f-161938716ee9.jpg?1783936769": "https://pelletti.github.io/proxycomunanerd.github.io/Imagem%20do%20ChatGPT%2011%20de%20out.%20de%202026%2C%2015_45_19-7.png",
+        "8/4/8493131c-0a7b-4be6-a8a2-0b425f4f67fb.jpg?1783915703": "https://pelletti.github.io/proxycomunanerd.github.io/Imagem%20do%20ChatGPT%2011%20de%20out.%20de%202026%2C%2015_45_20-8.png",
+        "8/1/816716d6-4234-4570-9a64-cb3bef388095.jpg?1783917166": "https://pelletti.github.io/proxycomunanerd.github.io/Imagem%20do%20ChatGPT%2011%20de%20out.%20de%202026%2C%2015_45_21-9.png",
+        "3/0/30b2f2fd-8087-4fa8-9eb7-bf9b89a5dfb9.jpg?1783917291": "https://pelletti.github.io/proxycomunanerd.github.io/Imagem%20do%20ChatGPT%2011%20de%20out.%20de%202026%2C%2015_45_42-1.png",
+        "3/c/3ce37555-49a2-4112-95b4-f3376b55b45b.jpg?1783937168": "https://pelletti.github.io/proxycomunanerd.github.io/Imagem%20do%20ChatGPT%2011%20de%20out.%20de%202026%2C%2015_45_43-2.png",
+        "a/9/a9738cda-adb1-47fb-9f4c-ecd930228c4d.jpg?1783926839": "https://pelletti.github.io/proxycomunanerd.github.io/Imagem%20do%20ChatGPT%2011%20de%20out.%20de%202026%2C%2015_45_44-3.png",
+        "b/9/b9c11061-bb34-4904-b9f1-ea106b517bbe.jpg?1783912983": "https://pelletti.github.io/proxycomunanerd.github.io/Imagem%20do%20ChatGPT%2011%20de%20out.%20de%202026%2C%2015_45_46-4.png",
+        "2/5/25eff27a-eb58-4a95-b2df-4a341cf9bef6.jpg?1783930137": "https://pelletti.github.io/proxycomunanerd.github.io/Imagem%20do%20ChatGPT%2011%20de%20out.%20de%202026%2C%2015_45_47-5.png",
+        "0/c/0cc0dea3-14a2-4fed-a656-d48f869273c8.jpg?1787678129": "https://pelletti.github.io/proxycomunanerd.github.io/Imagem%20do%20ChatGPT%2011%20de%20out.%20de%202026%2C%2015_45_49-6.png",
+        "0/8/082193bc-51fc-4140-ace5-04b89049b66a.jpg?1787700235": "https://pelletti.github.io/proxycomunanerd.github.io/Imagem%20do%20ChatGPT%2011%20de%20out.%20de%202026%2C%2015_45_50-7.png",
+        "7/7/77ceba8b-de19-4db8-b5a7-f5df49bf241f.jpg?1783926458": "https://pelletti.github.io/proxycomunanerd.github.io/Imagem%20do%20ChatGPT%2011%20de%20out.%20de%202026%2C%2015_45_51-8.png",
+        "7/b/7b7a348a-51f7-4dc5-8fe7-1c70fea5e050.jpg?1783915686": "https://pelletti.github.io/proxycomunanerd.github.io/Imagem%20do%20ChatGPT%2011%20de%20out.%20de%202026%2C%2015_45_53-9.png",
+        "6/a/6a5d8fad-2ffd-4645-8c49-907999b6cecf.jpg?1783902784": "https://pelletti.github.io/proxycomunanerd.github.io/Imagem%20do%20ChatGPT%2011%20de%20out.%20de%202026%2C%2015_45_54-10.png",
+        "a/7/a7cb4100-1696-4393-8f1f-634018e0b78f.jpg?1783908487": "https://pelletti.github.io/proxycomunanerd.github.io/Imagem%20do%20ChatGPT%2011%20de%20out.%20de%202026%2C%2015_48_43-1.png",
+        "6/0/60f23a6c-0fdf-4740-af92-1179e2153b2c.jpg?1783915142": "https://pelletti.github.io/proxycomunanerd.github.io/Imagem%20do%20ChatGPT%2011%20de%20out.%20de%202026%2C%2015_48_45-2.png",
+        "1/2/127c221f-94e7-4a0e-a7a6-79ef399862d3.jpg?1783905929": "https://pelletti.github.io/proxycomunanerd.github.io/Imagem%20do%20ChatGPT%2011%20de%20out.%20de%202026%2C%2015_48_46-3.png",
+        "3/f/3ffe931c-9f19-4ea5-bc24-041eb00a5862.jpg?1787680740": "https://pelletti.github.io/proxycomunanerd.github.io/Imagem%20do%20ChatGPT%2011%20de%20out.%20de%202026%2C%2015_48_48-4.png",
+        "4/7/47793a51-08c6-4ad2-a7e5-a4484d83a5cd.jpg?1788329298": "https://pelletti.github.io/proxycomunanerd.github.io/Imagem%20do%20ChatGPT%2011%20de%20out.%20de%202026%2C%2015_48_50-5.png",
+        "1/9/19bf6b74-b236-42eb-8c88-d715cece6357.jpg?1783906045": "https://pelletti.github.io/proxycomunanerd.github.io/Imagem%20do%20ChatGPT%2011%20de%20out.%20de%202026%2C%2015_48_51-6.png",
+        "1/1/112f8478-bd89-4a14-9721-8ab750613129.jpg?1789470842": "https://pelletti.github.io/proxycomunanerd.github.io/Imagem%20do%20ChatGPT%2011%20de%20out.%20de%202026%2C%2015_48_53-7.png",
+        "9/d/9d914868-9000-4df2-a818-0ef8a7f636ae.jpg?1783928228": "https://pelletti.github.io/proxycomunanerd.github.io/Imagem%20do%20ChatGPT%2011%20de%20out.%20de%202026%2C%2015_48_54-8.png",
+        "7/f/7f1ccee1-20d1-48f2-ae90-a7a78172e05d.jpg?1783917283": "https://pelletti.github.io/proxycomunanerd.github.io/Imagem%20do%20ChatGPT%2011%20de%20out.%20de%202026%2C%2015_48_56-9.png",
+        "1/d/1d8dd6c3-3699-4dd1-a019-fdb569eaf722.jpg?1783922736": "https://pelletti.github.io/proxycomunanerd.github.io/Imagem%20do%20ChatGPT%2011%20de%20out.%20de%202026%2C%2015_48_57-10.png"
       }
     }
   }
