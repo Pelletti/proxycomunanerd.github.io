@@ -1772,5 +1772,29 @@
     "key": "3/5/35372b69-6086-44e0-9f7c-681e362e5142.jpg?1783906002",
     "collection": "Dark Avacyn",
     "identified_by": "printed_title"
+  },
+  "Marionette Apprentice": {
+    "file": "Aprendiz de Marionetes no Teatro Sombrio.png",
+    "key": "9/9/99267114-ed51-47ea-9a64-46bd7498fde3.jpg?1787681804",
+    "collection": "Dark Avacyn",
+    "identified_by": "printed_title"
+  },
+  "Massacre Girl, Most Wanted": {
+    "file": "Garota do Massacre no beco.png",
+    "key": "9/0/9028d31f-9c41-47e3-885b-6a869bca8178.jpg?1789644882",
+    "collection": "Dark Avacyn",
+    "identified_by": "printed_title"
+  },
+  "Kokusho, the Evening Star": {
+    "file": "Kokusho, dragão do crepúsculo âmbar.png",
+    "key": "a/b/ab56cedb-1bcd-48a5-8503-a8e324e236ad.jpg?1783935537",
+    "collection": "Dark Avacyn",
+    "identified_by": "printed_title"
+  },
+  "Massacre Girl": {
+    "file": "Massacre Girl no beco gótico.png",
+    "key": "b/e/be8ec9e1-2c8e-496d-9111-4d453b75b578.jpg?1783933441",
+    "collection": "Dark Avacyn",
+    "identified_by": "printed_title"
   }
 }
