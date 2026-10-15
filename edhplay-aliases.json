@@ -203,7 +203,15 @@
   "Blood Artist": {
     "file": "Blood Artist.png",
     "key": "4/5/45b6d1f8-a470-4471-bd4f-bed31cb4d344.jpg?1787680996",
-    "collection": "Ares"
+    "collection": "Ares",
+    "alternatives": [
+      {
+        "file": "Pintora vampira com espectro carmesim.png",
+        "key": "4/5/45b6d1f8-a470-4471-bd4f-bed31cb4d344.jpg?1787680996",
+        "collection": "Dark Avacyn",
+        "identified_by": "printed_title"
+      }
+    ]
   },
   "Bloom Tender": {
     "file": "Bloom Tender Pokemon.png",
@@ -216,7 +224,21 @@
     "front_key": "front/d/0/d0d484a6-5610-4f1d-95ec-eda273c255e4.jpg?1783911234",
     "back_key": "back/d/0/d0d484a6-5610-4f1d-95ec-eda273c255e4.jpg?1783911234",
     "collection": "Kaervek",
-    "identified_by": "printed_title"
+    "identified_by": "printed_title",
+    "alternatives": [
+      {
+        "file": "Boggart Arrastador no Pântano Sombrio.png",
+        "key": "front/d/0/d0d484a6-5610-4f1d-95ec-eda273c255e4.jpg?1783911234",
+        "collection": "Dark Avacyn",
+        "identified_by": "printed_title"
+      },
+      {
+        "file": "Pântano Boggart sob a lua rubra.png",
+        "key": "back/d/0/d0d484a6-5610-4f1d-95ec-eda273c255e4.jpg?1783911234",
+        "collection": "Dark Avacyn",
+        "identified_by": "printed_title"
+      }
+    ]
   },
   "Brash Taunter": {
     "file": "Taunter Goblin em Fúria.png",
@@ -263,7 +285,15 @@
   "Carrion Feeder": {
     "file": "Carrion Feeder.png",
     "key": "2/2/22a77543-749a-49d8-96f4-3458ae5dcd38.jpg?1783931992",
-    "collection": "Ares"
+    "collection": "Ares",
+    "alternatives": [
+      {
+        "file": "Necrófago zumbi no cemitério.png",
+        "key": "2/2/22a77543-749a-49d8-96f4-3458ae5dcd38.jpg?1783931992",
+        "collection": "Dark Avacyn",
+        "identified_by": "printed_title"
+      }
+    ]
   },
   "Charmbreaker Devils": {
     "file": "Diabos e Magia Azul em Ruínas.png",
@@ -1657,6 +1687,90 @@
     "file": "Imagem do ChatGPT 11 de out. de 2026, 15_48_57-10.png",
     "key": "1/d/1d8dd6c3-3699-4dd1-a019-fdb569eaf722.jpg?1783922736",
     "collection": "Rashmi e Ragavan",
+    "identified_by": "printed_title"
+  },
+  "Grim Haruspex": {
+    "file": "Adivinha sombria das fitas carmesins.png",
+    "key": "c/f/cf1fe2bf-1640-4781-87b4-09a1f7d35831.jpg?1783939081",
+    "collection": "Dark Avacyn",
+    "identified_by": "printed_title"
+  },
+  "Apprentice Necromancer": {
+    "file": "Aprendiz de necromante reanima cadáver.png",
+    "key": "f/d/fd0c2480-5bdf-4754-88cc-96d3f0c6b2c0.jpg?1783910266",
+    "collection": "Dark Avacyn",
+    "identified_by": "printed_title"
+  },
+  "Avacyn, Angel of Horror": {
+    "file": "Avacyn, anjo alado da cripta.png",
+    "key": "4/f/4fc478a2-7cf8-4946-a631-51bd4f1823e6.jpg?1790310546",
+    "collection": "Dark Avacyn",
+    "identified_by": "printed_title"
+  },
+  "Ayara, First of Locthwain": {
+    "file": "Ayara vampira no banquete sombrio.png",
+    "key": "e/d/ed0ace28-9a33-4f0d-b8c8-f5517f20ccf1.jpg?1783932644",
+    "collection": "Dark Avacyn",
+    "identified_by": "printed_title"
+  },
+  "Braids, Arisen Nightmare": {
+    "file": "Braids, Pesadelo Ressurgido.png",
+    "key": "4/f/4ff97c69-6a6b-401c-b0a1-55fa81045d19.jpg?1783921336",
+    "collection": "Dark Avacyn",
+    "identified_by": "printed_title"
+  },
+  "Blood Pet": {
+    "file": "Carta Blood Pet com tipo corrigido.png",
+    "key": "5/a/5a89ba1b-e68b-4d70-a25e-27be9bf48a3b.jpg?1783946645",
+    "collection": "Dark Avacyn",
+    "identified_by": "printed_title"
+  },
+  "Disciple of Bolas": {
+    "file": "Discípulo de Bolas no altar sombrio.png",
+    "key": "e/9/e9263fc4-f9f5-447a-a055-eeec80ba387e.jpg?1783909243",
+    "collection": "Dark Avacyn",
+    "identified_by": "printed_title"
+  },
+  "Junji, the Midnight Sky": {
+    "file": "Dragão espectral sob a lua.png",
+    "key": "9/0/9033cf27-d9e6-49b8-8ee1-c1f38c9680b9.jpg?1783923885",
+    "collection": "Dark Avacyn",
+    "identified_by": "printed_title"
+  },
+  "Crypt Ghast": {
+    "file": "Espectro do Sarcófago Carmesim.png",
+    "key": "6/0/60bebd79-f88c-44ef-8920-e19031bad1d6.jpg?1783913328",
+    "collection": "Dark Avacyn",
+    "identified_by": "printed_title"
+  },
+  "Gray Merchant of Asphodel": {
+    "file": "Mercador Sombrio do Submundo.png",
+    "key": "7/c/7c1a7dd8-8034-4f59-a351-33666b26ff5a.jpg?1783931566",
+    "collection": "Dark Avacyn",
+    "identified_by": "printed_title"
+  },
+  "Greedy Freebooter": {
+    "file": "Pirata ganancioso e ídolo dourado.png",
+    "key": "6/9/692fe4e8-13b4-4bec-938e-a8073a7fbd71.jpg?1783913776",
+    "collection": "Dark Avacyn",
+    "identified_by": "printed_title"
+  },
+  "Bloodline Recollector // Ancestral Craving": {
+    "file": "Vampiro diante do espelho ancestral.png",
+    "key": "4/f/4fcc913e-f736-460a-b24b-022fa2e861b9.jpg?1788329264",
+    "collection": "Dark Avacyn",
+    "identified_by": "printed_title"
+  },
+  "Blood Vassal": {
+    "file": "Vassalo de Sangue no Arco Sombrio.png",
+    "key": "7/e/7e692dea-750b-40b2-9440-8b570e67c23e.jpg?1783946349",
+    "collection": "Dark Avacyn",
+    "identified_by": "printed_title"
+  },
+  "Anticausal Vestige": {
+    "file": "Vestígio anticausal no cemitério em ruínas.png",
+    "key": "3/5/35372b69-6086-44e0-9f7c-681e362e5142.jpg?1783906002",
+    "collection": "Dark Avacyn",
     "identified_by": "printed_title"
   }
 }
