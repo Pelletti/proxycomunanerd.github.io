@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-10-11.1",
+  "revision": "2026-10-15.1",
   "decks": {
     "136585d1-64f8-4c01-b0f9-c07b747cde36": {
       "name": "Yurlok",
@@ -368,6 +368,37 @@
         "9/d/9d914868-9000-4df2-a818-0ef8a7f636ae.jpg?1783928228": "https://pelletti.github.io/proxycomunanerd.github.io/Imagem%20do%20ChatGPT%2011%20de%20out.%20de%202026%2C%2015_48_54-8.png",
         "7/f/7f1ccee1-20d1-48f2-ae90-a7a78172e05d.jpg?1783917283": "https://pelletti.github.io/proxycomunanerd.github.io/Imagem%20do%20ChatGPT%2011%20de%20out.%20de%202026%2C%2015_48_56-9.png",
         "1/d/1d8dd6c3-3699-4dd1-a019-fdb569eaf722.jpg?1783922736": "https://pelletti.github.io/proxycomunanerd.github.io/Imagem%20do%20ChatGPT%2011%20de%20out.%20de%202026%2C%2015_48_57-10.png"
+      }
+    },
+    "6d08f517-8be1-4faf-871e-421ddfedb49a": {
+      "name": "Dark Avacyn",
+      "commanders": [
+        {
+          "name": "Avacyn, Angel of Horror",
+          "keys": [
+            "4/f/4fc478a2-7cf8-4946-a631-51bd4f1823e6.jpg?1790310546"
+          ]
+        }
+      ],
+      "replacements": {
+        "c/f/cf1fe2bf-1640-4781-87b4-09a1f7d35831.jpg?1783939081": "https://pelletti.github.io/proxycomunanerd.github.io/Adivinha%20sombria%20das%20fitas%20carmesins.png",
+        "f/d/fd0c2480-5bdf-4754-88cc-96d3f0c6b2c0.jpg?1783910266": "https://pelletti.github.io/proxycomunanerd.github.io/Aprendiz%20de%20necromante%20reanima%20cad%C3%A1ver.png",
+        "4/f/4fc478a2-7cf8-4946-a631-51bd4f1823e6.jpg?1790310546": "https://pelletti.github.io/proxycomunanerd.github.io/Avacyn%2C%20anjo%20alado%20da%20cripta.png",
+        "e/d/ed0ace28-9a33-4f0d-b8c8-f5517f20ccf1.jpg?1783932644": "https://pelletti.github.io/proxycomunanerd.github.io/Ayara%20vampira%20no%20banquete%20sombrio.png",
+        "front/d/0/d0d484a6-5610-4f1d-95ec-eda273c255e4.jpg?1783911234": "https://pelletti.github.io/proxycomunanerd.github.io/Boggart%20Arrastador%20no%20P%C3%A2ntano%20Sombrio.png",
+        "4/f/4ff97c69-6a6b-401c-b0a1-55fa81045d19.jpg?1783921336": "https://pelletti.github.io/proxycomunanerd.github.io/Braids%2C%20Pesadelo%20Ressurgido.png",
+        "5/a/5a89ba1b-e68b-4d70-a25e-27be9bf48a3b.jpg?1783946645": "https://pelletti.github.io/proxycomunanerd.github.io/Carta%20Blood%20Pet%20com%20tipo%20corrigido.png",
+        "e/9/e9263fc4-f9f5-447a-a055-eeec80ba387e.jpg?1783909243": "https://pelletti.github.io/proxycomunanerd.github.io/Disc%C3%ADpulo%20de%20Bolas%20no%20altar%20sombrio.png",
+        "9/0/9033cf27-d9e6-49b8-8ee1-c1f38c9680b9.jpg?1783923885": "https://pelletti.github.io/proxycomunanerd.github.io/Drag%C3%A3o%20espectral%20sob%20a%20lua.png",
+        "6/0/60bebd79-f88c-44ef-8920-e19031bad1d6.jpg?1783913328": "https://pelletti.github.io/proxycomunanerd.github.io/Espectro%20do%20Sarc%C3%B3fago%20Carmesim.png",
+        "7/c/7c1a7dd8-8034-4f59-a351-33666b26ff5a.jpg?1783931566": "https://pelletti.github.io/proxycomunanerd.github.io/Mercador%20Sombrio%20do%20Submundo.png",
+        "2/2/22a77543-749a-49d8-96f4-3458ae5dcd38.jpg?1783931992": "https://pelletti.github.io/proxycomunanerd.github.io/Necr%C3%B3fago%20zumbi%20no%20cemit%C3%A9rio.png",
+        "4/5/45b6d1f8-a470-4471-bd4f-bed31cb4d344.jpg?1787680996": "https://pelletti.github.io/proxycomunanerd.github.io/Pintora%20vampira%20com%20espectro%20carmesim.png",
+        "6/9/692fe4e8-13b4-4bec-938e-a8073a7fbd71.jpg?1783913776": "https://pelletti.github.io/proxycomunanerd.github.io/Pirata%20ganancioso%20e%20%C3%ADdolo%20dourado.png",
+        "back/d/0/d0d484a6-5610-4f1d-95ec-eda273c255e4.jpg?1783911234": "https://pelletti.github.io/proxycomunanerd.github.io/P%C3%A2ntano%20Boggart%20sob%20a%20lua%20rubra.png",
+        "4/f/4fcc913e-f736-460a-b24b-022fa2e861b9.jpg?1788329264": "https://pelletti.github.io/proxycomunanerd.github.io/Vampiro%20diante%20do%20espelho%20ancestral.png",
+        "7/e/7e692dea-750b-40b2-9440-8b570e67c23e.jpg?1783946349": "https://pelletti.github.io/proxycomunanerd.github.io/Vassalo%20de%20Sangue%20no%20Arco%20Sombrio.png",
+        "3/5/35372b69-6086-44e0-9f7c-681e362e5142.jpg?1783906002": "https://pelletti.github.io/proxycomunanerd.github.io/Vest%C3%ADgio%20anticausal%20no%20cemit%C3%A9rio%20em%20ru%C3%ADnas.png"
       }
     }
   }
