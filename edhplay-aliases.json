@@ -76,7 +76,10 @@
     "file": "Detetive Arcano_ O Signete Simic.png",
     "key": "8/4/84128e98-87d6-4c2f-909b-9435a7833e63.jpg?1783932545",
     "collection": "Lonis",
-    "identified_by": "printed_title"
+    "identified_by": "printed_title",
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
   },
   "Arcbound Ravager": {
     "file": "arcbound_ravager.png",
@@ -334,6 +337,9 @@
         "collection": "Lonis",
         "identified_by": "printed_title"
       }
+    ],
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
     ]
   },
   "Confront the Unknown": {
@@ -417,12 +423,18 @@
   "Deadly Rollick": {
     "file": "Deadly Rollick.png",
     "key": "0/e/0e13f735-54fa-42b6-aea4-ced33811d7d4.jpg?1783915679",
-    "collection": "Yurlok"
+    "collection": "Yurlok",
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
   },
   "Deflecting Swat": {
     "file": "Deflecting Swat Yurlok.png",
     "key": "b/4/b4b36435-55b3-4615-8812-af41d4fc64d9.jpg?1783915656",
-    "collection": "Yurlok"
+    "collection": "Yurlok",
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
   },
   "Departed Deckhand": {
     "file": "Marujo Espectral sob a Lua.png",
@@ -867,7 +879,10 @@
     "file": "Grevas Relâmpago na Chuva.png",
     "key": "e/a/ea21033a-9318-4599-a4bc-b7262621d7d8.jpg?1783908470",
     "collection": "Lonis",
-    "identified_by": "printed_title"
+    "identified_by": "printed_title",
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
   },
   "Llanowar Elves": {
     "file": "Grito de Guerra dos Elfos de Llanowar.png",
@@ -940,7 +955,8 @@
   "Mountain": {
     "additional_keys": [
       "2/a/2a844b96-6616-4c39-8f4f-5d14a3b2bd55.jpg?1785981666",
-      "5/1/51acfb01-4b0b-48fc-9704-a9b4a1e43a23.jpg?1783902782"
+      "5/1/51acfb01-4b0b-48fc-9704-a9b4a1e43a23.jpg?1783902782",
+      "8/5/85177bd7-6c50-48da-b692-ae5fe7bd357c.jpg?1791578439"
     ],
     "file": "Montanha.png",
     "key": "a/a/aac1b0e2-d164-4c98-ab9b-57fbbc95ea0e.jpg?1783905575",
@@ -951,6 +967,9 @@
         "collection": "Kaervek",
         "identified_by": "printed_title"
       }
+    ],
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
     ]
   },
   "Mutagen Man, Living Ooze": {
@@ -1063,7 +1082,13 @@
   },
   "Plains": {
     "file": "Planicie.png",
-    "key": "0/2/021f3a8e-5ce2-4edf-827d-b748d146e6f3.jpg?1783905578"
+    "key": "0/2/021f3a8e-5ce2-4edf-827d-b748d146e6f3.jpg?1783905578",
+    "additional_keys": [
+      "0/9/09ac862f-0a51-44dd-b86f-9412b8218b13.jpg?1791578423"
+    ],
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
   },
   "Pollywog Prodigy": {
     "file": "Pollywog Prodigy_ Mago das Águas.png",
@@ -1183,8 +1208,10 @@
     "file": "ChatGPT Image 5 de set. de 2026, 20_37_00.png",
     "key": "4/d/4ddf4e34-a1f9-4636-942d-0a08e9f94320.jpg?1783903666",
     "collection": "Grenzo",
-    "key_status": "unconfirmed_edhplay",
-    "identified_by": "printed_title"
+    "identified_by": "printed_title",
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
   },
   "Shark Shredder, Killer Clone": {
     "file": "Design sem nome (85).png",
@@ -1202,7 +1229,10 @@
     "file": "Anel Solar_ Mistério e Luz Arcana.png",
     "key": "3/b/3b6a6593-b08f-4627-99a5-45d68f6e1c59.jpg?1788990335",
     "collection": "Lonis",
-    "identified_by": "printed_title"
+    "identified_by": "printed_title",
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
   },
   "Solphim, Mayhem Dominus": {
     "file": "Solphim.png",
@@ -1241,7 +1271,8 @@
   },
   "Swamp": {
     "additional_keys": [
-      "6/9/69eee76e-5714-4503-8170-3f551410abec.jpg?1783902880"
+      "6/9/69eee76e-5714-4503-8170-3f551410abec.jpg?1783902880",
+      "b/2/b233b117-9369-45c1-80c5-cc857386b6be.jpg?1791578437"
     ],
     "file": "Pantano.png",
     "key": "b/7/b7387103-1df1-4fd0-9e91-1544509792c7.jpg?1785981659",
@@ -1260,13 +1291,19 @@
         "collection": "Kaervek",
         "identified_by": "printed_title"
       }
+    ],
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
     ]
   },
   "Swiftfoot Boots": {
     "file": "Botas Velozes nas Ruínas Místicas.png",
     "key": "4/1/41040541-b129-4cf4-9411-09b1d9d32c19.jpg?1783909047",
     "collection": "Lonis",
-    "identified_by": "printed_title"
+    "identified_by": "printed_title",
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
   },
   "Tangletrove Kelp": {
     "file": "Tangletrove Kelp_ Mistério Submerso.png",
@@ -1308,10 +1345,12 @@
   "Three Tree City": {
     "file": "3 arvores goblin.png",
     "key": "5/6/56f88a48-cced-4a9d-8c19-e4f105f0d8a2.jpg?1783910782",
-    "key_status": "unconfirmed_edhplay",
     "collection": "Grenzo",
     "duplicate_files": [
       "ChatGPT Image 5 de set. de 2026, 17_08_46.png"
+    ],
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
     ]
   },
   "Three Visits": {
@@ -1543,7 +1582,10 @@
     "file": "Torre do Arquivo Dourado.png",
     "key": "8/1/81766fd6-c7e0-4527-a63e-512d126c0421.jpg?1783934503",
     "collection": "Lonis",
-    "identified_by": "printed_title"
+    "identified_by": "printed_title",
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
   },
   "Uthros, Titanic Godcore": {
     "file": "Uthros, Deus das Tempestades.png",
@@ -1579,13 +1621,19 @@
     "file": "Imagem do ChatGPT 11 de out. de 2026, 15_45_10-1.png",
     "key": "1/3/13505866-6ce9-4d11-b3f3-fc2f09839b71.jpg?1783935302",
     "collection": "Rashmi e Ragavan",
-    "identified_by": "printed_title"
+    "identified_by": "printed_title",
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
   },
   "Big Score": {
     "file": "Imagem do ChatGPT 11 de out. de 2026, 15_45_14-3.png",
     "key": "3/9/39d1578f-e2cf-4b93-8204-ed5434feb183.jpg?1783923123",
     "collection": "Rashmi e Ragavan",
-    "identified_by": "printed_title"
+    "identified_by": "printed_title",
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
   },
   "Farseek": {
     "file": "Imagem do ChatGPT 11 de out. de 2026, 15_45_16-5.png",
@@ -1651,7 +1699,10 @@
         "file": "Smaug the Magnificent.png",
         "key": "6/a/6a5d8fad-2ffd-4645-8c49-907999b6cecf.jpg?1783902784",
         "collection": "Vihaan",
-        "identified_by": "exact_filename"
+        "identified_by": "exact_filename",
+        "confirmed_edhplay_decks": [
+          "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+        ]
       }
     ]
   },
@@ -1683,7 +1734,10 @@
         "file": "Draconic Visitor.png",
         "key": "1/1/112f8478-bd89-4a14-9721-8ab750613129.jpg?1789470842",
         "collection": "Vihaan",
-        "identified_by": "exact_filename"
+        "identified_by": "exact_filename",
+        "confirmed_edhplay_decks": [
+          "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+        ]
       }
     ]
   },
@@ -1697,7 +1751,10 @@
         "file": "Goldspan Dragon.png",
         "key": "9/d/9d914868-9000-4df2-a818-0ef8a7f636ae.jpg?1783928228",
         "collection": "Vihaan",
-        "identified_by": "exact_filename"
+        "identified_by": "exact_filename",
+        "confirmed_edhplay_decks": [
+          "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+        ]
       }
     ]
   },
@@ -1807,7 +1864,10 @@
         "file": "Marionette Apprentice.png",
         "key": "9/9/99267114-ed51-47ea-9a64-46bd7498fde3.jpg?1787681804",
         "collection": "Vihaan",
-        "identified_by": "exact_filename"
+        "identified_by": "exact_filename",
+        "confirmed_edhplay_decks": [
+          "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+        ]
       }
     ]
   },
@@ -1834,223 +1894,335 @@
     "key": "3/8/3836dddd-a7e4-499f-ad49-ce298aa65720.jpg?1783922745",
     "collection": "Vihaan",
     "identified_by": "exact_filename",
-    "key_status": "unconfirmed_edhplay"
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
   },
   "Anointed Procession": {
     "file": "Anointed Procession.png",
     "key": "9/a/9a52c265-6920-4929-ba0a-70da08df01f1.jpg?1783936544",
     "collection": "Vihaan",
     "identified_by": "exact_filename",
-    "key_status": "unconfirmed_edhplay"
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
   },
   "Captain Lannery Storm": {
     "file": "Captain Lannery Storm.png",
     "key": "6/0/60a457e2-6cc7-47f0-9a24-df5459395358.jpg?1783911922",
     "collection": "Vihaan",
     "identified_by": "exact_filename",
-    "key_status": "unconfirmed_edhplay"
+    "key_status": "unconfirmed_edhplay",
+    "additional_keys": [
+      "7/c/7c3aeedd-d41b-44c9-9b0a-e5952202f632.jpg?1783906383"
+    ],
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
   },
   "Crime Novelist": {
     "file": "Crime Novelist.png",
     "key": "1/4/14a5cd7c-b0b1-4ffa-a806-bb0e73baffad.jpg?1783912882",
     "collection": "Vihaan",
     "identified_by": "exact_filename",
-    "key_status": "unconfirmed_edhplay"
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
   },
   "Cruel Celebrant": {
     "file": "Cruel Celebrant.png",
     "key": "b/3/b3f8be99-a398-4664-beb6-3e98d6e62a32.jpg?1783913853",
     "collection": "Vihaan",
     "identified_by": "exact_filename",
-    "key_status": "unconfirmed_edhplay"
+    "key_status": "unconfirmed_edhplay",
+    "additional_keys": [
+      "8/7/87ead6ac-b1c5-4852-8413-7fa43c6cfc57.jpg?1783933402"
+    ],
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
   },
   "Generous Plunderer": {
     "file": "Generous Plunderer.png",
     "key": "4/c/4c6cf93a-d073-48ac-88db-c46bf3e10beb.jpg?1783912000",
     "collection": "Vihaan",
     "identified_by": "exact_filename",
-    "key_status": "unconfirmed_edhplay"
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
   },
   "Grim Hireling": {
     "file": "Grim Hireling.png",
     "key": "3/8/38326f48-548c-4b18-9ad2-0b7c23385deb.jpg?1783922451",
     "collection": "Vihaan",
     "identified_by": "exact_filename",
-    "key_status": "unconfirmed_edhplay"
+    "key_status": "unconfirmed_edhplay",
+    "additional_keys": [
+      "b/4/b4fe104c-34ff-4b17-a703-98e7dedcb518.jpg?1783910427"
+    ],
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
   },
   "Jan Jansen, Chaos Crafter": {
     "file": "Jan Jansen, Chaos Crafter.png",
     "key": "6/b/6b215a08-41db-4440-8e33-34a84a33db50.jpg?1783922693",
     "collection": "Vihaan",
     "identified_by": "exact_filename",
-    "key_status": "unconfirmed_edhplay"
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
   },
   "Kambal, Profiteering Mayor": {
     "file": "Kambal, Profiteering Mayor.png",
     "key": "d/5/d53a775d-5898-41a8-b404-9b7d4721c6ba.jpg?1783911793",
     "collection": "Vihaan",
     "identified_by": "exact_filename",
-    "key_status": "unconfirmed_edhplay"
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
   },
   "Kellogg, Dangerous Mind": {
     "file": "Kellogg, Dangerous Mind.png",
     "key": "f/2/f2b22b32-be24-48e3-aa81-9256190df02c.jpg?1783912387",
     "collection": "Vihaan",
     "identified_by": "exact_filename",
-    "key_status": "unconfirmed_edhplay"
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
   },
   "Land Tax": {
     "file": "Land Tax.png",
     "key": "c/7/c70d3706-9d28-49ac-8718-4a516413e727.jpg?1783903809",
     "collection": "Vihaan",
     "identified_by": "exact_filename",
-    "key_status": "unconfirmed_edhplay"
+    "key_status": "unconfirmed_edhplay",
+    "additional_keys": [
+      "9/2/9258ad10-cbe6-4676-93b4-6ef4a33f12ee.jpg?1783915719"
+    ],
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
   },
   "Lotho, Corrupt Shirriff": {
     "file": "Lotho, Corrupt Shirriff.png",
     "key": "c/e/ce01ff8f-a037-484f-9148-c847ffaabc5a.jpg?1783916251",
     "collection": "Vihaan",
     "identified_by": "exact_filename",
-    "key_status": "unconfirmed_edhplay"
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
   },
   "Magda, Brazen Outlaw": {
     "file": "Magda, Brazen Outlaw.png",
     "key": "0/7/079e6263-e54c-4899-a336-5315909b9322.jpg?1783928229",
     "collection": "Vihaan",
     "identified_by": "exact_filename",
-    "key_status": "unconfirmed_edhplay"
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
   },
   "Mahadi, Emporium Master": {
     "file": "Mahadi, Emporium Master.png",
     "key": "c/3/c3da2b1a-76c5-4d36-bdf8-025b86f61eb5.jpg?1783922689",
     "collection": "Vihaan",
     "identified_by": "exact_filename",
-    "key_status": "unconfirmed_edhplay"
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
   },
   "Mari, the Killing Quill": {
     "file": "Mari, the Killing Quill.png",
     "key": "6/b/6b4b3c1a-671c-422d-a98c-7d750760ca46.jpg?1783911928",
     "collection": "Vihaan",
     "identified_by": "exact_filename",
-    "key_status": "unconfirmed_edhplay"
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
   },
   "Mayhem Devil": {
     "file": "Mayhem Devil.png",
     "key": "6/7/674f3a8a-4552-4289-b92a-06ce158f115c.jpg?1783906026",
     "collection": "Vihaan",
     "identified_by": "exact_filename",
-    "key_status": "unconfirmed_edhplay"
+    "key_status": "unconfirmed_edhplay",
+    "additional_keys": [
+      "1/7/17416926-168b-49b3-9231-acbb8f8a1d13.jpg?1783933394"
+    ],
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
   },
   "Mirkwood Bats": {
     "file": "Mirkwood Bats.png",
     "key": "1/5/15f035df-784a-4dc8-b7f5-77139a4e6e99.jpg?1783916303",
     "collection": "Vihaan",
     "identified_by": "exact_filename",
-    "key_status": "unconfirmed_edhplay"
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
   },
   "Monologue Tax": {
     "file": "Monologue Tax.png",
     "key": "e/e/ee68d390-11cb-4617-a9ee-6e8cf7ff0e55.jpg?1783903246",
     "collection": "Vihaan",
     "identified_by": "exact_filename",
-    "key_status": "unconfirmed_edhplay"
+    "key_status": "unconfirmed_edhplay",
+    "additional_keys": [
+      "a/f/af55c245-d758-4deb-b69a-4f50cc19475b.jpg?1783913646"
+    ],
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
   },
   "Morbid Opportunist": {
     "file": "Morbid Opportunist.png",
     "key": "0/8/08838865-a9b6-4323-96a2-0d3a7aba9d3d.jpg?1783903784",
     "collection": "Vihaan",
     "identified_by": "exact_filename",
-    "key_status": "unconfirmed_edhplay"
+    "key_status": "unconfirmed_edhplay",
+    "additional_keys": [
+      "5/a/5a53982e-3d66-4808-bcb5-46ff40567872.jpg?1783925612"
+    ],
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
   },
   "Nadier's Nightblade": {
     "file": "Nadier's Nightblade.png",
     "key": "b/c/bc9926d7-91b7-4067-b590-a0430bf68d16.jpg?1783911216",
     "collection": "Vihaan",
     "identified_by": "exact_filename",
-    "key_status": "unconfirmed_edhplay"
+    "key_status": "unconfirmed_edhplay",
+    "additional_keys": [
+      "9/d/9de7bac4-7a4b-4c69-a850-39d2d31d31e1.jpg?1787677360"
+    ],
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
   },
   "Olivia, Opulent Outlaw": {
     "file": "Olivia, Opulent Outlaw.png",
     "key": "5/5/55e6c31b-f9e9-4e42-a875-985d99300d9d.jpg?1783911972",
     "collection": "Vihaan",
     "identified_by": "exact_filename",
-    "key_status": "unconfirmed_edhplay"
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
   },
   "Pitiless Plunderer": {
     "file": "Pitiless Plunderer.png",
     "key": "5/b/5b5cd187-857a-44dd-8595-a52857a0b753.jpg?1783913869",
     "collection": "Vihaan",
     "identified_by": "exact_filename",
-    "key_status": "unconfirmed_edhplay"
+    "key_status": "unconfirmed_edhplay",
+    "additional_keys": [
+      "c/8/c87ebffe-5907-427b-9f9b-7c36a12b4a03.jpg?1783935307"
+    ],
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
   },
   "Professional Face-Breaker": {
     "file": "Professional Face-Breaker.png",
     "key": "4/2/42acbf52-b137-44f0-a815-2817fe8d2da2.jpg?1783923119",
     "collection": "Vihaan",
     "identified_by": "exact_filename",
-    "key_status": "unconfirmed_edhplay"
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
   },
   "Rain of Riches": {
     "file": "Rain of Riches.png",
     "key": "d/6/d633a188-f533-4d28-b3f0-a19f4d78cc40.jpg?1783911917",
     "collection": "Vihaan",
     "identified_by": "exact_filename",
-    "key_status": "unconfirmed_edhplay"
+    "key_status": "unconfirmed_edhplay",
+    "additional_keys": [
+      "2/9/299f81b5-20eb-465b-bd36-2acd80a4f37c.jpg?1783910672"
+    ],
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
   },
   "Reckless Fireweaver": {
     "file": "Reckless Fireweaver.png",
     "key": "6/3/63ffac51-62c4-4170-85b3-a43d7cfae7d7.jpg?1783937190",
     "collection": "Vihaan",
     "identified_by": "exact_filename",
-    "key_status": "unconfirmed_edhplay"
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
   },
   "Rest in Peace": {
     "file": "Rest in Peace.png",
     "key": "d/1/d108c2b1-236e-4b8d-8445-d9749ccc4fea.jpg?1783912003",
     "collection": "Vihaan",
     "identified_by": "exact_filename",
-    "key_status": "unconfirmed_edhplay"
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
   },
   "Revel in Riches": {
     "file": "Revel in Riches.png",
     "key": "7/9/79b0e035-8716-469d-99ae-a530cd96ef09.jpg?1783935756",
     "collection": "Vihaan",
     "identified_by": "exact_filename",
-    "key_status": "unconfirmed_edhplay"
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
   },
   "Smothering Tithe": {
     "file": "Smothering Tithe.png",
     "key": "8/6/861b5889-0183-4bee-afeb-a4b2aa700a8e.jpg?1783915712",
     "collection": "Vihaan",
     "identified_by": "exact_filename",
-    "key_status": "unconfirmed_edhplay"
+    "key_status": "unconfirmed_edhplay",
+    "additional_keys": [
+      "7/a/7af082fa-86a3-4f7b-966d-2be1f1d0c0bc.jpg?1783933717"
+    ],
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
   },
   "Species Specialist": {
     "file": "Species Specialist.png",
     "key": "b/b/bb2cbf12-7f35-4162-b1a0-89a1632728c7.jpg?1783931217",
     "collection": "Vihaan",
     "identified_by": "exact_filename",
-    "key_status": "unconfirmed_edhplay"
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
   },
   "Vihaan, Goldwaker": {
     "file": "Vihaan, Goldwaker.png",
     "key": "7/b/7b549690-72eb-4244-bb66-996a2bd1027e.jpg?1783911971",
     "collection": "Vihaan",
     "identified_by": "exact_filename",
-    "key_status": "unconfirmed_edhplay"
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
   },
   "Xorn": {
     "file": "Xorn.png",
     "key": "f/7/f73fdf76-e3a6-49d0-bfb0-4b7cdbd4271e.jpg?1783926470",
     "collection": "Vihaan",
     "identified_by": "exact_filename",
-    "key_status": "unconfirmed_edhplay"
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
   },
   "Zulaport Cutthroat": {
     "file": "Zulaport Cutthroat.png",
     "key": "c/4/c43609fb-3cee-44e0-98d0-3ecaba1d5767.jpg?1783903779",
     "collection": "Vihaan",
     "identified_by": "exact_filename",
-    "key_status": "unconfirmed_edhplay"
+    "key_status": "unconfirmed_edhplay",
+    "additional_keys": [
+      "5/c/5c963d97-c948-45d9-84cc-58e246d35970.jpg?1783938198"
+    ],
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
   }
 }
