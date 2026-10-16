@@ -1645,7 +1645,15 @@
     "file": "Imagem do ChatGPT 11 de out. de 2026, 15_45_54-10.png",
     "key": "6/a/6a5d8fad-2ffd-4645-8c49-907999b6cecf.jpg?1783902784",
     "collection": "Rashmi e Ragavan",
-    "identified_by": "printed_title"
+    "identified_by": "printed_title",
+    "alternatives": [
+      {
+        "file": "Smaug the Magnificent.png",
+        "key": "6/a/6a5d8fad-2ffd-4645-8c49-907999b6cecf.jpg?1783902784",
+        "collection": "Vihaan",
+        "identified_by": "exact_filename"
+      }
+    ]
   },
   "Hellkite Tyrant": {
     "file": "Imagem do ChatGPT 11 de out. de 2026, 15_48_43-1.png",
@@ -1669,13 +1677,29 @@
     "file": "Imagem do ChatGPT 11 de out. de 2026, 15_48_53-7.png",
     "key": "1/1/112f8478-bd89-4a14-9721-8ab750613129.jpg?1789470842",
     "collection": "Rashmi e Ragavan",
-    "identified_by": "printed_title"
+    "identified_by": "printed_title",
+    "alternatives": [
+      {
+        "file": "Draconic Visitor.png",
+        "key": "1/1/112f8478-bd89-4a14-9721-8ab750613129.jpg?1789470842",
+        "collection": "Vihaan",
+        "identified_by": "exact_filename"
+      }
+    ]
   },
   "Goldspan Dragon": {
     "file": "Imagem do ChatGPT 11 de out. de 2026, 15_48_54-8.png",
     "key": "9/d/9d914868-9000-4df2-a818-0ef8a7f636ae.jpg?1783928228",
     "collection": "Rashmi e Ragavan",
-    "identified_by": "printed_title"
+    "identified_by": "printed_title",
+    "alternatives": [
+      {
+        "file": "Goldspan Dragon.png",
+        "key": "9/d/9d914868-9000-4df2-a818-0ef8a7f636ae.jpg?1783928228",
+        "collection": "Vihaan",
+        "identified_by": "exact_filename"
+      }
+    ]
   },
   "Hedron Detonator": {
     "file": "Imagem do ChatGPT 11 de out. de 2026, 15_48_56-9.png",
@@ -1777,7 +1801,15 @@
     "file": "Aprendiz de Marionetes no Teatro Sombrio.png",
     "key": "9/9/99267114-ed51-47ea-9a64-46bd7498fde3.jpg?1787681804",
     "collection": "Dark Avacyn",
-    "identified_by": "printed_title"
+    "identified_by": "printed_title",
+    "alternatives": [
+      {
+        "file": "Marionette Apprentice.png",
+        "key": "9/9/99267114-ed51-47ea-9a64-46bd7498fde3.jpg?1787681804",
+        "collection": "Vihaan",
+        "identified_by": "exact_filename"
+      }
+    ]
   },
   "Massacre Girl, Most Wanted": {
     "file": "Garota do Massacre no beco.png",
@@ -1796,5 +1828,229 @@
     "key": "b/e/be8ec9e1-2c8e-496d-9111-4d453b75b578.jpg?1783933441",
     "collection": "Dark Avacyn",
     "identified_by": "printed_title"
+  },
+  "Ancient Copper Dragon": {
+    "file": "Ancient Copper Dragon.png",
+    "key": "3/8/3836dddd-a7e4-499f-ad49-ce298aa65720.jpg?1783922745",
+    "collection": "Vihaan",
+    "identified_by": "exact_filename",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Anointed Procession": {
+    "file": "Anointed Procession.png",
+    "key": "9/a/9a52c265-6920-4929-ba0a-70da08df01f1.jpg?1783936544",
+    "collection": "Vihaan",
+    "identified_by": "exact_filename",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Captain Lannery Storm": {
+    "file": "Captain Lannery Storm.png",
+    "key": "6/0/60a457e2-6cc7-47f0-9a24-df5459395358.jpg?1783911922",
+    "collection": "Vihaan",
+    "identified_by": "exact_filename",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Crime Novelist": {
+    "file": "Crime Novelist.png",
+    "key": "1/4/14a5cd7c-b0b1-4ffa-a806-bb0e73baffad.jpg?1783912882",
+    "collection": "Vihaan",
+    "identified_by": "exact_filename",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Cruel Celebrant": {
+    "file": "Cruel Celebrant.png",
+    "key": "b/3/b3f8be99-a398-4664-beb6-3e98d6e62a32.jpg?1783913853",
+    "collection": "Vihaan",
+    "identified_by": "exact_filename",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Generous Plunderer": {
+    "file": "Generous Plunderer.png",
+    "key": "4/c/4c6cf93a-d073-48ac-88db-c46bf3e10beb.jpg?1783912000",
+    "collection": "Vihaan",
+    "identified_by": "exact_filename",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Grim Hireling": {
+    "file": "Grim Hireling.png",
+    "key": "3/8/38326f48-548c-4b18-9ad2-0b7c23385deb.jpg?1783922451",
+    "collection": "Vihaan",
+    "identified_by": "exact_filename",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Jan Jansen, Chaos Crafter": {
+    "file": "Jan Jansen, Chaos Crafter.png",
+    "key": "6/b/6b215a08-41db-4440-8e33-34a84a33db50.jpg?1783922693",
+    "collection": "Vihaan",
+    "identified_by": "exact_filename",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Kambal, Profiteering Mayor": {
+    "file": "Kambal, Profiteering Mayor.png",
+    "key": "d/5/d53a775d-5898-41a8-b404-9b7d4721c6ba.jpg?1783911793",
+    "collection": "Vihaan",
+    "identified_by": "exact_filename",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Kellogg, Dangerous Mind": {
+    "file": "Kellogg, Dangerous Mind.png",
+    "key": "f/2/f2b22b32-be24-48e3-aa81-9256190df02c.jpg?1783912387",
+    "collection": "Vihaan",
+    "identified_by": "exact_filename",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Land Tax": {
+    "file": "Land Tax.png",
+    "key": "c/7/c70d3706-9d28-49ac-8718-4a516413e727.jpg?1783903809",
+    "collection": "Vihaan",
+    "identified_by": "exact_filename",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Lotho, Corrupt Shirriff": {
+    "file": "Lotho, Corrupt Shirriff.png",
+    "key": "c/e/ce01ff8f-a037-484f-9148-c847ffaabc5a.jpg?1783916251",
+    "collection": "Vihaan",
+    "identified_by": "exact_filename",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Magda, Brazen Outlaw": {
+    "file": "Magda, Brazen Outlaw.png",
+    "key": "0/7/079e6263-e54c-4899-a336-5315909b9322.jpg?1783928229",
+    "collection": "Vihaan",
+    "identified_by": "exact_filename",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Mahadi, Emporium Master": {
+    "file": "Mahadi, Emporium Master.png",
+    "key": "c/3/c3da2b1a-76c5-4d36-bdf8-025b86f61eb5.jpg?1783922689",
+    "collection": "Vihaan",
+    "identified_by": "exact_filename",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Mari, the Killing Quill": {
+    "file": "Mari, the Killing Quill.png",
+    "key": "6/b/6b4b3c1a-671c-422d-a98c-7d750760ca46.jpg?1783911928",
+    "collection": "Vihaan",
+    "identified_by": "exact_filename",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Mayhem Devil": {
+    "file": "Mayhem Devil.png",
+    "key": "6/7/674f3a8a-4552-4289-b92a-06ce158f115c.jpg?1783906026",
+    "collection": "Vihaan",
+    "identified_by": "exact_filename",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Mirkwood Bats": {
+    "file": "Mirkwood Bats.png",
+    "key": "1/5/15f035df-784a-4dc8-b7f5-77139a4e6e99.jpg?1783916303",
+    "collection": "Vihaan",
+    "identified_by": "exact_filename",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Monologue Tax": {
+    "file": "Monologue Tax.png",
+    "key": "e/e/ee68d390-11cb-4617-a9ee-6e8cf7ff0e55.jpg?1783903246",
+    "collection": "Vihaan",
+    "identified_by": "exact_filename",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Morbid Opportunist": {
+    "file": "Morbid Opportunist.png",
+    "key": "0/8/08838865-a9b6-4323-96a2-0d3a7aba9d3d.jpg?1783903784",
+    "collection": "Vihaan",
+    "identified_by": "exact_filename",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Nadier's Nightblade": {
+    "file": "Nadier's Nightblade.png",
+    "key": "b/c/bc9926d7-91b7-4067-b590-a0430bf68d16.jpg?1783911216",
+    "collection": "Vihaan",
+    "identified_by": "exact_filename",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Olivia, Opulent Outlaw": {
+    "file": "Olivia, Opulent Outlaw.png",
+    "key": "5/5/55e6c31b-f9e9-4e42-a875-985d99300d9d.jpg?1783911972",
+    "collection": "Vihaan",
+    "identified_by": "exact_filename",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Pitiless Plunderer": {
+    "file": "Pitiless Plunderer.png",
+    "key": "5/b/5b5cd187-857a-44dd-8595-a52857a0b753.jpg?1783913869",
+    "collection": "Vihaan",
+    "identified_by": "exact_filename",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Professional Face-Breaker": {
+    "file": "Professional Face-Breaker.png",
+    "key": "4/2/42acbf52-b137-44f0-a815-2817fe8d2da2.jpg?1783923119",
+    "collection": "Vihaan",
+    "identified_by": "exact_filename",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Rain of Riches": {
+    "file": "Rain of Riches.png",
+    "key": "d/6/d633a188-f533-4d28-b3f0-a19f4d78cc40.jpg?1783911917",
+    "collection": "Vihaan",
+    "identified_by": "exact_filename",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Reckless Fireweaver": {
+    "file": "Reckless Fireweaver.png",
+    "key": "6/3/63ffac51-62c4-4170-85b3-a43d7cfae7d7.jpg?1783937190",
+    "collection": "Vihaan",
+    "identified_by": "exact_filename",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Rest in Peace": {
+    "file": "Rest in Peace.png",
+    "key": "d/1/d108c2b1-236e-4b8d-8445-d9749ccc4fea.jpg?1783912003",
+    "collection": "Vihaan",
+    "identified_by": "exact_filename",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Revel in Riches": {
+    "file": "Revel in Riches.png",
+    "key": "7/9/79b0e035-8716-469d-99ae-a530cd96ef09.jpg?1783935756",
+    "collection": "Vihaan",
+    "identified_by": "exact_filename",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Smothering Tithe": {
+    "file": "Smothering Tithe.png",
+    "key": "8/6/861b5889-0183-4bee-afeb-a4b2aa700a8e.jpg?1783915712",
+    "collection": "Vihaan",
+    "identified_by": "exact_filename",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Species Specialist": {
+    "file": "Species Specialist.png",
+    "key": "b/b/bb2cbf12-7f35-4162-b1a0-89a1632728c7.jpg?1783931217",
+    "collection": "Vihaan",
+    "identified_by": "exact_filename",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Vihaan, Goldwaker": {
+    "file": "Vihaan, Goldwaker.png",
+    "key": "7/b/7b549690-72eb-4244-bb66-996a2bd1027e.jpg?1783911971",
+    "collection": "Vihaan",
+    "identified_by": "exact_filename",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Xorn": {
+    "file": "Xorn.png",
+    "key": "f/7/f73fdf76-e3a6-49d0-bfb0-4b7cdbd4271e.jpg?1783926470",
+    "collection": "Vihaan",
+    "identified_by": "exact_filename",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Zulaport Cutthroat": {
+    "file": "Zulaport Cutthroat.png",
+    "key": "c/4/c43609fb-3cee-44e0-98d0-3ecaba1d5767.jpg?1783903779",
+    "collection": "Vihaan",
+    "identified_by": "exact_filename",
+    "key_status": "unconfirmed_edhplay"
   }
 }
