@@ -64,7 +64,16 @@
   },
   "Aragorn, the Uniter": {
     "file": "Aragorn Uniter.png",
-    "key": "e/9/e98d5321-ec09-456c-a9ea-c8ca2cfc6205.jpg?1783916262"
+    "key": "e/9/e98d5321-ec09-456c-a9ea-c8ca2cfc6205.jpg?1783916262",
+    "alternatives": [
+      {
+        "file": "1.png",
+        "collection": "Avulsas",
+        "identified_by": "visual_title_and_rules",
+        "source_blob_sha": "af743b4d2f4b3de06d61d8a9cc2cb4345a876427",
+        "key": "e/9/e98d5321-ec09-456c-a9ea-c8ca2cfc6205.jpg?1783916262"
+      }
+    ]
   },
   "Arcane Denial": {
     "file": "Negação Arcana em Noir Mágico.png",
@@ -79,6 +88,22 @@
     "identified_by": "printed_title",
     "confirmed_edhplay_decks": [
       "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ],
+    "alternatives": [
+      {
+        "file": "26.png",
+        "collection": "Tifa Lockhart",
+        "identified_by": "visual_title_and_rules",
+        "source_blob_sha": "8f2aeba80df376abbccb983b1fdee1cacfe7e5a9",
+        "key": "8/4/84128e98-87d6-4c2f-909b-9435a7833e63.jpg?1783932545"
+      },
+      {
+        "file": "191.png",
+        "collection": "Banishers",
+        "identified_by": "visual_title_and_rules",
+        "source_blob_sha": "a51e9967638dda956e9d1185135871cd8252435f",
+        "key": "8/4/84128e98-87d6-4c2f-909b-9435a7833e63.jpg?1783932545"
+      }
     ]
   },
   "Arcbound Ravager": {
@@ -101,6 +126,20 @@
         "file": "Goblin (98).png",
         "collection": "Grenzo",
         "key_status": "missing_edhplay_key"
+      },
+      {
+        "file": "119.png",
+        "collection": "Avulsas",
+        "identified_by": "visual_title_and_rules",
+        "source_blob_sha": "094bf12dd521a00311375fa1be1443b3f54f29b4",
+        "key": "3/c/3c0f7157-a375-499c-92c7-d47d2e95dbad.jpg?1783915605"
+      },
+      {
+        "file": "158.png",
+        "collection": "Resident Evil",
+        "identified_by": "visual_title_and_rules",
+        "source_blob_sha": "b8dc1b42d96c4cefee3db7ba41e46b7e30f40dd7",
+        "key": "3/c/3c0f7157-a375-499c-92c7-d47d2e95dbad.jpg?1783915605"
       }
     ]
   },
@@ -336,6 +375,20 @@
         "key": "e/c/ec1f1041-f667-4b73-b1f2-e5bcae84095e.jpg?1783932544",
         "collection": "Lonis",
         "identified_by": "printed_title"
+      },
+      {
+        "file": "97.png",
+        "collection": "Supernatural",
+        "identified_by": "visual_title_and_rules",
+        "source_blob_sha": "4c0c73da84fe1c7be2b57095a8080c002f6c4b73",
+        "key": "e/c/ec1f1041-f667-4b73-b1f2-e5bcae84095e.jpg?1783932544"
+      },
+      {
+        "file": "212.png",
+        "collection": "Dragon Ball",
+        "identified_by": "visual_title_and_rules",
+        "source_blob_sha": "5ff8ccd330babd234321247ec06215bab8e98f09",
+        "key": "e/c/ec1f1041-f667-4b73-b1f2-e5bcae84095e.jpg?1783932544"
       }
     ],
     "confirmed_edhplay_decks": [
@@ -434,6 +487,15 @@
     "collection": "Yurlok",
     "confirmed_edhplay_decks": [
       "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ],
+    "alternatives": [
+      {
+        "file": "210.png",
+        "collection": "Dragon Ball",
+        "identified_by": "visual_title_and_rules",
+        "source_blob_sha": "1a4a95c57023246571466885575652307734d033",
+        "key": "b/4/b4b36435-55b3-4615-8812-af41d4fc64d9.jpg?1783915656"
+      }
     ]
   },
   "Departed Deckhand": {
@@ -464,7 +526,16 @@
     "file": "Don Andres, Pirata Renegado.png",
     "key": "3/c/3cf9f3ae-694d-4d37-9498-4bdd1723a55e.jpg?1783913937",
     "collection": "Admiral Brass",
-    "identified_by": "printed_title"
+    "identified_by": "printed_title",
+    "alternatives": [
+      {
+        "file": "199.png",
+        "collection": "Evelyn — Art déco",
+        "identified_by": "visual_title_and_rules",
+        "source_blob_sha": "cb563379089b109ccafee3d36c8073d032aa802c",
+        "key": "3/c/3cf9f3ae-694d-4d37-9498-4bdd1723a55e.jpg?1783913937"
+      }
+    ]
   },
   "Dosan the Falling Leaf": {
     "file": "Dosan the Falling Leaf.png",
@@ -594,6 +665,13 @@
         "key": "d/c/dce15387-4114-4b3e-91aa-5b42b45c44ac.jpg?1785981675",
         "collection": "Lonis",
         "identified_by": "printed_title"
+      },
+      {
+        "file": "149.png",
+        "collection": "Rick and Morty",
+        "identified_by": "visual_title_and_rules",
+        "source_blob_sha": "d902ef852bab2ea91ca7b0fd0c8c48557cf68971",
+        "key": "b/5/b548b48c-a004-4f17-90d6-1ef5b9769e38.jpg?1783905574"
       }
     ]
   },
@@ -630,6 +708,13 @@
         "file": "Goblin (97).png",
         "collection": "Grenzo",
         "key_status": "missing_edhplay_key"
+      },
+      {
+        "file": "233.png",
+        "collection": "Grenzo",
+        "identified_by": "visual_title_and_rules",
+        "source_blob_sha": "30ce002a2f7a946ec970904e79f7b8ed4363fa6f",
+        "key": "6/e/6e19c383-88bd-4bde-ac81-c0eb6d5b5bd4.jpg?1783935118"
       }
     ]
   },
@@ -656,6 +741,13 @@
         "key": "6/3/63a565e3-d7a8-469d-898f-49fef634c107.jpg?1783903818",
         "collection": "Kaervek",
         "identified_by": "printed_title"
+      },
+      {
+        "file": "231.png",
+        "collection": "Me, Myself & Irene",
+        "identified_by": "visual_title_and_rules",
+        "source_blob_sha": "52d8416469e244e48d725070838418146418cfd4",
+        "key": "6/3/63a565e3-d7a8-469d-898f-49fef634c107.jpg?1783903818"
       }
     ]
   },
@@ -748,6 +840,27 @@
         "key": "f/3/f3cc07cd-cc79-4745-b0b7-eade60175cc3.jpg?1785981645",
         "collection": "Lonis",
         "identified_by": "printed_title"
+      },
+      {
+        "file": "81.png",
+        "collection": "Terrenos soviéticos",
+        "identified_by": "visual_title_and_rules",
+        "source_blob_sha": "562d25a5ef9837a426a789236c49d32ea8784968",
+        "key": "f/3/f3cc07cd-cc79-4745-b0b7-eade60175cc3.jpg?1785981645"
+      },
+      {
+        "file": "150.png",
+        "collection": "Rick and Morty",
+        "identified_by": "visual_title_and_rules",
+        "source_blob_sha": "a87e6c6ff575ee16450fc8a27cd0c5eef4727aab",
+        "key": "f/3/f3cc07cd-cc79-4745-b0b7-eade60175cc3.jpg?1785981645"
+      },
+      {
+        "file": "202.png",
+        "collection": "Evelyn — Art déco",
+        "identified_by": "visual_title_and_rules",
+        "source_blob_sha": "d4e8aebc793ec1cd3013f7ea21acbc578a34e380",
+        "key": "f/3/f3cc07cd-cc79-4745-b0b7-eade60175cc3.jpg?1785981645"
       }
     ]
   },
@@ -868,7 +981,16 @@
   "Legolas's Quick Reflexes": {
     "file": "Yurloks Acute Cunning (Legolas Quick Reflexes).png",
     "key": "8/5/851c0167-04ba-4d15-b0fa-c211bd8826f1.jpg?1783914204",
-    "collection": "Yurlok"
+    "collection": "Yurlok",
+    "alternatives": [
+      {
+        "file": "30.png",
+        "collection": "Tifa Lockhart",
+        "identified_by": "visual_title_and_rules",
+        "source_blob_sha": "473b2f07f0e274ab02ebdb30322dbb7f2994defc",
+        "key": "8/5/851c0167-04ba-4d15-b0fa-c211bd8826f1.jpg?1783914204"
+      }
+    ]
   },
   "Leyline Tyrant": {
     "file": "Leyline Tyrant.png",
@@ -966,6 +1088,27 @@
         "key": "2/a/2a844b96-6616-4c39-8f4f-5d14a3b2bd55.jpg?1785981666",
         "collection": "Kaervek",
         "identified_by": "printed_title"
+      },
+      {
+        "file": "80.png",
+        "collection": "Terrenos soviéticos",
+        "identified_by": "visual_title_and_rules",
+        "source_blob_sha": "7d27b4b0ab8ceeb4f2cdd0db65388795bf4b50ff",
+        "key": "a/a/aac1b0e2-d164-4c98-ab9b-57fbbc95ea0e.jpg?1783905575"
+      },
+      {
+        "file": "145.png",
+        "collection": "Rick and Morty",
+        "identified_by": "visual_title_and_rules",
+        "source_blob_sha": "dc51e0d5697276b2c95bd52f636746ed04bf3465",
+        "key": "a/a/aac1b0e2-d164-4c98-ab9b-57fbbc95ea0e.jpg?1783905575"
+      },
+      {
+        "file": "203.png",
+        "collection": "Evelyn — Art déco",
+        "identified_by": "visual_title_and_rules",
+        "source_blob_sha": "75b2cb8c2c8a8a214867554305e81794bd20a4a5",
+        "key": "a/a/aac1b0e2-d164-4c98-ab9b-57fbbc95ea0e.jpg?1783905575"
       }
     ],
     "confirmed_edhplay_decks": [
@@ -1088,6 +1231,22 @@
     ],
     "confirmed_edhplay_decks": [
       "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ],
+    "alternatives": [
+      {
+        "file": "82.png",
+        "collection": "Terrenos soviéticos",
+        "identified_by": "visual_title_and_rules",
+        "source_blob_sha": "5e1379ce567c2922ca06746eb9e96754ad9bec6a",
+        "key": "0/2/021f3a8e-5ce2-4edf-827d-b748d146e6f3.jpg?1783905578"
+      },
+      {
+        "file": "146.png",
+        "collection": "Rick and Morty",
+        "identified_by": "visual_title_and_rules",
+        "source_blob_sha": "350a95f4ee6a3b03405e6d931a7ecdef4a2e6eba",
+        "key": "0/2/021f3a8e-5ce2-4edf-827d-b748d146e6f3.jpg?1783905578"
+      }
     ]
   },
   "Pollywog Prodigy": {
@@ -1172,7 +1331,16 @@
     "file": "Design sem nome (82).png",
     "key": "0/2/02505f32-d14c-4cbc-b26c-e46925f1ecde.jpg?1787679450",
     "collection": "Johnny Lawrence",
-    "identified_by": "printed_title"
+    "identified_by": "printed_title",
+    "alternatives": [
+      {
+        "file": "198.png",
+        "collection": "Evelyn — Art déco",
+        "identified_by": "visual_title_and_rules",
+        "source_blob_sha": "36f2d9590d846e7c8c69d1ff37acd0baab144d29",
+        "key": "0/2/02505f32-d14c-4cbc-b26c-e46925f1ecde.jpg?1787679450"
+      }
+    ]
   },
   "Sakashima's Student": {
     "file": "Design sem nome (84).png",
@@ -1232,6 +1400,36 @@
     "identified_by": "printed_title",
     "confirmed_edhplay_decks": [
       "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ],
+    "alternatives": [
+      {
+        "file": "24.png",
+        "collection": "Tifa Lockhart",
+        "identified_by": "visual_title_and_rules",
+        "source_blob_sha": "b2334b2b94e1f0ec78b65446bb06772aadcdc864",
+        "key": "3/b/3b6a6593-b08f-4627-99a5-45d68f6e1c59.jpg?1788990335"
+      },
+      {
+        "file": "95.png",
+        "collection": "Supernatural",
+        "identified_by": "visual_title_and_rules",
+        "source_blob_sha": "dec76662607864bd1b46d25b5400b408d81c811b",
+        "key": "3/b/3b6a6593-b08f-4627-99a5-45d68f6e1c59.jpg?1788990335"
+      },
+      {
+        "file": "151.png",
+        "collection": "Rick and Morty",
+        "identified_by": "visual_title_and_rules",
+        "source_blob_sha": "0cc84837eb6eba9aee30ffb648e3eb1deeaa7e6d",
+        "key": "3/b/3b6a6593-b08f-4627-99a5-45d68f6e1c59.jpg?1788990335"
+      },
+      {
+        "file": "209.png",
+        "collection": "Dragon Ball",
+        "identified_by": "visual_title_and_rules",
+        "source_blob_sha": "241091e4230f44393b861c08760d07975e32ea4f",
+        "key": "3/b/3b6a6593-b08f-4627-99a5-45d68f6e1c59.jpg?1788990335"
+      }
     ]
   },
   "Solphim, Mayhem Dominus": {
@@ -1290,6 +1488,20 @@
         "key": "b/7/b7387103-1df1-4fd0-9e91-1544509792c7.jpg?1785981659",
         "collection": "Kaervek",
         "identified_by": "printed_title"
+      },
+      {
+        "file": "148.png",
+        "collection": "Rick and Morty",
+        "identified_by": "visual_title_and_rules",
+        "source_blob_sha": "3125b5ea92c70974ae2ef0c4b30e7a3dead2751f",
+        "key": "b/7/b7387103-1df1-4fd0-9e91-1544509792c7.jpg?1785981659"
+      },
+      {
+        "file": "204.png",
+        "collection": "Evelyn — Art déco",
+        "identified_by": "visual_title_and_rules",
+        "source_blob_sha": "9717130fd3e23d6592222828b584334df1b7029f",
+        "key": "b/7/b7387103-1df1-4fd0-9e91-1544509792c7.jpg?1785981659"
       }
     ],
     "confirmed_edhplay_decks": [
@@ -1303,6 +1515,22 @@
     "identified_by": "printed_title",
     "confirmed_edhplay_decks": [
       "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ],
+    "alternatives": [
+      {
+        "file": "96.png",
+        "collection": "Supernatural",
+        "identified_by": "visual_title_and_rules",
+        "source_blob_sha": "daf9ec845473e0c4ecac65b5c01a299b16a43b2c",
+        "key": "4/1/41040541-b129-4cf4-9411-09b1d9d32c19.jpg?1783909047"
+      },
+      {
+        "file": "208.png",
+        "collection": "Dragon Ball",
+        "identified_by": "visual_title_and_rules",
+        "source_blob_sha": "24a7aae51e730b067b90d67ee5b23b353c1d1dbd",
+        "key": "4/1/41040541-b129-4cf4-9411-09b1d9d32c19.jpg?1783909047"
+      }
     ]
   },
   "Tangletrove Kelp": {
@@ -1522,7 +1750,16 @@
     "file": "Cascata Dreamroot_ Floresta Encantada.png",
     "key": "e/f/ef662b92-5a7f-48c9-bcc1-14b55e091aef.jpg?1783903621",
     "collection": "Lonis",
-    "identified_by": "printed_title"
+    "identified_by": "printed_title",
+    "alternatives": [
+      {
+        "file": "113.png",
+        "collection": "Terrenos",
+        "identified_by": "visual_title_and_rules",
+        "source_blob_sha": "64d9e4bd33fb4662b3a463dc36ce07425cfe9a00",
+        "key": "e/f/ef662b92-5a7f-48c9-bcc1-14b55e091aef.jpg?1783903621"
+      }
+    ]
   },
   "Hardened Scales": {
     "file": "Escamas Endurecidas na Selva Mágica.png",
@@ -1540,7 +1777,16 @@
     "file": "Laboratório da Multiplicação Infinita.png",
     "key": "f/2/f2c4f80e-84a0-463b-82c3-5c6503809351.jpg?1783909062",
     "collection": "Lonis",
-    "identified_by": "printed_title"
+    "identified_by": "printed_title",
+    "alternatives": [
+      {
+        "file": "51.png",
+        "collection": "Avulsas",
+        "identified_by": "visual_title_and_rules",
+        "source_blob_sha": "2bffd8f7f1c8ebf0a8f1f2644a22466c365e8dc4",
+        "key": "f/2/f2c4f80e-84a0-463b-82c3-5c6503809351.jpg?1783909062"
+      }
+    ]
   },
   "Ulvenwald Mysteries": {
     "file": "Mistérios de Ulvenwald_ Pistas no Pântano.png",
@@ -1570,7 +1816,16 @@
     "file": "Primavera Tropical Revitalizante.png",
     "key": "4/5/455be293-80cf-4bc6-8904-8dd21a2b9d19.jpg?1783915585",
     "collection": "Lonis",
-    "identified_by": "printed_title"
+    "identified_by": "printed_title",
+    "alternatives": [
+      {
+        "file": "107.png",
+        "collection": "Terrenos",
+        "identified_by": "visual_title_and_rules",
+        "source_blob_sha": "7b6ee85869685615a46d0b2b7d59f8612947a32f",
+        "key": "4/5/455be293-80cf-4bc6-8904-8dd21a2b9d19.jpg?1783915585"
+      }
+    ]
   },
   "Urza's Saga": {
     "file": "Saga de Urza em Ruínas Antigas.png",
@@ -1663,7 +1918,16 @@
     "file": "Imagem do ChatGPT 11 de out. de 2026, 15_45_44-3.png",
     "key": "a/9/a9738cda-adb1-47fb-9f4c-ecd930228c4d.jpg?1783926839",
     "collection": "Rashmi e Ragavan",
-    "identified_by": "printed_title"
+    "identified_by": "printed_title",
+    "alternatives": [
+      {
+        "file": "39.png",
+        "collection": "Avulsas",
+        "identified_by": "visual_title_and_rules",
+        "source_blob_sha": "72a8abd4be53903af003a028883ce020fea46d94",
+        "key": "a/9/a9738cda-adb1-47fb-9f4c-ecd930228c4d.jpg?1783926839"
+      }
+    ]
   },
   "Brudiclad, Telchor Engineer": {
     "file": "Imagem do ChatGPT 11 de out. de 2026, 15_45_47-5.png",
@@ -1675,7 +1939,16 @@
     "file": "Imagem do ChatGPT 11 de out. de 2026, 15_45_50-7.png",
     "key": "0/8/082193bc-51fc-4140-ace5-04b89049b66a.jpg?1787700235",
     "collection": "Rashmi e Ragavan",
-    "identified_by": "printed_title"
+    "identified_by": "printed_title",
+    "alternatives": [
+      {
+        "file": "238.png",
+        "collection": "JoJo",
+        "identified_by": "visual_title_and_rules",
+        "source_blob_sha": "eae28349bef7a780bf38eb9c292a8b3b14741133",
+        "key": "0/8/082193bc-51fc-4140-ace5-04b89049b66a.jpg?1787700235"
+      }
+    ]
   },
   "Old Gnawbone": {
     "file": "Imagem do ChatGPT 11 de out. de 2026, 15_45_51-8.png",
@@ -1828,7 +2101,16 @@
     "file": "Mercador Sombrio do Submundo.png",
     "key": "7/c/7c1a7dd8-8034-4f59-a351-33666b26ff5a.jpg?1783931566",
     "collection": "Dark Avacyn",
-    "identified_by": "printed_title"
+    "identified_by": "printed_title",
+    "alternatives": [
+      {
+        "file": "159.png",
+        "collection": "Resident Evil",
+        "identified_by": "visual_title_and_rules",
+        "source_blob_sha": "57df642136b83672a90f7c3d1246a018aa470685",
+        "key": "7/c/7c1a7dd8-8034-4f59-a351-33666b26ff5a.jpg?1783931566"
+      }
+    ]
   },
   "Greedy Freebooter": {
     "file": "Pirata ganancioso e ídolo dourado.png",
@@ -2183,6 +2465,15 @@
     ],
     "confirmed_edhplay_decks": [
       "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ],
+    "alternatives": [
+      {
+        "file": "116.png",
+        "collection": "Studio Ghibli",
+        "identified_by": "visual_title_and_rules",
+        "source_blob_sha": "a6d3616dbbabe7b46c2caa8391004583d018fe47",
+        "key": "8/6/861b5889-0183-4bee-afeb-a4b2aa700a8e.jpg?1783915712"
+      }
     ]
   },
   "Species Specialist": {
@@ -2224,5 +2515,1534 @@
     "confirmed_edhplay_decks": [
       "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
     ]
+  },
+  "Aurelia, the Warleader": {
+    "file": "2.png",
+    "collection": "Superman",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "7e1f619becaf2de6ef47cbb44d090c43a231b2d1",
+    "key": "b/c/bc6ffc1c-575b-4116-83c9-d13b29886c35.jpg?1783908915",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Avacyn, Angel of Hope": {
+    "file": "3.png",
+    "collection": "Superman",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "a20652c23c5b58d4febaae4fc9d4ea8a56fea273",
+    "key": "7/4/74e5dcec-ef1d-4461-bb23-61d98ff082dd.jpg?1783907976",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Lightning Bolt": {
+    "file": "4.png",
+    "collection": "Superman",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "05f8af6ec76f494872aa0f814f2ae4be43f6fc0f",
+    "key": "7/6/7673784e-db4b-43a1-8d55-1bb9fc1e284f.jpg?1783903008",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Valgavoth, Terror Eater": {
+    "file": "5.png",
+    "collection": "Avulsas",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "690cd36fc609add0e2480642b10f3d46f945c2c9",
+    "key": "7/7/7740ff55-67bb-409e-90f7-2c2c8b8c770a.jpg?1783909475",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Hashaton, Scarab's Fist": {
+    "file": "6.png",
+    "collection": "Solo Leveling",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "277d9558c11ffc6488904c1c751379a3efa44604",
+    "key": "0/2/02645651-cd55-4bd0-8a4d-fa257270a0e0.jpg?1783907754",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Emblema — Sephiroth": {
+    "file": "7.png",
+    "collection": "Sephiroth",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "35a41ed901607860f518769159006d2a9e2547b2"
+  },
+  "Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel": {
+    "back_file": "8.png",
+    "back_key": "back/8/5/85eaf5e7-77dc-4842-a70c-ce4ac7f724df.jpg?1783906617",
+    "collection": "Sephiroth",
+    "identified_by": "visual_title_and_rules",
+    "back_key_status": "unconfirmed_edhplay",
+    "front_file": "9.png",
+    "front_key": "front/8/5/85eaf5e7-77dc-4842-a70c-ce4ac7f724df.jpg?1783906617",
+    "front_key_status": "unconfirmed_edhplay",
+    "alternatives": [
+      {
+        "file": "10.png",
+        "collection": "Sephiroth",
+        "identified_by": "visual_title_and_rules",
+        "source_blob_sha": "2a424d80bbf107e5bf18343fcf640b4c129a44c7",
+        "face": "front",
+        "key": "front/8/5/85eaf5e7-77dc-4842-a70c-ce4ac7f724df.jpg?1783906617"
+      }
+    ]
+  },
+  "Bloodletter of Aclazotz": {
+    "file": "11.png",
+    "collection": "Avulsas",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "273ef8bde63aaca4802aeb0a0731cae952ca26a8",
+    "key": "d/4/d4f6027a-003a-4f9d-929a-0b6da1fa42c9.jpg?1783913782",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Spider — ficha 2/1": {
+    "file": "12.png",
+    "collection": "Homem-Aranha",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "520b6d711492a925aea9c8d01fe6c8e26ab07af5"
+  },
+  "Spider — ficha 1/2": {
+    "file": "13.png",
+    "collection": "Homem-Aranha",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "126c0baea98008f0697a1bbbd16b486bf970fd2b"
+  },
+  "Spider — ficha 2/2": {
+    "file": "14.png",
+    "collection": "Homem-Aranha",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "a0327bf2a96551c2ea350ea344ffc0f5e3a716e5"
+  },
+  "Goat — ficha 0/1": {
+    "file": "15.png",
+    "collection": "Fichas avulsas",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "d13ae0b588edbb07c2c4773a8df8f24446641a5b"
+  },
+  "Snake — ficha 1/1": {
+    "file": "16.png",
+    "collection": "Fichas avulsas",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "3cfcb9f732a751d5856c4c9c7260618eec0958bb"
+  },
+  "Treasure — ficha": {
+    "file": "17.png",
+    "collection": "Fichas avulsas",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "cb629c82c41c94cbb7b1c564609b2f765eb937eb",
+    "alternatives": [
+      {
+        "file": "88.png",
+        "collection": "Fichas avulsas",
+        "identified_by": "visual_title_and_rules",
+        "source_blob_sha": "2d87e3df8049d2c18c56b51e2df62678a6e19600"
+      },
+      {
+        "file": "100.png",
+        "collection": "Fichas avulsas",
+        "identified_by": "visual_title_and_rules",
+        "source_blob_sha": "b32684d312bc2dc367a1ca2f2d8c2a4635c7bced"
+      }
+    ]
+  },
+  "Zombie — ficha 2/2": {
+    "file": "18.png",
+    "collection": "Fichas avulsas",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "3cdcff413b4ad8a89004e47a5cf4b41ad6ac424a"
+  },
+  "Zombie Army — ficha 0/0": {
+    "file": "19.png",
+    "collection": "Fichas avulsas",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "577b0a6069e8e7696c945ba8686a8fa6130e7a01"
+  },
+  "Human Soldier — ficha 1/1": {
+    "file": "20.png",
+    "collection": "Fichas avulsas",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "d375e0824418699dc2ac1ca4941ef310129f97f2"
+  },
+  "Thrull — ficha 1/1": {
+    "file": "21.png",
+    "collection": "Fichas avulsas",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "afba1a2512cc42af2808e0d5dfe545b11c4da759"
+  },
+  "Verso — Cthulhu": {
+    "file": "22.png",
+    "collection": "Versos",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "f122a0ff9453ca4aa3c62bf566552d9586969ed0"
+  },
+  "Tifa Lockhart": {
+    "file": "23.png",
+    "collection": "Tifa Lockhart",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "530934995a985e8d0a2958aa8cf54e0847d8cc08",
+    "key": "f/b/fb781323-2746-405d-a9b2-e778c037a6e9.jpg?1783906580",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Super State": {
+    "file": "25.png",
+    "collection": "Tifa Lockhart",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "a019a5f5721d65831a269211eebf1be2db114a70",
+    "key": "a/6/a6a39919-a521-4e96-a47a-e09ac4d783bf.jpg?1783906091",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Entish Restoration": {
+    "file": "27.png",
+    "collection": "Tifa Lockhart",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "0c1d229526dfc29c7af877e33c238aadea095e0c",
+    "key": "c/d/cd4dbf80-187b-40e3-9e0b-526f78d9a34e.jpg?1783916269",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Wasteland": {
+    "file": "28.png",
+    "collection": "Tifa Lockhart",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "235f889ab69d62fbafbeeb793d7ecac02b87e158",
+    "key": "a/a/aaafb9bc-7cea-4624-a227-595544fa42b0.jpg?1783937534",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Yavimaya Hollow": {
+    "file": "29.png",
+    "collection": "Tifa Lockhart",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "dec4fb8abf39391fb0be99fd0753abbd51b0a0ed",
+    "key": "d/9/d9fdbc02-7ab7-4f77-8a89-5a9e01eb32f5.jpg?1783939212",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Verso — Spiderhead": {
+    "file": "31.png",
+    "collection": "Homem-Aranha",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "f57ee4347b2f2edc26525b057856942ff8d878b5"
+  },
+  "Human Citizen — ficha 1/1": {
+    "file": "32.png",
+    "collection": "Homem-Aranha",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "204201974f324b847ffa1c9aedbdb2e737f1a545"
+  },
+  "Sliver Queen": {
+    "file": "33.png",
+    "collection": "Fractius",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "b873d99ddbdbaefad640ea6d4068d3680a7d2759",
+    "key": "0/9/096cff82-28eb-4096-be1d-a02b9a56e682.jpg?1783938450",
+    "key_status": "unconfirmed_edhplay",
+    "alternatives": [
+      {
+        "file": "166.png",
+        "collection": "StarCraft",
+        "identified_by": "visual_title_and_rules",
+        "source_blob_sha": "00a4262202f78a6dc1c93ad82f6b60935fb2de7c",
+        "key": "0/9/096cff82-28eb-4096-be1d-a02b9a56e682.jpg?1783938450"
+      }
+    ]
+  },
+  "Sliver Gravemother": {
+    "file": "34.png",
+    "collection": "Fractius",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "3545f01555e1d9ed974d0343b8bc04c3e7115852",
+    "key": "9/f/9f5d253e-9eb2-423c-90ee-68f27ec6bf88.jpg?1783915490",
+    "key_status": "unconfirmed_edhplay",
+    "alternatives": [
+      {
+        "file": "167.png",
+        "collection": "StarCraft",
+        "identified_by": "visual_title_and_rules",
+        "source_blob_sha": "9c7b1b6a7e976d4f72541040305c82a17508a3c1",
+        "key": "9/f/9f5d253e-9eb2-423c-90ee-68f27ec6bf88.jpg?1783915490"
+      }
+    ]
+  },
+  "Sliver Legion": {
+    "file": "35.png",
+    "collection": "Fractius",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "b3c7b253ca7adaaa5adf68ca3d1cc26638f2545c",
+    "key": "8/7/87545415-2e27-4841-a3af-7653af2ba6d3.jpg?1783927759",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Sliver Hivelord": {
+    "file": "36.png",
+    "collection": "Fractius",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "e2dd82a4f801189b36c4362f607035b170ee8263",
+    "key": "2/b/2b902f64-7795-4f1f-81e6-26db7c78a10c.jpg?1783915410",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Voja, Jaws of the Conclave": {
+    "file": "37.png",
+    "collection": "Avulsas",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "394f41ca4b132c42c3a84921693b6222f81ee6dc",
+    "key": "b/f/bfa1bd2f-25bd-4fbd-877b-cef00ab7f92f.jpg?1783912763",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Fire Lord Azula": {
+    "file": "38.png",
+    "collection": "Avatar",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "3d7f3eb5158d22e772048b4484356a4223bc3419",
+    "key": "b/c/bc6146bf-f0c6-4557-af6a-74c643d5fc01.jpg?1783904927",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Copy — ficha": {
+    "file": "40.png",
+    "collection": "Homem-Aranha",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "cd8d2bdbdeaee5d54acc25e7b3054c8584c1efa9"
+  },
+  "Jet Medallion": {
+    "file": "41.png",
+    "collection": "Medalhões",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "3719ba36aad8060add429f141cb4f766570f592d",
+    "key": "d/4/d423365c-a32c-4060-b178-3221e3200387.jpg?1783911209",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Ruby Medallion": {
+    "file": "42.png",
+    "collection": "Medalhões",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "c4d1f8953c7d287fc4d0efd2280e73c503b088e4",
+    "key": "6/3/630febf5-58ff-4dab-a5a8-575ebc5435a6.jpg?1783911209",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Emerald Medallion": {
+    "file": "43.png",
+    "collection": "Medalhões",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "96bdeb8c734f872460cf5a5eda3b6f4e0fc66ed5",
+    "key": "5/d/5ddf44fe-9e4e-42a6-a6f8-11ada3ce8a94.jpg?1783911210",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Pearl Medallion": {
+    "file": "44.png",
+    "collection": "Medalhões",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "55f2dfdf86dcebfe29a344d6dd1d9855550c0785",
+    "key": "1/2/1225264f-b298-4b56-b208-c5da87bd6867.jpg?1783911209",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Sapphire Medallion": {
+    "file": "45.png",
+    "collection": "Medalhões",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "d06d1b8578315542ea55c4230b66c503b415776b",
+    "key": "a/7/a77850b2-6478-449e-bdb9-5b92650e3504.jpg?1783911209",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Be'lakor, the Dark Master": {
+    "file": "46.png",
+    "collection": "Avulsas",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "6528bb5abd539579b4bea7dd94dfac3bed6bff1c",
+    "key": "6/2/62b6ecb2-ac7e-4528-b53c-2cb4f1e38349.jpg?1783920950",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Agent Frank Horrigan": {
+    "file": "47.png",
+    "collection": "Avulsas",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "fa1e7cf90f2ba74af8dc0a33f90453fdd12cb916",
+    "key": "9/1/91193a0b-9087-404f-b397-815e29d0fe12.jpg?1783912393",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Spinebiter": {
+    "file": "48.png",
+    "collection": "Avulsas",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "0e02650a477392004435aa4546fa592a95c993ba",
+    "key": "c/f/cfc79ac6-ffc6-4506-9dea-e20176f960ea.jpg?1783941299",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Kefka, Dancing Mad": {
+    "file": "49.png",
+    "collection": "Avulsas",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "85f47583f7e700766e7ad690ecc69737f1e49698",
+    "key": "2/1/21cfc161-11b8-4253-a872-3b08a13b6991.jpg?1783906346",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Evolution Sage": {
+    "file": "50.png",
+    "collection": "Avulsas",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "d19ed5c20074139960708730d4d0a9be718fad34",
+    "key": "1/d/1d58d08d-cd62-416d-8d8e-7d9c56d5c4da.jpg?1783904546",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Exploration": {
+    "file": "52.png",
+    "collection": "Avulsas",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "e5103986ac534b36757f37c0347ef1f33b1e75cc",
+    "key": "5/b/5b372045-a4a0-44c8-96ec-1e201d61ed26.jpg?1783918444",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "All Will Be One": {
+    "file": "53.png",
+    "collection": "Avulsas",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "8433e679fcd188fb878719b211c3f3a9c9e6c940",
+    "key": "6/d/6d75e1f4-bd63-428e-8e6e-131594b3ba44.jpg?1783918036",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Wilderness Reclamation": {
+    "file": "54.png",
+    "collection": "Avulsas",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "559d9e4261490ef9e875b927746fe676999f05d0",
+    "key": "5/e/5e6c0cb4-f17d-48ae-9bbf-9498505a23b0.jpg?1783909598",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Roaming Throne": {
+    "file": "55.png",
+    "collection": "Avulsas",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "dafc8569f413d78932b03e61aae3d723ac2e2889",
+    "key": "3/2/32fd8b7c-baf3-4d3d-be6f-044a917b11a0.jpg?1783913723",
+    "key_status": "unconfirmed_edhplay",
+    "alternatives": [
+      {
+        "file": "201.png",
+        "collection": "Evelyn — Art déco",
+        "identified_by": "visual_title_and_rules",
+        "source_blob_sha": "1a6076bf45a3358b62311644dbe8d6830d04b001",
+        "key": "3/2/32fd8b7c-baf3-4d3d-be6f-044a917b11a0.jpg?1783913723"
+      }
+    ]
+  },
+  "Elspeth, Storm Slayer": {
+    "file": "56.png",
+    "collection": "Avulsas",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "5c5458e412ac80252f84309a47749899438f2515",
+    "key": "7/3/73a065e3-b530-4e62-ab3c-4f6f908184ec.jpg?1783907414",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Annie Joins Up": {
+    "file": "57.png",
+    "collection": "Avulsas",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "db657b689f64d54c3d78e0f19bbaeb353aacbefb",
+    "key": "1/6/1624a5f4-f5bc-47c9-85de-c5520ee234ce.jpg?1783911799",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Terra Eternal": {
+    "file": "58.png",
+    "collection": "Avulsas",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "4aa880c797b50500f5514dfa30084f92b49615a8",
+    "key": "9/b/9bad0759-4132-42b5-9a26-0fcf321a60e0.jpg?1783942063",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Crucible of Worlds": {
+    "file": "59.png",
+    "collection": "Avulsas",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "d8d2bec81a3aabfdf3293ea20db58c01aba88f1f",
+    "key": "7/f/7f4893ef-f983-418b-b7a4-5f073c844545.jpg?1783921793",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Toph, the First Metalbender": {
+    "file": "60.png",
+    "collection": "Avatar",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "ce0e890789bf5eedecbc75a0da2ceffd846c8dbf",
+    "key": "7/0/70b6670f-a9fa-4d75-b0a7-c01b5071a514.jpg?1783904920",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Hei Bai, Forest Guardian": {
+    "file": "61.png",
+    "collection": "Avatar",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "55e790d9aedc7a0d603fc2c1041a96bf0722d5e8",
+    "key": "9/5/95a3fda4-64d6-4440-a77c-b249edca7860.jpg?1783904812",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Sanctum Weaver": {
+    "file": "62.png",
+    "collection": "Santuários",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "431c94e2a3d84181100144921c5976a650e2334c",
+    "key": "3/c/3c9ac089-6962-48fd-bf67-f041ece27fa9.jpg?1783915420",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Nine-Fingers Keene": {
+    "file": "63.png",
+    "collection": "Avulsas",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "ab47784886bef7a1a77e34b9eda3661cd3b6f502",
+    "key": "5/4/5480ac0a-883a-4f73-8e7c-56d64be410a3.jpg?1783922686",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Sanctum of All": {
+    "file": "64.png",
+    "collection": "Santuários",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "e7e799c87221efa5cc00370e079d13b031d7131a",
+    "key": "b/a/ba91338c-1f6c-4b83-851f-98c3e9dea17b.jpg?1783930660",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Sterling Grove": {
+    "file": "65.png",
+    "collection": "Santuários",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "3b01675798a2eee9f96dcc8d59505bbaf68b2d60",
+    "key": "b/a/ba03e105-a76c-4769-a35a-d780448890ec.jpg?1783926777",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Isshin, Two Heavens as One": {
+    "file": "66.png",
+    "collection": "Rurouni Kenshin",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "0432ec5671888f6f9245fed360a735cdde31b091",
+    "key": "a/0/a062a004-984e-4b62-960c-af7288f7a3e9.jpg?1783923833",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Warrior — ficha 2/2": {
+    "file": "67.png",
+    "collection": "Rurouni Kenshin",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "ba993ba2abcbd36dfb3c62c22196c97f177a8f20"
+  },
+  "Soldier — ficha 1/1": {
+    "file": "68.png",
+    "collection": "Rurouni Kenshin",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "3946c2d5af4eeba79ac5a2a9f4c9658093732d11"
+  },
+  "Rebel — ficha 2/2": {
+    "file": "69.png",
+    "collection": "Rurouni Kenshin",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "376a428bfdfd68933c4ef36eb154506f6c61950d"
+  },
+  "Soldier — ficha 2/2 com firebending": {
+    "file": "70.png",
+    "collection": "Rurouni Kenshin",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "d43f6bee790362bf65d8ac390b334ad6c9b1e77d"
+  },
+  "Goblin — ficha 1/1": {
+    "file": "71.png",
+    "collection": "Rurouni Kenshin",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "37293e2571b96622dc0977bae1511b9dd463d4ed"
+  },
+  "Soldier — ficha 1/1 com haste": {
+    "file": "72.png",
+    "collection": "Rurouni Kenshin",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "ceb1f6bc245c3a93df3f20c821bd43d3cfc5279c"
+  },
+  "Human — ficha 1/1": {
+    "file": "73.png",
+    "collection": "Rurouni Kenshin",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "6a29c0629fa967b3b2fb7b54ff083fc3a2675816"
+  },
+  "Inkling — ficha 2/1": {
+    "file": "74.png",
+    "collection": "Rurouni Kenshin",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "aaa597a8bd7eb55b805d277c7b437918326ce44e"
+  },
+  "Gnome — ficha 1/1": {
+    "file": "75.png",
+    "collection": "Rurouni Kenshin",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "804939df832761c9ecc22e54dc5d7bbc26b8dbee"
+  },
+  "Elephant — ficha 3/3": {
+    "file": "76.png",
+    "collection": "Rurouni Kenshin",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "6b4191df16e6a5394a389e4a2079edba063b023b",
+    "alternatives": [
+      {
+        "file": "86.png",
+        "collection": "Fichas avulsas",
+        "identified_by": "visual_title_and_rules",
+        "source_blob_sha": "b0546ec3e469795e5b4096db62da947cc79bc6e0"
+      }
+    ]
+  },
+  "Greven, Predator Captain": {
+    "file": "77.png",
+    "collection": "Avulsas",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "0f9e43f6d09a5f5263bae7334875317358c16510",
+    "key": "b/d/bda22fc3-31a5-451a-9a8b-372884f7bc61.jpg?1783932799",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Silumgar, the Drifting Death": {
+    "file": "78.png",
+    "collection": "Avulsas",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "1aa3063e7aae61a1c4a6d93508250987aae7407f",
+    "key": "c/a/ca5afa5e-6e8d-4390-8de5-217413807d89.jpg?1783935876",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Captain America, First Avenger": {
+    "file": "79.png",
+    "collection": "Avulsas",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "55e8a661316e3122ce005d6b8ad07c47992c03d5",
+    "key": "0/6/0669ffcf-30c1-4d90-ae5f-3deca0f82526.jpg?1783903308",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Sigarda's Aid": {
+    "file": "83.png",
+    "collection": "Avulsas",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "055e3a26ea9c6b5cd338ef6932fa50eed184d8d2",
+    "key": "5/3/531da950-dc96-4050-94a8-e01b73ddd965.jpg?1783928726",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Betor, Ancestor's Voice": {
+    "file": "84.png",
+    "collection": "Avulsas",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "5e7663f921979a7a5824bebd31180ee702bb5960",
+    "key": "2/e/2e261489-8dde-4594-8868-69f432f03d03.jpg?1783907191",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Beast — ficha 3/3": {
+    "file": "85.png",
+    "collection": "Fichas avulsas",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "e86bd70d6d513ae356b67de40b196c7b49cc5973"
+  },
+  "Shapeshifter — ficha 3/2": {
+    "file": "87.png",
+    "collection": "Fichas avulsas",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "5aa38d7b8cd4e211fac400841f5ef8165a2c49c6"
+  },
+  "Shroofus Sproutsire": {
+    "file": "89.png",
+    "collection": "Shroofus",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "4f278f8ce52cb0227a3773f68b0610492a1dc993",
+    "key": "9/e/9ed9f270-4da6-439e-b13a-70da6e7f424a.jpg?1787681209",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Saproling — ficha 1/1": {
+    "file": "90.png",
+    "collection": "Shroofus",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "38f853c90fdeb6c2863b9e13dbcbf3c22a9fb756",
+    "alternatives": [
+      {
+        "file": "91.png",
+        "collection": "Shroofus",
+        "identified_by": "visual_title_and_rules",
+        "source_blob_sha": "0dcaac158dc6fe7544a4212a9c8bd7aa886c7a9c"
+      },
+      {
+        "file": "92.png",
+        "collection": "Shroofus",
+        "identified_by": "visual_title_and_rules",
+        "source_blob_sha": "329d1b56cc508da687ccb5e9ba76b488fb2ab8b0"
+      },
+      {
+        "file": "93.png",
+        "collection": "Shroofus",
+        "identified_by": "visual_title_and_rules",
+        "source_blob_sha": "8adc999942550e6a0bda67e6ceef2ae367801356"
+      }
+    ]
+  },
+  "Inga and Esika": {
+    "file": "94.png",
+    "collection": "Supernatural",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "b985c0bb7b94966924f6553c9d3b5145200ab429",
+    "key": "0/a/0aa97506-b943-4443-96b1-1b49f57d80aa.jpg?1783916948",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Shadowheart, Dark Justiciar": {
+    "file": "98.png",
+    "collection": "Avulsas",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "e8ae6271a04658702cda6dc8f5eb22a67506c8ef",
+    "key": "1/3/13a0913d-776b-4ef8-adef-8861349df2b5.jpg?1783922752",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Miirym, Sentinel Wyrm": {
+    "file": "99.png",
+    "collection": "Avulsas",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "d3f4b5847e3bd8140892de2da03c61db28d9ac4d",
+    "key": "a/9/a934590b-5c70-4f07-af67-fbe817a99531.jpg?1783922689",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Bountiful Promenade": {
+    "file": "101.png",
+    "collection": "Terrenos",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "e64efbf3aac4c18fb9bff6943990a16705536f31",
+    "key": "f/0/f0b11ba3-68ba-4067-af40-2a55e31b395e.jpg?1783903209",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Luxury Suite": {
+    "file": "102.png",
+    "collection": "Terrenos",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "450a3ca5662b4f21cf5432a8c900e35259d4ea0f",
+    "key": "3/c/3c409d1e-f634-44a2-8fcf-dcdcb0babc3f.jpg?1783903199",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Undergrowth Stadium": {
+    "file": "103.png",
+    "collection": "Terrenos",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "6d073cb419994db5254fc1828ba7354057230962",
+    "key": "f/2/f25aa8aa-e2f7-4634-8a96-2082e76c6503.jpg?1783904148",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Training Center": {
+    "file": "104.png",
+    "collection": "Terrenos",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "84f9a0d23d1ae9052d883414fbe91d35152bbc85",
+    "key": "7/8/78a39d22-5e3b-4ba0-b728-dbf16b61fc8f.jpg?1783915582",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Spectator Seating": {
+    "file": "105.png",
+    "collection": "Terrenos",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "40e6b7f93e098db58918a7b987acea91db7eaff0",
+    "key": "4/c/4c62dcfc-4bc8-4551-b3c7-9eec26be3362.jpg?1783903192",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Sea of Clouds": {
+    "file": "106.png",
+    "collection": "Terrenos",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "b8eb46e13f7ba03ccf7224ceebf8b952550331a5",
+    "key": "d/4/d4fb722f-40af-4bd1-b660-e8186b98f233.jpg?1783922655",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Morphic Pool": {
+    "file": "108.png",
+    "collection": "Terrenos",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "28e0700058fde98190f2658a5a6d2643ddca1c48",
+    "key": "4/8/48e40927-dd87-42ed-b805-0ae8ba81f5fb.jpg?1783922655",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Vault of Champions": {
+    "file": "109.png",
+    "collection": "Terrenos",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "e74733898c46249bd5d49accbdea20d0c11168d1",
+    "key": "c/a/cafd7db6-b04e-4fa2-bccd-981211132a93.jpg?1783915582",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Spire Garden": {
+    "file": "110.png",
+    "collection": "Terrenos",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "634805e395ddc6326650b3f661d7b32e8c187992",
+    "key": "4/8/48444c3e-2068-4961-a9cd-9398052e5bd6.jpg?1783904149",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Deathcap Glade": {
+    "file": "111.png",
+    "collection": "Terrenos",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "8519b0b59ca6bf822bf1b0f5f817c4b983c96049",
+    "key": "7/8/78897104-80e1-4d8a-9958-145b40f679e8.jpg?1783903621",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Deserted Beach": {
+    "file": "112.png",
+    "collection": "Terrenos",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "a9b7207f34a62cc6298fe4f5238fed7aa1cc102b",
+    "key": "5/6/56dae4c4-3e71-4a32-979b-4e26d9c9e96c.jpg?1788878239",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Zedruu the Greathearted": {
+    "file": "114.png",
+    "collection": "Avulsas",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "127467e26707e16f64960aaa43016f52b3e28289",
+    "key": "e/9/e9ea2a6b-5aaf-4178-b945-f409fe83c41a.jpg?1783937042",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Rhystic Study": {
+    "file": "115.png",
+    "collection": "Studio Ghibli",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "6e98b794918ebf63260366007ecf78dc09ae4a76",
+    "key": "9/f/9f37c5b6-a59c-45cd-9a99-e9357fe9ea1b.jpg?1783919146",
+    "key_status": "unconfirmed_edhplay",
+    "alternatives": [
+      {
+        "file": "236.png",
+        "collection": "Warhammer 40.000",
+        "identified_by": "visual_title_and_rules",
+        "source_blob_sha": "9336499b57ffeeae23d91200796a57dce49c242c",
+        "key": "9/f/9f37c5b6-a59c-45cd-9a99-e9357fe9ea1b.jpg?1783919146"
+      }
+    ]
+  },
+  "Gev, Scaled Scorch": {
+    "file": "117.png",
+    "collection": "Avulsas",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "8554c93ca5cdedc747cb16d12cdaf3200759a15f",
+    "key": "1/3/131ea976-289e-4f32-896d-27bbfd423ba9.jpg?1783910797",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Carth the Lion": {
+    "file": "118.png",
+    "collection": "Avulsas",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "40963ebc34189e1ef60778a676919cdd831be36d",
+    "key": "e/0/e09e9b65-ff0e-4efe-b96a-ede69c96e2ea.jpg?1783926819",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "High Perfect Morcant": {
+    "file": "120.png",
+    "collection": "Avulsas",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "1291967ca84f8d48620eb5167dc5ce2eb4fc1e79",
+    "key": "d/f/dfe7b8bf-c150-4be0-aef4-e8bb6f09787a.jpg?1783904407",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Tinybones, Trinket Thief": {
+    "file": "121.png",
+    "collection": "Avulsas",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "ad689c85f29836604a721195f199f8c57471e755",
+    "key": "4/0/4063be5b-bfd9-43c5-bc39-09a40bc793bf.jpg?1783930505",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Rin and Seri, Inseparable": {
+    "file": "122.png",
+    "collection": "Cães e gatos animados",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "a0b3e0c791a8d4b52fd1d1fa41cac64ef99d9aee",
+    "key": "d/6/d605c780-a42a-4816-8fb9-63e3114a8246.jpg?1784483577",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Keeper of Fables": {
+    "file": "123.png",
+    "collection": "Cães e gatos animados",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "d61769ac7f3f86fd2a3b03eb376ad371ea6a5fbd",
+    "key": "3/e/3e7d8c13-bfab-4501-8773-64adbfeb0957.jpg?1783929467",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Selfless Savior": {
+    "file": "124.png",
+    "collection": "Cães e gatos animados",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "f6a2eb3dc914bce66ad5dd93f7b9b8e27d24334e",
+    "key": "6/9/6911759c-7177-402c-a95a-f9f46efaf521.jpg?1783930734",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Chomping Changeling": {
+    "file": "125.png",
+    "collection": "Cães e gatos animados",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "de21d2b5e95e5396f7a8fc8829d59346ae67383c",
+    "key": "e/1/e187dcc6-19ad-4cf6-94b4-daf07f5144e5.jpg?1783904431",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Marisi, Breaker of the Coil": {
+    "file": "126.png",
+    "collection": "Cães e gatos animados",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "8f7dfac26190410f7f2dca933767624567d393fc",
+    "key": "c/3/c366e1c0-f62d-41ce-baec-de11dbc1c5f4.jpg?1783932798",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Regal Caracal": {
+    "file": "127.png",
+    "collection": "Cães e gatos animados",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "067643e01fad5dbdd5cd2046750d971357140a3f",
+    "key": "b/6/b6310a82-73db-40cb-ae64-6f07f869024c.jpg?1783908938",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Taurean Mauler": {
+    "file": "128.png",
+    "collection": "Cães e gatos animados",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "bb2d4a7d09c85528ff9ac2beb5fb9694ca968525",
+    "key": "3/9/39938a5a-385b-47ba-a07b-8917cba14fd3.jpg?1783907058",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Brimaz, King of Oreskos": {
+    "file": "129.png",
+    "collection": "Cães e gatos animados",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "fa5308ba6f313737a3fb83b2018971b604309fbe",
+    "key": "f/5/f54eb705-6326-4bac-bf0e-68d42db7a270.jpg?1783939586",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "King of the Pride": {
+    "file": "130.png",
+    "collection": "Cães e gatos animados",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "e74d4ee37ca88113f39af8296e38e2663941d468",
+    "key": "c/4/c4e83abd-6f15-491e-9253-90af9f6f1025.jpg?1783933160",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Ajani, Nacatl Pariah // Ajani, Nacatl Avenger": {
+    "front_file": "131.png",
+    "front_key": "front/0/d/0d16e8e0-31b2-4389-afd6-783c501f6fa0.jpg?1791803778",
+    "collection": "Cães e gatos animados",
+    "identified_by": "visual_title_and_rules",
+    "front_key_status": "unconfirmed_edhplay",
+    "back_file": "132.png",
+    "back_key": "back/0/d/0d16e8e0-31b2-4389-afd6-783c501f6fa0.jpg?1791803778",
+    "back_key_status": "unconfirmed_edhplay"
+  },
+  "Arahbo, the First Fang": {
+    "file": "133.png",
+    "collection": "Cães e gatos animados",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "2e69b1612a82736feb8225ef77e71f888a3aea27",
+    "key": "5/2/524a5d93-26ed-436d-a437-dc9460acce98.jpg?1783909130",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Jetmir, Nexus of Revels": {
+    "file": "134.png",
+    "collection": "Cães e gatos animados",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "7ac50e75213065573e89ace61f6020dbaf8576f0",
+    "key": "f/9/f9c69d75-651f-4b75-b65d-79999d2069f6.jpg?1783923081",
+    "key_status": "unconfirmed_edhplay",
+    "alternatives": [
+      {
+        "file": "161.png",
+        "collection": "Avulsas",
+        "identified_by": "visual_title_and_rules",
+        "source_blob_sha": "30c0743fa6ed42ae0bc7fdb06c258c6262a17d4f",
+        "key": "f/9/f9c69d75-651f-4b75-b65d-79999d2069f6.jpg?1783923081"
+      }
+    ]
+  },
+  "Ocelot Pride": {
+    "file": "135.png",
+    "collection": "Cães e gatos animados",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "d41e362db545a8dcf8b6cc2fe7d3f0345f6dfca3",
+    "key": "8/9/89cf6f57-230f-497e-a14e-ad1e8737fd42.jpg?1783911298",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Mirri, Weatherlight Duelist": {
+    "file": "136.png",
+    "collection": "Cães e gatos animados",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "88474ef244c7487e6337006d1e732392b60abab4",
+    "key": "d/b/db44fe95-6a32-4d6f-a32f-72491381f495.jpg?1783915613",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Kutzil, Malamet Exemplar": {
+    "file": "137.png",
+    "collection": "Cães e gatos animados",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "fa9c92f43dbe0d313e48bf1dccdaaa2df40b2c7d",
+    "key": "c/9/c9f88a40-a6ed-4c1f-a309-011aca1acddd.jpg?1783913732",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Jinnie Fay, Jetmir's Second": {
+    "file": "138.png",
+    "collection": "Cães e gatos animados",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "bed4bfca98677549b29e5b8d7e63a248ac97474c",
+    "key": "c/5/c5f9326a-2a41-45b3-97c3-548f0bdc0882.jpg?1783923082",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Loyal Warhound": {
+    "file": "139.png",
+    "collection": "Cães e gatos animados",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "f4e8ce41a624c0e1cda0db9de7b2b84ec194447f",
+    "key": "f/4/f408c5e4-e18d-4e4d-959a-f41df4c3019c.jpg?1783926530",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Sauron, the Dark Lord": {
+    "file": "140.png",
+    "collection": "Avulsas",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "f21a1c0ab272d22ae78561c9e400670311739f4f",
+    "key": "0/3/034e0929-b2c7-4b5f-94f2-8eaf4fb1a2a1.jpg?1783916249",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Kuja, Genome Sorcerer // Trance Kuja, Fate Defied": {
+    "front_file": "141.png",
+    "front_key": "front/0/0/008782d2-72b0-4554-b1ce-2db99969a4d8.jpg?1783906574",
+    "collection": "Final Fantasy",
+    "identified_by": "visual_title_and_rules",
+    "front_key_status": "unconfirmed_edhplay",
+    "back_file": "142.png",
+    "back_key": "back/0/0/008782d2-72b0-4554-b1ce-2db99969a4d8.jpg?1783906574",
+    "back_key_status": "unconfirmed_edhplay"
+  },
+  "Henzie \"Toolbox\" Torre": {
+    "file": "143.png",
+    "collection": "Rick and Morty",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "0f4285f32544bdaa2b8a6cdd083c2b13d5fa2a95",
+    "key": "e/e/ee228dcc-3170-4c24-80bc-28bcee07cb43.jpg?1783923381",
+    "key_status": "unconfirmed_edhplay",
+    "alternatives": [
+      {
+        "file": "169.png",
+        "collection": "Avulsas",
+        "identified_by": "visual_title_and_rules",
+        "source_blob_sha": "19d841202b7377ff33eb90e0a182431590da3e38",
+        "key": "e/e/ee228dcc-3170-4c24-80bc-28bcee07cb43.jpg?1783923381"
+      }
+    ]
+  },
+  "The Beamtown Bullies": {
+    "file": "144.png",
+    "collection": "Rick and Morty",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "2d03b0b62fe6c1bf9f606ff728f6187114bde9fd",
+    "key": "f/0/f0455a79-15f4-4ea6-87ae-263ce943cfac.jpg?1783923380",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Bojuka Bog": {
+    "file": "147.png",
+    "collection": "Rick and Morty",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "6685a2e6726d9d19f7285604e2a7c923853d3735",
+    "key": "5/5/55b5b094-9d2d-4d96-b90c-78fecdae725a.jpg?1783903734",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Ghyrson Starn, Kelermorph": {
+    "file": "152.png",
+    "collection": "Avulsas",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "d9f7866b64fbaef4936e4eb3ff578fff374b62c4",
+    "key": "f/a/fa7349d9-c82f-4cf8-a852-92168d1f4966.jpg?1783920850",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Grimgrin, Corpse-Born": {
+    "file": "153.png",
+    "collection": "Resident Evil",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "1fc9f07c4a530bbf0347a502ce768a864401b7ef",
+    "key": "3/c/3c257fe6-1038-4167-ae78-90309974b925.jpg?1783908076",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Wilhelt, the Rotcleaver": {
+    "file": "154.png",
+    "collection": "Resident Evil",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "1c28160d3b9389c12a2a591208aa327d05d7c3fc",
+    "key": "2/5/2501a911-d072-436d-ae3b-a5164e3b30aa.jpg?1783925384",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Rooftop Storm": {
+    "file": "155.png",
+    "collection": "Resident Evil",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "cc1815ddd2c2f6156ae3d1b0504120a8adbe2240",
+    "key": "3/1/31146f03-cb5e-4f33-aad7-ce970b914d90.jpg?1783908155",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Field of the Dead": {
+    "file": "156.png",
+    "collection": "Resident Evil",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "fc830d322bc6257be594402cce7f4bf98206b8b0",
+    "key": "4/7/470ca3f4-29aa-4c4c-8ff2-8cdd70c69943.jpg?1783932937",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Phyrexian Altar": {
+    "file": "157.png",
+    "collection": "Resident Evil",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "a7e9e5d6d322af94c937375b98080a1803e9b7d1",
+    "key": "9/5/95d9f93c-50a8-41a9-be98-d1900bf1c12f.jpg?1783921789",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "The Scarab God": {
+    "file": "160.png",
+    "collection": "Resident Evil",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "8a95d1444971dcefbe0d0f860f543cfee226bd38",
+    "key": "f/4/f4f414ef-84a2-4694-9e98-51bee4576c84.jpg?1783915611",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Vren, the Relentless": {
+    "file": "162.png",
+    "collection": "Avulsas",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "b94c2d26271be6c37a23a875f38688a36fd70eb8",
+    "key": "6/5/6506277d-f031-4db5-9d16-bf2389094785.jpg?1783910791",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Volrath, the Shapestealer": {
+    "file": "163.png",
+    "collection": "The Thing",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "c9822f37948171b99f85c13c867800dcfc782aae",
+    "key": "a/1/a149d6a5-c865-475a-87b7-596a19f6c80d.jpg?1783932795",
+    "key_status": "unconfirmed_edhplay",
+    "alternatives": [
+      {
+        "file": "164.png",
+        "collection": "The Thing",
+        "identified_by": "visual_title_and_rules",
+        "source_blob_sha": "193d8a528fab25c22b9d5e7d7b5e8d4bd719deb5",
+        "key": "a/1/a149d6a5-c865-475a-87b7-596a19f6c80d.jpg?1783932795"
+      }
+    ]
+  },
+  "Sliver Overlord": {
+    "file": "165.png",
+    "collection": "StarCraft",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "914dda9b01545cc1ba78595b0d2e1b0b83de17ce",
+    "key": "3/c/3c16915b-c50d-4fb5-830f-9ca4597a9c0f.jpg?1783944864",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Mr. House, President and CEO": {
+    "file": "168.png",
+    "collection": "Avulsas",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "6ab495883371ae99ab766757fc8457734724b8eb",
+    "key": "2/3/23eb3cf7-c90d-4bfa-b125-4fbcb5614468.jpg?1783912421",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Ragost, Deft Gastronaut": {
+    "file": "170.png",
+    "collection": "Avulsas",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "de296a6844784bf3f78cbe58835128b9c91b765b",
+    "key": "0/1/011374c3-f69d-4573-8c32-5bd0fe083d6a.jpg?1783905925",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Felix Five-Boots": {
+    "file": "171.png",
+    "collection": "Avulsas",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "e9d83fafaeb2d5ef56effa41250ddce49ac4d14f",
+    "key": "6/8/6800e935-d327-464c-ab88-7c0193827da3.jpg?1783911971",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Lord Xander, the Collector": {
+    "file": "172.png",
+    "collection": "Avulsas",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "f280769cda178f8b994b6b0395f7dfc987761b1a",
+    "key": "e/e/ee0a078d-045f-401b-a561-dcb1ad02bf62.jpg?1783923082",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Rocco, Street Chef": {
+    "file": "173.png",
+    "collection": "Avulsas",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "36b1911c78f6a5c21d0a5c7e0639e16413a9375d",
+    "key": "c/d/cdb53ce7-845c-4c62-98a9-4fc33c67a07b.jpg?1783916509",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Shrike Force": {
+    "file": "174.png",
+    "collection": "Avulsas",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "ed7469095d355c8ed44f0c36e0b00bdf0ac935d2",
+    "key": "3/0/306fec2c-d8b7-4f4b-8f58-10e3b9f3158f.jpg?1783910856",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Rograkh, Son of Rohgahh": {
+    "file": "175.png",
+    "collection": "Avulsas",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "4a5663fd0cc82e67011244264d6f2e20eebe5122",
+    "key": "a/4/a4fab67f-00c2-4125-9262-d21a29411797.jpg?1783928807",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Jhoira of the Ghitu": {
+    "file": "176.png",
+    "collection": "Avulsas",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "74d595e7464adb3777de5c34a55292cf981f8727",
+    "key": "a/a/aa6c3c8a-aa35-46b3-8769-27b4244457b0.jpg?1783927761",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Mayael the Anima": {
+    "file": "177.png",
+    "collection": "Avulsas",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "5e882cf724683f2ce7bdc32f9d373926cd73d6ec",
+    "key": "3/0/309d95ad-e46c-4407-894d-d4cfdc7017f8.jpg?1783939648",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Elf — ficha 1/1": {
+    "file": "178.png",
+    "collection": "Fichas avulsas",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "57fb28e87f40c34eb5b7eda442477ac607d21ea0"
+  },
+  "Ashcoat of the Shadow Swarm": {
+    "file": "179.png",
+    "collection": "Avulsas",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "9ae4cf8d555c1dc9dd5c25c7ab097464bd7d84f4",
+    "key": "2/f/2fce5989-a2a0-4825-b90a-a1f78659b6e0.jpg?1783919189",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Sidisi, Brood Tyrant": {
+    "file": "180.png",
+    "collection": "Avulsas",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "5265090f26effa0f223cfce032f8fb6626332805",
+    "key": "6/b/6b8e44d4-db67-4bf4-97c0-ffe6a0eb2954.jpg?1783915610",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Rat — ficha 1/1": {
+    "file": "181.png",
+    "collection": "Fichas avulsas",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "858c47e4a5d02ef1f22e496c361369775866de05"
+  },
+  "Hazezon, Shaper of Sand": {
+    "file": "182.png",
+    "collection": "Avulsas",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "58ad987a5fd77371bd1a8bec4aa02bc185387b62",
+    "key": "3/7/37dd84b4-0b8d-4303-8405-45e2c144f691.jpg?1783911900",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Raggadragga, Goreguts Boss": {
+    "file": "183.png",
+    "collection": "Avulsas",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "c9657e4e821b60aa1081725ebd262e90a9637bad",
+    "key": "1/1/1166ce2a-4e0b-4a57-929d-566f461a6282.jpg?1783922685",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Kruphix, God of Horizons": {
+    "file": "184.png",
+    "collection": "Avulsas",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "cb80ca04815d4dd206a7c722e680220bf18dd9a2",
+    "key": "2/7/27427233-da58-45af-ade8-e0727929efaa.jpg?1783939404",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Gisa's Favorite Shovel": {
+    "file": "185.png",
+    "collection": "Avulsas",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "e289909ad6af9973cb846709bfd79547eaf87652",
+    "key": "8/1/8139bb44-47e8-4076-99ed-ad3623198ad9.jpg?1783915139",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Codie, Vociferous Codex": {
+    "file": "186.png",
+    "collection": "Avulsas",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "aa4d3fad3393ff03f9178410f59013d79166fea3",
+    "key": "e/a/ea476ee1-67d9-4dd8-a5ac-f68a155eb18b.jpg?1783927281",
+    "key_status": "unconfirmed_edhplay",
+    "alternatives": [
+      {
+        "file": "187.png",
+        "collection": "Avulsas",
+        "identified_by": "visual_title_and_rules",
+        "source_blob_sha": "e62df37993c868aa506806e5d2f22cef3c63c6cb",
+        "key": "e/a/ea476ee1-67d9-4dd8-a5ac-f68a155eb18b.jpg?1783927281"
+      }
+    ]
+  },
+  "Teferi, Time Raveler": {
+    "file": "188.png",
+    "collection": "Avulsas",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "28ab49ebf0d15417f2483638aca245c4c056ca39",
+    "key": "6/6/662fe50f-d75c-422c-8c6c-1f9b5c4ba21f.jpg?1783913271",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Wilson, Refined Grizzly": {
+    "file": "189.png",
+    "collection": "Banishers",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "67bf3262ced780ed3d3de0b72e004de5218aefc6",
+    "key": "d/f/dfe0daf8-43da-484b-baa1-76f8313c5a0c.jpg?1783922700",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Cultist of the Absolute": {
+    "file": "190.png",
+    "collection": "Banishers",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "527f6356241ce7e9028a5f999d97f02274371a8a",
+    "key": "b/0/b0c7b4af-d521-4f4f-8910-7e05f2f60eb6.jpg?1783922764",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Molecule Man": {
+    "file": "192.png",
+    "collection": "Avulsas",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "7853797c129dbc880e0861a82fec514a52156836",
+    "key": "e/e/ee64d0dd-e3d8-4abc-b9d6-b19c505fbfa1.jpg?1783903300",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Wolverine, Best There Is": {
+    "file": "193.png",
+    "collection": "Avulsas",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "16fa148036b5f4714c9ea4f8159e35f614712313",
+    "key": "9/9/9976c1a8-ef3d-4911-854d-f53394fd709d.jpg?1783903304",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Evelyn, the Covetous": {
+    "file": "194.png",
+    "collection": "Evelyn — Art déco",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "aae3ec4b20ae6fe5dd16aa89d9adfac8b11a71f8",
+    "key": "c/0/c0dad61f-36cd-46af-82b7-a02e04efd676.jpg?1783923087",
+    "key_status": "unconfirmed_edhplay",
+    "alternatives": [
+      {
+        "file": "195.png",
+        "collection": "Evelyn — Art déco",
+        "identified_by": "visual_title_and_rules",
+        "source_blob_sha": "fca53c6ef9ee321c7a22dfa33be07bc400016ebe",
+        "key": "c/0/c0dad61f-36cd-46af-82b7-a02e04efd676.jpg?1783923087"
+      }
+    ]
+  },
+  "Chameleon, Master of Disguise": {
+    "file": "196.png",
+    "collection": "Evelyn — Art déco",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "e4a06ff57b9f9d7630d434c374f381b3ae47bcc1",
+    "key": "d/c/dcc50ba7-c4be-4c20-a1fc-466194aab7c2.jpg?1783903241",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Cormela, Glamour Thief": {
+    "file": "197.png",
+    "collection": "Evelyn — Art déco",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "2aa059a9d0815727ee5d5418dbb2147b6f257fe0",
+    "key": "2/2/221ac34a-94ed-4c49-afad-b19cac541731.jpg?1783923089",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Sakashima the Impostor": {
+    "file": "200.png",
+    "collection": "Evelyn — Art déco",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "53fca4e9cb11b3c7e6f4d6adc98382636b84ea86",
+    "key": "6/1/61dc2f54-3637-4caa-9741-36ff14dc5527.jpg?1783944160",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Xander's Lounge": {
+    "file": "205.png",
+    "collection": "Evelyn — Art déco",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "0d4c93fc7fbdfac6b786906bd80b21b5800b8d0f",
+    "key": "5/4/54f449ff-4025-465e-9ec5-a5cf42c4c9d3.jpg?1783923052",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Prosper, Tome-Bound": {
+    "file": "206.png",
+    "collection": "Evelyn — Art déco",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "a4e7e39dee832dcdfa78304ae64a7dda2749f723",
+    "key": "d/7/d743336e-d5c7-4053-a23d-92ec7581f74e.jpg?1783926259",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Uril, the Miststalker": {
+    "file": "207.png",
+    "collection": "Dragon Ball",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "521a69372fbc0c520908228d0fd92c1d240aa4e3",
+    "key": "c/a/ca984fdb-aaca-4d8f-af2f-72387122607b.jpg?1783921798",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Path to Exile": {
+    "file": "211.png",
+    "collection": "Dragon Ball",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "c19abe5ab75dffdceb674955d7ad1b36bef6d8b0",
+    "key": "2/2/22e08a78-55b7-46b0-bd1a-a51548fc1861.jpg?1789599789",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Ob Nixilis, Captive Kingpin": {
+    "file": "213.png",
+    "collection": "Avulsas",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "2e89c08be89dbdf2c0783b321ce76e48b9fb7793",
+    "key": "d/d/ddb68233-3683-41bd-9b6e-4f07a1b54244.jpg?1783916511",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Thor Odinson": {
+    "file": "214.png",
+    "collection": "Thor",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "1a19fb4a81fa789f0e97a01646fb68d8a8306ba4",
+    "key": "0/e/0e06f730-ae30-4ef2-88b1-073e02afdb25.jpg?1783902895",
+    "key_status": "unconfirmed_edhplay",
+    "alternatives": [
+      {
+        "file": "215.png",
+        "collection": "Thor",
+        "identified_by": "visual_title_and_rules",
+        "source_blob_sha": "7967c80c2fc497bbc307344a773ced5692acb8bb",
+        "key": "0/e/0e06f730-ae30-4ef2-88b1-073e02afdb25.jpg?1783902895"
+      },
+      {
+        "file": "216.png",
+        "collection": "Thor",
+        "identified_by": "visual_title_and_rules",
+        "source_blob_sha": "0ae6593d9370e7fd46260298cc84847caffd50bd",
+        "key": "0/e/0e06f730-ae30-4ef2-88b1-073e02afdb25.jpg?1783902895"
+      }
+    ]
+  },
+  "Shang-Chi and the Ten Rings": {
+    "file": "217.png",
+    "collection": "Avulsas",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "8ec8c8d23e70718a40c0e9c5b02b5cc7e7e8fce9",
+    "key": "8/d/8d6288b7-c959-437b-9a3f-eb85c306c9f2.jpg?1783903264",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Toluz, Clever Conductor": {
+    "file": "218.png",
+    "collection": "James Bond",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "62c250bd798d418ea052ddccbf8d65b9780b3625",
+    "key": "f/0/f01f12e0-f354-43aa-9e2d-b59a99571a5f.jpg?1783923066",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Queza, Augur of Agonies": {
+    "file": "219.png",
+    "collection": "James Bond",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "6a20c3ed54c7143faf96ec117d3d46c8d295d8e6",
+    "key": "7/e/7edb7a26-82be-4efd-9a5c-a3816e1ee2d6.jpg?1783923073",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Rowan, Scion of War": {
+    "file": "220.png",
+    "collection": "Avulsas",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "d8e5131590e51539b685191186d4fb7488ee46bf",
+    "key": "4/e/4ee179ab-a15b-4bd6-b7f8-1e1abeeb31b7.jpg?1783915070",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Mox Diamond": {
+    "file": "221.png",
+    "collection": "Moxes",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "01d2dc3699f5c16d409c703f5a65cc8e8899e5e7",
+    "key": "b/f/bf9fecfd-d122-422f-bd0a-5bf69b434dfe.jpg?1783938445",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Chrome Mox": {
+    "file": "222.png",
+    "collection": "Moxes",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "7c2a0b776914871d51e7c50b4244a28dde6983f1",
+    "key": "f/3/f340cbf7-5bbe-45b9-a4bf-d1caa500ff93.jpg?1783930116",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Seven of Nine": {
+    "file": "223.png",
+    "collection": "Avulsas",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "3167c69b6d92b2b35d0fe9f63bab775b2982b9e4",
+    "key": "6/2/6204cfdb-6fb4-4030-96b6-9306c8266bcf.jpg?1784036800",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "The Council of Four": {
+    "file": "224.png",
+    "collection": "Máfia no cinema",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "b536111cc755dcb09bcfe10dc07a5453b10f051f",
+    "key": "0/8/0873cfa8-046c-4b14-ae22-3fd6a691f763.jpg?1783922695",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Esper Sentinel": {
+    "file": "225.png",
+    "collection": "Máfia no cinema",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "46974f7027fe76247a1c7c2a5d965fdeabafad96",
+    "key": "f/3/f3537373-ef54-4578-9d05-6216420ee349.jpg?1783926893",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "King T'Challa // Black Panther, Hope Enduring": {
+    "back_file": "226.png",
+    "back_key": "back/a/d/add7d3ce-aa58-4da0-8c2a-cfd01c3a8975.jpg?1783902911",
+    "collection": "Máfia no cinema",
+    "identified_by": "visual_title_and_rules",
+    "back_key_status": "unconfirmed_edhplay",
+    "front_file": "227.png",
+    "front_key": "front/a/d/add7d3ce-aa58-4da0-8c2a-cfd01c3a8975.jpg?1783902911",
+    "front_key_status": "unconfirmed_edhplay"
+  },
+  "Mangara, the Diplomat": {
+    "file": "228.png",
+    "collection": "Máfia no cinema",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "d372faa19f1cdf2794a84c7f6fb9b8bce2cad55f",
+    "key": "4/9/49d0d7ec-4bee-47d3-91a6-43510be65402.jpg?1783903806",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Chasm Skulker": {
+    "file": "229.png",
+    "collection": "Máfia no cinema",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "22d7b7765151829241d921b004fb9e3247129002",
+    "key": "7/9/794e01e7-430c-43cf-ba2b-1028cd088148.jpg?1783917173",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Riku of Two Reflections": {
+    "file": "230.png",
+    "collection": "Me, Myself & Irene",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "c368f4e90c66fb50c8aa53381734bac42d555430",
+    "key": "7/0/70dd138f-391a-4956-bc2a-fe186429c71a.jpg?1783930128",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Bast, Panther Goddess": {
+    "file": "232.png",
+    "collection": "Avulsas",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "550169385c1591bc4bfbb0bee73f96ed2a5ee676",
+    "key": "c/5/c53a05f1-8e95-4a39-b2a3-a21d3d19b5b3.jpg?1783903277",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Battle Hymn": {
+    "file": "234.png",
+    "collection": "Warhammer 40.000",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "94bab63fe1cf019142ed7a2662f1a715cd7ead0f",
+    "key": "4/3/43b5d46e-7054-44f8-9a14-b412f2f0ab86.jpg?1783940689",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Magnus the Red": {
+    "file": "235.png",
+    "collection": "Warhammer 40.000",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "8ebe01ae77b61743dce87ae47c86f55e6e3314ef",
+    "key": "6/3/63050aa0-a7ea-4fe7-8746-7a11407ea0e4.jpg?1783920843",
+    "key_status": "unconfirmed_edhplay"
+  },
+  "Phlage, Titan of Fire's Fury": {
+    "file": "237.png",
+    "collection": "Avulsas",
+    "identified_by": "visual_title_and_rules",
+    "source_blob_sha": "cc8c40e2b0a52dc3a694f4364d4e4ee2d284b5b2",
+    "key": "e/4/e419cd0b-2449-4cc5-9ead-b9e45e271700.jpg?1783911247",
+    "key_status": "unconfirmed_edhplay"
   }
 }
