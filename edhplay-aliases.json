@@ -103,6 +103,16 @@
         "identified_by": "visual_title_and_rules",
         "source_blob_sha": "a51e9967638dda956e9d1185135871cd8252435f",
         "key": "8/4/84128e98-87d6-4c2f-909b-9435a7833e63.jpg?1783932545"
+      },
+      {
+        "file": "Arcane Signet.png",
+        "collection": "Vihaan",
+        "identified_by": "exact_filename",
+        "source_blob_sha": "b929e122441bdf41b6a19d955fea38cdd373b788",
+        "key": "8/4/84128e98-87d6-4c2f-909b-9435a7833e63.jpg?1783932545",
+        "confirmed_edhplay_decks": [
+          "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+        ]
       }
     ]
   },
@@ -393,7 +403,10 @@
     ],
     "confirmed_edhplay_decks": [
       "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
-    ]
+    ],
+    "collection": "Vihaan",
+    "identified_by": "exact_filename",
+    "source_blob_sha": "d2ed3313521c9f5a461eb44d8decb7b71c6bd692"
   },
   "Confront the Unknown": {
     "file": "Confronte o Desconhecido_ Investigação Sombria.png",
@@ -495,6 +508,16 @@
         "identified_by": "visual_title_and_rules",
         "source_blob_sha": "1a4a95c57023246571466885575652307734d033",
         "key": "b/4/b4b36435-55b3-4615-8812-af41d4fc64d9.jpg?1783915656"
+      },
+      {
+        "file": "Deflecting Swat.png",
+        "collection": "Vihaan",
+        "identified_by": "exact_filename",
+        "source_blob_sha": "fd52b82c3284f3ab2cd4ff9f891a421d95e1f9e3",
+        "key": "b/4/b4b36435-55b3-4615-8812-af41d4fc64d9.jpg?1783915656",
+        "confirmed_edhplay_decks": [
+          "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+        ]
       }
     ]
   },
@@ -1004,6 +1027,18 @@
     "identified_by": "printed_title",
     "confirmed_edhplay_decks": [
       "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ],
+    "alternatives": [
+      {
+        "file": "Lightning Greaves.png",
+        "collection": "Vihaan",
+        "identified_by": "exact_filename",
+        "source_blob_sha": "11833801c6f0797bd9ebeb9b6fbed1e2c9ac32a0",
+        "key": "e/a/ea21033a-9318-4599-a4bc-b7262621d7d8.jpg?1783908470",
+        "confirmed_edhplay_decks": [
+          "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+        ]
+      }
     ]
   },
   "Llanowar Elves": {
@@ -1109,6 +1144,16 @@
         "identified_by": "visual_title_and_rules",
         "source_blob_sha": "75b2cb8c2c8a8a214867554305e81794bd20a4a5",
         "key": "a/a/aac1b0e2-d164-4c98-ab9b-57fbbc95ea0e.jpg?1783905575"
+      },
+      {
+        "file": "Mountain.png",
+        "collection": "Vihaan",
+        "identified_by": "exact_filename",
+        "source_blob_sha": "61e2f03c9d2c9bde53712d73a8d44f34eab0273c",
+        "key": "8/5/85177bd7-6c50-48da-b692-ae5fe7bd357c.jpg?1791578439",
+        "confirmed_edhplay_decks": [
+          "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+        ]
       }
     ],
     "confirmed_edhplay_decks": [
@@ -1246,6 +1291,16 @@
         "identified_by": "visual_title_and_rules",
         "source_blob_sha": "350a95f4ee6a3b03405e6d931a7ecdef4a2e6eba",
         "key": "0/2/021f3a8e-5ce2-4edf-827d-b748d146e6f3.jpg?1783905578"
+      },
+      {
+        "file": "Plains.png",
+        "collection": "Vihaan",
+        "identified_by": "exact_filename",
+        "source_blob_sha": "1b2705b737c8f0888bdfd22c55ac6b585562f435",
+        "key": "0/9/09ac862f-0a51-44dd-b86f-9412b8218b13.jpg?1791578423",
+        "confirmed_edhplay_decks": [
+          "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+        ]
       }
     ]
   },
@@ -1379,6 +1434,18 @@
     "identified_by": "printed_title",
     "confirmed_edhplay_decks": [
       "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ],
+    "alternatives": [
+      {
+        "file": "Seize the Spoils.png",
+        "collection": "Vihaan",
+        "identified_by": "exact_filename",
+        "source_blob_sha": "342e204c944ef1cb7d7421ddd080319b2fdf2c55",
+        "key": "4/d/4ddf4e34-a1f9-4636-942d-0a08e9f94320.jpg?1783903666",
+        "confirmed_edhplay_decks": [
+          "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+        ]
+      }
     ]
   },
   "Shark Shredder, Killer Clone": {
@@ -1429,6 +1496,16 @@
         "identified_by": "visual_title_and_rules",
         "source_blob_sha": "241091e4230f44393b861c08760d07975e32ea4f",
         "key": "3/b/3b6a6593-b08f-4627-99a5-45d68f6e1c59.jpg?1788990335"
+      },
+      {
+        "file": "Sol Ring.png",
+        "collection": "Vihaan",
+        "identified_by": "exact_filename",
+        "source_blob_sha": "f37ec23ab9f8311478c7f818c1630f1eabfec50f",
+        "key": "3/b/3b6a6593-b08f-4627-99a5-45d68f6e1c59.jpg?1788990335",
+        "confirmed_edhplay_decks": [
+          "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+        ]
       }
     ]
   },
@@ -1502,6 +1579,16 @@
         "identified_by": "visual_title_and_rules",
         "source_blob_sha": "9717130fd3e23d6592222828b584334df1b7029f",
         "key": "b/7/b7387103-1df1-4fd0-9e91-1544509792c7.jpg?1785981659"
+      },
+      {
+        "file": "Swamp.png",
+        "collection": "Vihaan",
+        "identified_by": "exact_filename",
+        "source_blob_sha": "339be14452ccfde92f3f3320b0327154373e37e8",
+        "key": "b/2/b233b117-9369-45c1-80c5-cc857386b6be.jpg?1791578437",
+        "confirmed_edhplay_decks": [
+          "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+        ]
       }
     ],
     "confirmed_edhplay_decks": [
@@ -1530,6 +1617,16 @@
         "identified_by": "visual_title_and_rules",
         "source_blob_sha": "24a7aae51e730b067b90d67ee5b23b353c1d1dbd",
         "key": "4/1/41040541-b129-4cf4-9411-09b1d9d32c19.jpg?1783909047"
+      },
+      {
+        "file": "Swiftfoot Boots.png",
+        "collection": "Vihaan",
+        "identified_by": "exact_filename",
+        "source_blob_sha": "150ed424764ac3820c5ad2d9b502a4bba774f08a",
+        "key": "4/1/41040541-b129-4cf4-9411-09b1d9d32c19.jpg?1783909047",
+        "confirmed_edhplay_decks": [
+          "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+        ]
       }
     ]
   },
@@ -1579,6 +1676,18 @@
     ],
     "confirmed_edhplay_decks": [
       "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ],
+    "alternatives": [
+      {
+        "file": "Three Tree City.png",
+        "collection": "Vihaan",
+        "identified_by": "exact_filename",
+        "source_blob_sha": "ca7b3315972aac3091c925332322cc9a84adc42e",
+        "key": "5/6/56f88a48-cced-4a9d-8c19-e4f105f0d8a2.jpg?1783910782",
+        "confirmed_edhplay_decks": [
+          "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+        ]
+      }
     ]
   },
   "Three Visits": {
@@ -1840,6 +1949,18 @@
     "identified_by": "printed_title",
     "confirmed_edhplay_decks": [
       "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ],
+    "alternatives": [
+      {
+        "file": "Reliquary Tower.png",
+        "collection": "Vihaan",
+        "identified_by": "exact_filename",
+        "source_blob_sha": "18d208ba20717b6cac203c70ec12fb75b193efcd",
+        "key": "8/1/81766fd6-c7e0-4527-a63e-512d126c0421.jpg?1783934503",
+        "confirmed_edhplay_decks": [
+          "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+        ]
+      }
     ]
   },
   "Uthros, Titanic Godcore": {
@@ -1879,6 +2000,18 @@
     "identified_by": "printed_title",
     "confirmed_edhplay_decks": [
       "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ],
+    "alternatives": [
+      {
+        "file": "Brass's Bounty.png",
+        "collection": "Vihaan",
+        "identified_by": "exact_filename",
+        "source_blob_sha": "b6926c872297b91e49e858ead1b745b6f3c07f4e",
+        "key": "1/3/13505866-6ce9-4d11-b3f3-fc2f09839b71.jpg?1783935302",
+        "confirmed_edhplay_decks": [
+          "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+        ]
+      }
     ]
   },
   "Big Score": {
@@ -2010,7 +2143,8 @@
         "identified_by": "exact_filename",
         "confirmed_edhplay_decks": [
           "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
-        ]
+        ],
+        "source_blob_sha": "b8a93c36e8781711de5acb2c6c7fb09baab494e7"
       }
     ]
   },
@@ -2027,7 +2161,8 @@
         "identified_by": "exact_filename",
         "confirmed_edhplay_decks": [
           "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
-        ]
+        ],
+        "source_blob_sha": "22e94882f2fd54d288a8edc38b13ffb46c607183"
       }
     ]
   },
@@ -2149,7 +2284,8 @@
         "identified_by": "exact_filename",
         "confirmed_edhplay_decks": [
           "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
-        ]
+        ],
+        "source_blob_sha": "5828323d4091a6260af08f9bd05d3e080cd0d580"
       }
     ]
   },
@@ -2178,7 +2314,8 @@
     "identified_by": "exact_filename",
     "confirmed_edhplay_decks": [
       "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
-    ]
+    ],
+    "source_blob_sha": "3bd6f4e616d9f693277699423f9add396d96a61e"
   },
   "Anointed Procession": {
     "file": "Anointed Procession.png",
@@ -2187,7 +2324,8 @@
     "identified_by": "exact_filename",
     "confirmed_edhplay_decks": [
       "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
-    ]
+    ],
+    "source_blob_sha": "0a91eaea11bfc2e7b08c216a6d89b0c7152d5644"
   },
   "Captain Lannery Storm": {
     "file": "Captain Lannery Storm.png",
@@ -2200,7 +2338,8 @@
     ],
     "confirmed_edhplay_decks": [
       "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
-    ]
+    ],
+    "source_blob_sha": "6449891442892b5734e4ebbcc96aaf5c2ba22fad"
   },
   "Crime Novelist": {
     "file": "Crime Novelist.png",
@@ -2222,7 +2361,8 @@
     ],
     "confirmed_edhplay_decks": [
       "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
-    ]
+    ],
+    "source_blob_sha": "9807120781d4d8552eb7da38784a317e12c0ee62"
   },
   "Generous Plunderer": {
     "file": "Generous Plunderer.png",
@@ -2231,7 +2371,8 @@
     "identified_by": "exact_filename",
     "confirmed_edhplay_decks": [
       "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
-    ]
+    ],
+    "source_blob_sha": "8f74ef34b3d906df4861a3447bbbc08e1ff2ab6f"
   },
   "Grim Hireling": {
     "file": "Grim Hireling.png",
@@ -2253,7 +2394,8 @@
     "identified_by": "exact_filename",
     "confirmed_edhplay_decks": [
       "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
-    ]
+    ],
+    "source_blob_sha": "fc8e80f904b732fa850854b4f0489484bca6780b"
   },
   "Kambal, Profiteering Mayor": {
     "file": "Kambal, Profiteering Mayor.png",
@@ -2262,7 +2404,8 @@
     "identified_by": "exact_filename",
     "confirmed_edhplay_decks": [
       "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
-    ]
+    ],
+    "source_blob_sha": "5b6764ef0f6562adda55d94df3c722b691921ada"
   },
   "Kellogg, Dangerous Mind": {
     "file": "Kellogg, Dangerous Mind.png",
@@ -2271,7 +2414,8 @@
     "identified_by": "exact_filename",
     "confirmed_edhplay_decks": [
       "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
-    ]
+    ],
+    "source_blob_sha": "957839329d884ed1a1c5006f87187d41c98848c0"
   },
   "Land Tax": {
     "file": "Land Tax.png",
@@ -2293,7 +2437,8 @@
     "identified_by": "exact_filename",
     "confirmed_edhplay_decks": [
       "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
-    ]
+    ],
+    "source_blob_sha": "28aebf4daede8ef8104d0bb25dabf3a751c3bb0a"
   },
   "Magda, Brazen Outlaw": {
     "file": "Magda, Brazen Outlaw.png",
@@ -2302,7 +2447,8 @@
     "identified_by": "exact_filename",
     "confirmed_edhplay_decks": [
       "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
-    ]
+    ],
+    "source_blob_sha": "8cbd9205faa135382997dc7eb28c8bb3ee0de7af"
   },
   "Mahadi, Emporium Master": {
     "file": "Mahadi, Emporium Master.png",
@@ -2311,7 +2457,8 @@
     "identified_by": "exact_filename",
     "confirmed_edhplay_decks": [
       "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
-    ]
+    ],
+    "source_blob_sha": "cfca02f28d25c2da11eafa49e4f68df4bff37686"
   },
   "Mari, the Killing Quill": {
     "file": "Mari, the Killing Quill.png",
@@ -2333,7 +2480,8 @@
     ],
     "confirmed_edhplay_decks": [
       "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
-    ]
+    ],
+    "source_blob_sha": "88f3571c275e74caf4844cf0bb719a0bc29fcc14"
   },
   "Mirkwood Bats": {
     "file": "Mirkwood Bats.png",
@@ -2355,7 +2503,8 @@
     ],
     "confirmed_edhplay_decks": [
       "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
-    ]
+    ],
+    "source_blob_sha": "04c873d11c6c8c089893a2a03afc5f1aa7703376"
   },
   "Morbid Opportunist": {
     "file": "Morbid Opportunist.png",
@@ -2368,7 +2517,8 @@
     ],
     "confirmed_edhplay_decks": [
       "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
-    ]
+    ],
+    "source_blob_sha": "e521c0f1d0d61abad8accbc3907dacfb5e727ded"
   },
   "Nadier's Nightblade": {
     "file": "Nadier's Nightblade.png",
@@ -2381,7 +2531,8 @@
     ],
     "confirmed_edhplay_decks": [
       "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
-    ]
+    ],
+    "source_blob_sha": "6d31864253dc845e8df503320da3b0717749078f"
   },
   "Olivia, Opulent Outlaw": {
     "file": "Olivia, Opulent Outlaw.png",
@@ -2390,7 +2541,8 @@
     "identified_by": "exact_filename",
     "confirmed_edhplay_decks": [
       "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
-    ]
+    ],
+    "source_blob_sha": "befda3d2c01daf55ed8db43940f41020f7fdffe8"
   },
   "Pitiless Plunderer": {
     "file": "Pitiless Plunderer.png",
@@ -2412,7 +2564,8 @@
     "identified_by": "exact_filename",
     "confirmed_edhplay_decks": [
       "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
-    ]
+    ],
+    "source_blob_sha": "7b79540994b15edab164b001d006f2ac731140da"
   },
   "Rain of Riches": {
     "file": "Rain of Riches.png",
@@ -2425,7 +2578,8 @@
     ],
     "confirmed_edhplay_decks": [
       "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
-    ]
+    ],
+    "source_blob_sha": "d24009fb7e636013844d330f71eddc8c574ceebb"
   },
   "Reckless Fireweaver": {
     "file": "Reckless Fireweaver.png",
@@ -2434,7 +2588,8 @@
     "identified_by": "exact_filename",
     "confirmed_edhplay_decks": [
       "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
-    ]
+    ],
+    "source_blob_sha": "6d782dd79280932c218424a1b6bfd6f2f0b49a73"
   },
   "Rest in Peace": {
     "file": "Rest in Peace.png",
@@ -2452,7 +2607,8 @@
     "identified_by": "exact_filename",
     "confirmed_edhplay_decks": [
       "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
-    ]
+    ],
+    "source_blob_sha": "2c29862c1d70ee2baf5cdd01d084e4c030c1e948"
   },
   "Smothering Tithe": {
     "file": "Smothering Tithe.png",
@@ -2474,7 +2630,8 @@
         "source_blob_sha": "a6d3616dbbabe7b46c2caa8391004583d018fe47",
         "key": "8/6/861b5889-0183-4bee-afeb-a4b2aa700a8e.jpg?1783915712"
       }
-    ]
+    ],
+    "source_blob_sha": "f73f12f582a6c5e1ca66c3199f6e9bf39beef21c"
   },
   "Species Specialist": {
     "file": "Species Specialist.png",
@@ -2483,7 +2640,8 @@
     "identified_by": "exact_filename",
     "confirmed_edhplay_decks": [
       "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
-    ]
+    ],
+    "source_blob_sha": "dadc0d482b38932b55acc65cc79ac6bde2dfb08c"
   },
   "Vihaan, Goldwaker": {
     "file": "Vihaan, Goldwaker.png",
@@ -2492,7 +2650,8 @@
     "identified_by": "exact_filename",
     "confirmed_edhplay_decks": [
       "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
-    ]
+    ],
+    "source_blob_sha": "7f6bb60dccecfbda46a979c3677aec8dd1cf690d"
   },
   "Xorn": {
     "file": "Xorn.png",
@@ -2501,7 +2660,8 @@
     "identified_by": "exact_filename",
     "confirmed_edhplay_decks": [
       "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
-    ]
+    ],
+    "source_blob_sha": "3e6ac78b6dd74d5aaf9f1167919c49c7f2eb4561"
   },
   "Zulaport Cutthroat": {
     "file": "Zulaport Cutthroat.png",
@@ -2514,7 +2674,8 @@
     ],
     "confirmed_edhplay_decks": [
       "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
-    ]
+    ],
+    "source_blob_sha": "6d17b6359b6aa21f90a618a88b5b3a936d2968e9"
   },
   "Aurelia, the Warleader": {
     "file": "2.png",
@@ -3195,7 +3356,19 @@
     "identified_by": "visual_title_and_rules",
     "source_blob_sha": "450a3ca5662b4f21cf5432a8c900e35259d4ea0f",
     "key": "3/c/3c409d1e-f634-44a2-8fcf-dcdcb0babc3f.jpg?1783903199",
-    "key_status": "unconfirmed_edhplay"
+    "key_status": "unconfirmed_edhplay",
+    "alternatives": [
+      {
+        "file": "Luxury Suite.png",
+        "collection": "Vihaan",
+        "identified_by": "exact_filename",
+        "source_blob_sha": "3c9bed03a9419de196442931c3b05a9bfeb6fbbf",
+        "key": "3/c/3c409d1e-f634-44a2-8fcf-dcdcb0babc3f.jpg?1783903199",
+        "confirmed_edhplay_decks": [
+          "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+        ]
+      }
+    ]
   },
   "Undergrowth Stadium": {
     "file": "103.png",
@@ -3219,7 +3392,19 @@
     "identified_by": "visual_title_and_rules",
     "source_blob_sha": "40e6b7f93e098db58918a7b987acea91db7eaff0",
     "key": "4/c/4c62dcfc-4bc8-4551-b3c7-9eec26be3362.jpg?1783903192",
-    "key_status": "unconfirmed_edhplay"
+    "key_status": "unconfirmed_edhplay",
+    "alternatives": [
+      {
+        "file": "Spectator Seating.png",
+        "collection": "Vihaan",
+        "identified_by": "exact_filename",
+        "source_blob_sha": "5456802fe29d4cb5425574bbecb3a2765e24bd2a",
+        "key": "d/c/dcf3140f-d5c8-45ff-8be4-622b1a129b3d.jpg?1783915584",
+        "confirmed_edhplay_decks": [
+          "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+        ]
+      }
+    ]
   },
   "Sea of Clouds": {
     "file": "106.png",
@@ -3243,7 +3428,19 @@
     "identified_by": "visual_title_and_rules",
     "source_blob_sha": "e74733898c46249bd5d49accbdea20d0c11168d1",
     "key": "c/a/cafd7db6-b04e-4fa2-bccd-981211132a93.jpg?1783915582",
-    "key_status": "unconfirmed_edhplay"
+    "key_status": "unconfirmed_edhplay",
+    "alternatives": [
+      {
+        "file": "Vault of Champions.png",
+        "collection": "Vihaan",
+        "identified_by": "exact_filename",
+        "source_blob_sha": "6bbc52d9848fb240d2a4a556c57c84fbeba2a349",
+        "key": "c/a/cafd7db6-b04e-4fa2-bccd-981211132a93.jpg?1783915582",
+        "confirmed_edhplay_decks": [
+          "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+        ]
+      }
+    ]
   },
   "Spire Garden": {
     "file": "110.png",
@@ -3522,7 +3719,19 @@
     "identified_by": "visual_title_and_rules",
     "source_blob_sha": "6685a2e6726d9d19f7285604e2a7c923853d3735",
     "key": "5/5/55b5b094-9d2d-4d96-b90c-78fecdae725a.jpg?1783903734",
-    "key_status": "unconfirmed_edhplay"
+    "key_status": "unconfirmed_edhplay",
+    "alternatives": [
+      {
+        "file": "Bojuka Bog.png",
+        "collection": "Vihaan",
+        "identified_by": "exact_filename",
+        "source_blob_sha": "1ab1be1f1e59a634049466a450345c355f7f3554",
+        "key": "e/2/e274ab43-9cc1-4a07-8af0-e4cf72692260.jpg?1783931759",
+        "confirmed_edhplay_decks": [
+          "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+        ]
+      }
+    ]
   },
   "Ghyrson Starn, Kelermorph": {
     "file": "152.png",
@@ -3873,7 +4082,19 @@
     "identified_by": "visual_title_and_rules",
     "source_blob_sha": "c19abe5ab75dffdceb674955d7ad1b36bef6d8b0",
     "key": "2/2/22e08a78-55b7-46b0-bd1a-a51548fc1861.jpg?1789599789",
-    "key_status": "unconfirmed_edhplay"
+    "key_status": "unconfirmed_edhplay",
+    "alternatives": [
+      {
+        "file": "Path to Exile.png",
+        "collection": "Vihaan",
+        "identified_by": "exact_filename",
+        "source_blob_sha": "2835c02fb40d53155643b0c051b913a791e1a37d",
+        "key": "0/2/02bfeace-61d9-4db3-ae48-87334151a496.jpg?1788990356",
+        "confirmed_edhplay_decks": [
+          "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+        ]
+      }
+    ]
   },
   "Ob Nixilis, Captive Kingpin": {
     "file": "213.png",
@@ -4044,5 +4265,357 @@
     "source_blob_sha": "cc8c40e2b0a52dc3a694f4364d4e4ee2d284b5b2",
     "key": "e/4/e419cd0b-2449-4cc5-9ead-b9e45e271700.jpg?1783911247",
     "key_status": "unconfirmed_edhplay"
+  },
+  "Blood Crypt": {
+    "file": "Blood Crypt.png",
+    "collection": "Vihaan",
+    "identified_by": "exact_filename",
+    "source_blob_sha": "65b3136b4d1f996cc483cfd325b3c05cd7b456b2",
+    "key": "1/b/1b7eb998-3ec0-4cbc-a416-5a1e3e5a7316.jpg?1784036817",
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
+  },
+  "Fountainport": {
+    "file": "Fountainport.png",
+    "collection": "Vihaan",
+    "identified_by": "exact_filename",
+    "source_blob_sha": "840e03917e67c793a709b56615db49668d01000b",
+    "key": "6/5/658cfcb7-81b7-48c6-9dd2-1663d06108cf.jpg?1783910785",
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
+  },
+  "Godless Shrine": {
+    "file": "Godless Shrine.png",
+    "collection": "Vihaan",
+    "identified_by": "exact_filename",
+    "source_blob_sha": "d11c0a86843489cdbd838ff4fc17ef5c1106a0ca",
+    "key": "8/f/8fbd1ae0-3d4c-492a-a1ea-85a95fa3d7b6.jpg?1784036826",
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
+  },
+  "Haunted Ridge": {
+    "file": "Haunted Ridge.png",
+    "collection": "Vihaan",
+    "identified_by": "exact_filename",
+    "source_blob_sha": "82f84305098f542b776a39a20653161246359a85",
+    "key": "a/4/a4e4966b-8963-4fac-a8bf-e778e063c7dd.jpg?1788878241",
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
+  },
+  "Mines of Moria": {
+    "file": "Mines of Moria.png",
+    "collection": "Vihaan",
+    "identified_by": "exact_filename",
+    "source_blob_sha": "edabec3cbd54d6518104f288d4d1cb8304693a92",
+    "key": "0/b/0be723d6-4ada-4c3f-b87b-8ab83a4bbb8f.jpg?1783916232",
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
+  },
+  "Sacred Foundry": {
+    "file": "Sacred Foundry.png",
+    "collection": "Vihaan",
+    "identified_by": "exact_filename",
+    "source_blob_sha": "d4d76ddc5bacc441f1984011369123b12a88da29",
+    "key": "a/7/a7758cc6-4e18-48a5-8720-5f42b5cd9d31.jpg?1784036842",
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
+  },
+  "Shattered Sanctum": {
+    "file": "Shattered Sanctum.png",
+    "collection": "Vihaan",
+    "identified_by": "exact_filename",
+    "source_blob_sha": "6c2e454f97ffb22ce4902f6b78f813041c01f0ce",
+    "key": "5/a/5aa0c810-3b7d-4661-979e-e84fb327742d.jpg?1783903618",
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
+  },
+  "Sundown Pass": {
+    "file": "Sundown Pass.png",
+    "collection": "Vihaan",
+    "identified_by": "exact_filename",
+    "source_blob_sha": "039bb8e5a935c97c0ba09a3b380f8a044518a2b8",
+    "key": "b/3/b34000e9-ff20-4fb4-9d0b-03a172a92457.jpg?1783903618",
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
+  },
+  "Urborg, Tomb of Yawgmoth": {
+    "file": "Urborg, Tomb of Yawgmoth.png",
+    "collection": "Vihaan",
+    "identified_by": "exact_filename",
+    "source_blob_sha": "978edf7fd0543eb3d684b7631528a993d80ecd94",
+    "key": "f/a/fa48b15c-7312-4f3f-b7aa-b2ad98234bf1.jpg?1783939151",
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
+  },
+  "Vault of the Archangel": {
+    "file": "Vault of the Archangel.png",
+    "collection": "Vihaan",
+    "identified_by": "exact_filename",
+    "source_blob_sha": "af7f3747086bb9626f1ba3f140d252df59fdf013",
+    "key": "8/f/8f203f04-bd73-4d88-bb5e-aab63507dbd1.jpg?1783906959",
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
+  },
+  "Dark Ritual": {
+    "file": "Dark Ritual.png",
+    "collection": "Vihaan",
+    "identified_by": "exact_filename",
+    "source_blob_sha": "d8065a24e2d242221744295c7ee56bd1bf848289",
+    "key": "4/9/493a5ca7-5f90-4af4-b6db-43ae09a2f2c9.jpg?1783931816",
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
+  },
+  "Dispatch": {
+    "file": "Dispatch.png",
+    "collection": "Vihaan",
+    "identified_by": "exact_filename",
+    "source_blob_sha": "107594e7594dee2297ccb711e3bd06d5d2cb6204",
+    "key": "2/4/242aeb96-0163-4d3d-9cc1-43c37a9278f5.jpg?1783938428",
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
+  },
+  "Great Train Heist": {
+    "file": "Great Train Heist.png",
+    "collection": "Vihaan",
+    "identified_by": "exact_filename",
+    "source_blob_sha": "83ff9c91d40c238cc3d88f92ecd317073ad35be4",
+    "key": "3/5/357dd9b2-5d2d-49f6-86f0-f5c4d63474dd.jpg?1783911821",
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
+  },
+  "Swords to Plowshares": {
+    "file": "Swords to Plowshares.png",
+    "collection": "Vihaan",
+    "identified_by": "exact_filename",
+    "source_blob_sha": "df9ba06ca3c83b216288b307ee7e7b423d604861",
+    "key": "7/4/7430b1e0-b91d-412b-8b0c-d480c3ce4165.jpg?1788990727",
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
+  },
+  "Boros Charm": {
+    "file": "Boros Charm.png",
+    "collection": "Vihaan",
+    "identified_by": "exact_filename",
+    "source_blob_sha": "be2e420f57f6dde8c6f9996c7639c1bdcdcfd760",
+    "key": "e/0/e0d8c9f6-cbbd-4694-b100-01cfb81036cc.jpg?1783908890",
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
+  },
+  "Deadly Dispute": {
+    "file": "Deadly Dispute.png",
+    "collection": "Vihaan",
+    "identified_by": "exact_filename",
+    "source_blob_sha": "7ebd869dda8841f5cd0e1ceff377cdf46491c83f",
+    "key": "7/3/7373fe95-ad1c-44b9-8c7f-464ce8cbffc6.jpg?1783926501",
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
+  },
+  "Gleaming Splendor": {
+    "file": "Gleaming Splendor.png",
+    "collection": "Vihaan",
+    "identified_by": "exact_filename",
+    "source_blob_sha": "c014d924f3598c5899c109426de541dd2522d65e",
+    "key": "3/b/3b087bd4-bbb7-4963-bdb6-0a700ff19a04.jpg?1785496942",
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
+  },
+  "Idol of Oblivion": {
+    "file": "Idol of Oblivion.png",
+    "collection": "Vihaan",
+    "identified_by": "exact_filename",
+    "source_blob_sha": "dae5b1dda768bb9bcbdfd1e4b13e54c99c89fcbc",
+    "key": "f/8/f8692db5-6f2d-4330-9e23-1c3246898a35.jpg?1787681677",
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
+  },
+  "Shoot the Sheriff": {
+    "file": "Shoot the Sheriff.png",
+    "collection": "Vihaan",
+    "identified_by": "exact_filename",
+    "source_blob_sha": "cde07b75980cc14d3220992446bd1cac6724ce36",
+    "key": "1/8/180d6528-c524-4bb8-8a72-b3775cd2c177.jpg?1783911827",
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
+  },
+  "Talisman of Conviction": {
+    "file": "Talisman of Conviction.png",
+    "collection": "Vihaan",
+    "identified_by": "exact_filename",
+    "source_blob_sha": "795dd4da33856f0f17b30a80db21a4d6b1ab10e0",
+    "key": "2/9/293a58b9-2cf5-4898-8261-b7c51edc2051.jpg?1783915398",
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
+  },
+  "Talisman of Hierarchy": {
+    "file": "Talisman of Hierarchy.png",
+    "collection": "Vihaan",
+    "identified_by": "exact_filename",
+    "source_blob_sha": "f5eab95f19848cf48c16542099b0a5434f73fa87",
+    "key": "0/c/0c959368-2f58-48de-b7a5-2bab408652b5.jpg?1783903737",
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
+  },
+  "Talisman of Indulgence": {
+    "file": "Talisman of Indulgence.png",
+    "collection": "Vihaan",
+    "identified_by": "exact_filename",
+    "source_blob_sha": "4377431a795262c0f380b6af559f26415b8a5c46",
+    "key": "3/6/36bd614f-ab3b-4ad1-ab5c-a7ca0a641f32.jpg?1789599847",
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
+  },
+  "Untimely Malfunction": {
+    "file": "Untimely Malfunction.png",
+    "collection": "Vihaan",
+    "identified_by": "exact_filename",
+    "source_blob_sha": "daa4651d7de707d197292308c25417c77fb61e5d",
+    "key": "8/5/857bfb0e-17dc-4dda-bc37-3df927a9eae6.jpg?1783909463",
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
+  },
+  "Anguished Unmaking": {
+    "file": "Anguished Unmaking.png",
+    "collection": "Vihaan",
+    "identified_by": "exact_filename",
+    "source_blob_sha": "2ab99e2d59ee3fc0c650c108fdc9c05e0303bc56",
+    "key": "9/0/90ced4fa-6509-4f7a-9da7-efc70de6f90c.jpg?1783937714",
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
+  },
+  "Flawless Maneuver": {
+    "file": "Flawless Maneuver.png",
+    "collection": "Vihaan",
+    "identified_by": "exact_filename",
+    "source_blob_sha": "1e377dcd087f1e376159e2de10a918ee7538f508",
+    "key": "a/b/ab12f69e-1491-47a8-8c46-d85bbf637ff6.jpg?1783915723",
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
+  },
+  "Seize the Spotlight": {
+    "file": "Seize the Spotlight.png",
+    "collection": "Vihaan",
+    "identified_by": "exact_filename",
+    "source_blob_sha": "7743f1daadca5b4fbff1470ee9872dcd69363500",
+    "key": "0/1/01fe0af9-55b4-4390-8de4-2cd58aa7efde.jpg?1783911916",
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
+  },
+  "Teferi's Protection": {
+    "file": "Teferi's Protection.png",
+    "collection": "Vihaan",
+    "identified_by": "exact_filename",
+    "source_blob_sha": "5930618aecc858e72de872f6ab5e012aa361f269",
+    "key": "4/8/483fa1cb-1e35-44f2-a143-98c0f107f5ca.jpg?1783921926",
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
+  },
+  "The Reaver Cleaver": {
+    "file": "The Reaver Cleaver.png",
+    "collection": "Vihaan",
+    "identified_by": "exact_filename",
+    "source_blob_sha": "cab956be77d975cfb4f6c6ac6c33a1c6f3cdf861",
+    "key": "1/0/10e6f41c-cb5a-48ea-9ae6-86249bcce629.jpg?1783913661",
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
+  },
+  "Akroma's Will": {
+    "file": "Akroma's Will.png",
+    "collection": "Vihaan",
+    "identified_by": "exact_filename",
+    "source_blob_sha": "b242f093680221f861eb2507784a4091d487aff2",
+    "key": "b/d/bda58c92-4356-44b4-bbb7-78d90900bb08.jpg?1787679388",
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
+  },
+  "Alchemist's Talent": {
+    "file": "Alchemist's Talent.png",
+    "collection": "Vihaan",
+    "identified_by": "exact_filename",
+    "source_blob_sha": "e7fb84a11d36ea4623d6e5b8845c87e3f0b9c587",
+    "key": "2/f/2fb8dace-c604-40fc-bbd4-5add5deb041a.jpg?1783910731",
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
+  },
+  "Unexpected Windfall": {
+    "file": "Unexpected Windfall.png",
+    "collection": "Vihaan",
+    "identified_by": "exact_filename",
+    "source_blob_sha": "50af9964603bc78a8344df83fc25c2d0a44dedb0",
+    "key": "b/a/bae6a5fb-39f5-4cf8-85f7-661cb4570507.jpg?1783926470",
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
+  },
+  "Inspired Tinkering": {
+    "file": "Inspired Tinkering.png",
+    "collection": "Vihaan",
+    "identified_by": "exact_filename",
+    "source_blob_sha": "f44727533f7c322f4b7de0177ce7663ee7b8e667",
+    "key": "8/e/8e4cfc1f-5075-481e-9314-8a99fe6f0f07.jpg?1783910083",
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
+  },
+  "Ruinous Ultimatum": {
+    "file": "Ruinous Ultimatum.png",
+    "collection": "Vihaan",
+    "identified_by": "exact_filename",
+    "source_blob_sha": "9335f2d594b2be19fae5f1ad6ff4aa1e2f5d5623",
+    "key": "5/0/50c1d6ca-7789-46b5-bc89-85cc3915cb85.jpg?1783931018",
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
+  },
+  "Blasphemous Act": {
+    "file": "Blasphemous Act.png",
+    "collection": "Vihaan",
+    "identified_by": "exact_filename",
+    "source_blob_sha": "9e27437175d047e5d67424b02f16435a3aec99cd",
+    "key": "f/0/f038d13b-5ef6-46e0-b04c-9407a9fed754.jpg?1783903461",
+    "confirmed_edhplay_decks": [
+      "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ]
+  },
+  "Construct — Vihaan": {
+    "file": "Token Construct.png",
+    "collection": "Vihaan",
+    "identified_by": "exact_filename_and_visual_token",
+    "source_blob_sha": "0fe90cdea07d2b68196044dc38290847bc2633ba"
+  },
+  "Treasure — Vihaan": {
+    "file": "Token Treasure.png",
+    "collection": "Vihaan",
+    "identified_by": "exact_filename_and_visual_token",
+    "source_blob_sha": "08335138e532653fec8e32f21b61bd3da87302b6"
   }
 }
