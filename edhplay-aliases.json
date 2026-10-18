@@ -492,6 +492,21 @@
     "collection": "Yurlok",
     "confirmed_edhplay_decks": [
       "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ],
+    "alternatives": [
+      {
+        "file": "Deadly_Rollick.png",
+        "collection": "Vihaan",
+        "identified_by": "exact_filename",
+        "source_blob_sha": "186f4356fb26ec75f34834bff0f2c20eb5839d14",
+        "key": "0/e/0e13f735-54fa-42b6-aea4-ced33811d7d4.jpg?1783915679",
+        "confirmed_edhplay_decks": [
+          "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+        ]
+      }
+    ],
+    "excluded_files": [
+      "Deadly Rollick.png"
     ]
   },
   "Deflecting Swat": {
@@ -2021,6 +2036,21 @@
     "identified_by": "printed_title",
     "confirmed_edhplay_decks": [
       "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ],
+    "alternatives": [
+      {
+        "file": "Big_Score.png",
+        "collection": "Vihaan",
+        "identified_by": "exact_filename",
+        "source_blob_sha": "718a5ab359bc2cafeef9c542c5dd13b944032862",
+        "key": "3/9/39d1578f-e2cf-4b93-8204-ed5434feb183.jpg?1783923123",
+        "confirmed_edhplay_decks": [
+          "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+        ]
+      }
+    ],
+    "excluded_files": [
+      "Big Score.png"
     ]
   },
   "Farseek": {
@@ -2109,7 +2139,20 @@
         "confirmed_edhplay_decks": [
           "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
         ]
+      },
+      {
+        "file": "Smaug_the_Magnificent.png",
+        "collection": "Vihaan",
+        "identified_by": "exact_filename",
+        "source_blob_sha": "477766cc3418b391aa6ff4861470e1187acbcb80",
+        "key": "6/a/6a5d8fad-2ffd-4645-8c49-907999b6cecf.jpg?1783902784",
+        "confirmed_edhplay_decks": [
+          "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+        ]
       }
+    ],
+    "excluded_files": [
+      "Smaug the Magnificent.png"
     ]
   },
   "Hellkite Tyrant": {
@@ -2348,6 +2391,21 @@
     "identified_by": "exact_filename",
     "confirmed_edhplay_decks": [
       "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ],
+    "alternatives": [
+      {
+        "file": "Crime_Novelist.png",
+        "collection": "Vihaan",
+        "identified_by": "exact_filename",
+        "source_blob_sha": "310e50c549b33e539d760428f5c731ceb34e8f5e",
+        "key": "1/4/14a5cd7c-b0b1-4ffa-a806-bb0e73baffad.jpg?1783912882",
+        "confirmed_edhplay_decks": [
+          "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+        ]
+      }
+    ],
+    "excluded_files": [
+      "Crime Novelist.png"
     ]
   },
   "Cruel Celebrant": {
@@ -2385,6 +2443,21 @@
     ],
     "confirmed_edhplay_decks": [
       "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ],
+    "alternatives": [
+      {
+        "file": "Grim_Hireling.png",
+        "collection": "Vihaan",
+        "identified_by": "exact_filename",
+        "source_blob_sha": "9e09947ea7a73fd7e661649ecdf488cc5488b950",
+        "key": "b/4/b4fe104c-34ff-4b17-a703-98e7dedcb518.jpg?1783910427",
+        "confirmed_edhplay_decks": [
+          "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+        ]
+      }
+    ],
+    "excluded_files": [
+      "Grim Hireling.png"
     ]
   },
   "Jan Jansen, Chaos Crafter": {
@@ -2428,6 +2501,21 @@
     ],
     "confirmed_edhplay_decks": [
       "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ],
+    "alternatives": [
+      {
+        "file": "Land_Tax.png",
+        "collection": "Vihaan",
+        "identified_by": "exact_filename",
+        "source_blob_sha": "ee3d76dd5cf7b0be9a9a8f3c9165427a9f88ac33",
+        "key": "9/2/9258ad10-cbe6-4676-93b4-6ef4a33f12ee.jpg?1783915719",
+        "confirmed_edhplay_decks": [
+          "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+        ]
+      }
+    ],
+    "excluded_files": [
+      "Land Tax.png"
     ]
   },
   "Lotho, Corrupt Shirriff": {
@@ -2467,6 +2555,21 @@
     "identified_by": "exact_filename",
     "confirmed_edhplay_decks": [
       "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ],
+    "alternatives": [
+      {
+        "file": "Mari_the_Killing_Quill.png",
+        "collection": "Vihaan",
+        "identified_by": "exact_filename",
+        "source_blob_sha": "1e6eb22ae9398a3d9278834da068fe307be5591d",
+        "key": "6/b/6b4b3c1a-671c-422d-a98c-7d750760ca46.jpg?1783911928",
+        "confirmed_edhplay_decks": [
+          "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+        ]
+      }
+    ],
+    "excluded_files": [
+      "Mari, the Killing Quill.png"
     ]
   },
   "Mayhem Devil": {
@@ -2490,6 +2593,21 @@
     "identified_by": "exact_filename",
     "confirmed_edhplay_decks": [
       "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ],
+    "alternatives": [
+      {
+        "file": "Mirkwood_Bats.png",
+        "collection": "Vihaan",
+        "identified_by": "exact_filename",
+        "source_blob_sha": "a0a248ac6e8048cab71cd03360cda28470fdf36f",
+        "key": "1/5/15f035df-784a-4dc8-b7f5-77139a4e6e99.jpg?1783916303",
+        "confirmed_edhplay_decks": [
+          "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+        ]
+      }
+    ],
+    "excluded_files": [
+      "Mirkwood Bats.png"
     ]
   },
   "Monologue Tax": {
@@ -2555,6 +2673,21 @@
     ],
     "confirmed_edhplay_decks": [
       "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ],
+    "alternatives": [
+      {
+        "file": "Pitiless_Plunderer.png",
+        "collection": "Vihaan",
+        "identified_by": "exact_filename",
+        "source_blob_sha": "8b794c56f17b23ab48a7b5748855f123fee0aa9e",
+        "key": "c/8/c87ebffe-5907-427b-9f9b-7c36a12b4a03.jpg?1783935307",
+        "confirmed_edhplay_decks": [
+          "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+        ]
+      }
+    ],
+    "excluded_files": [
+      "Pitiless Plunderer.png"
     ]
   },
   "Professional Face-Breaker": {
@@ -2598,6 +2731,21 @@
     "identified_by": "exact_filename",
     "confirmed_edhplay_decks": [
       "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+    ],
+    "alternatives": [
+      {
+        "file": "Rest_in_Peace.png",
+        "collection": "Vihaan",
+        "identified_by": "exact_filename",
+        "source_blob_sha": "cb0b3d5e219d37d175a616bf82ba42cc57e740f8",
+        "key": "d/1/d108c2b1-236e-4b8d-8445-d9749ccc4fea.jpg?1783912003",
+        "confirmed_edhplay_decks": [
+          "27bd7f5a-e4ef-453e-a75f-b0367184f1b0"
+        ]
+      }
+    ],
+    "excluded_files": [
+      "Rest in Peace.png"
     ]
   },
   "Revel in Riches": {
@@ -4617,5 +4765,14 @@
     "collection": "Vihaan",
     "identified_by": "exact_filename_and_visual_token",
     "source_blob_sha": "08335138e532653fec8e32f21b61bd3da87302b6"
+  },
+  "Servo — Vihaan": {
+    "file": "Token_Servo.png",
+    "collection": "Vihaan",
+    "identified_by": "exact_filename_and_visual_token",
+    "source_blob_sha": "08e330e971783c785989ace977f224ba19ebc6f0",
+    "excluded_files": [
+      "Token Servo.png"
+    ]
   }
 }
